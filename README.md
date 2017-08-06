@@ -1,14 +1,29 @@
-[Under Construction]
-
-The San Francisco Open Source Voting System Technical Advisory Committee
-(TAC) was formed in April 2017 by the [San Francisco
+The [San Francisco Open Source Voting System Technical Advisory Committee
+(TAC)](index) was formed in April 2017 by the [San Francisco
 Elections Commission](http://sfgov.org/electionscommission/).
 
-The TAC Bylaws can be found on the Commission's
-[Documents page](http://sfgov.org/electionscommission/documents).
 
-# Contents
+# Site Contents
 
 - [About](about)
 - [Past Meetings](past-meetings)
 - [Member Attendance](attendance)
+
+
+# Next Meeting
+
+| Date | Time | Location | Agenda | Packet |
+|:-----|:-----|:---------|:-------|:-------|
+| Wed, August 30, 2017 | 6:00PM | City Hall, Room 421 | TBA | |
+
+For meeting announcements via Twitter, you can also follow the Elections
+Commission Twitter account here:
+[@SFElectionsComm](https://twitter.com/SFElectionsComm).
+
+
+# Links
+
+- [GitHub Account](https://github.com/SFOSVSTAC)
+- Draft Recommendations (TBA)
+- [San Francisco Elections Commission](http://sfgov.org/electionscommission/)
+- [San Francisco Department of Elections](http://www.sfelections.org/)
