@@ -9,5 +9,6 @@ The TAC Bylaws can be found on the Commission's
 
 # Contents
 
+- [About](about)
 - [Past Meetings](past-meetings)
-
+- [Member Attendance](attendance)
