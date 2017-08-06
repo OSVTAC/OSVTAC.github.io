@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+#forkme_banner {
+  background: url('../images/blacktocat.png') #7FC7FF no-repeat 95% 50%;
+  box-shadow: none;
+}
+
 #header_wrap {
   // background: #F6F6F6;
   background: #E5E5E5;
@@ -16,4 +21,9 @@
 #project_tagline {
   color: black;
   text-shadow: none;
+}
+
+#main_content_wrap {
+  background: white;
+  border-top: none;
 }
