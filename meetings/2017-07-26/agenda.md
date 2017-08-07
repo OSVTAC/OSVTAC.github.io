@@ -1,12 +1,12 @@
-# July 26, 2017 Meeting Agenda
+Meeting Agenda: July 26, 2017
 
-<div style="float:right;">
+<div id="meeting_header_right" class="headered">
 Elections Commission<br>
 City and County of San Francisco<br>
 Don Chan, Secretary<br>
 </div>
 
-<div align="left">
+<div class="headered">
 Open Source Voting System Technical Advisory Committee<br>
 Christopher Jerdonek, Chair<br>
 Larry Bafundo<br>
@@ -15,7 +15,7 @@ Roan Kattouw<br>
 Tony Wasserman<br>
 </div>
 
-<div align="center">
+<div id="meeting_header_main" class="headered">
 INAUGURAL MEETING AGENDA<br>
 Open Source Voting System Technical Advisory Committee<br>
 of the San Francisco Elections Commission<br>

@@ -30,3 +30,21 @@ th {
   background: #d3edfd;
   color: black;
 }
+
+.headered::first-line {
+  font-weight: bold;
+}
+
+// TODO: DRY this up with the above.
+ol li::first-line {
+  font-weight: bold;
+}
+
+#meeting_header_right {
+  float: right;
+  text-align: right;
+}
+
+#meeting_header_main {
+  text-align: center;
+}
