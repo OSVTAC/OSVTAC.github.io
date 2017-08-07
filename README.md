@@ -23,7 +23,7 @@ Commission Twitter account here:
 
 # Links
 
-- [GitHub Account](https://github.com/SFOSVSTAC)
+- [GitHub Account](https://github.com/OSVTAC)
 - Draft Recommendations (TBA)
 - [San Francisco Elections Commission](http://sfgov.org/electionscommission/)
 - [San Francisco Department of Elections](http://www.sfelections.org/)
