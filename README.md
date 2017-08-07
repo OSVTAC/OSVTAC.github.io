@@ -1,6 +1,6 @@
 The [San Francisco Open Source Voting System Technical Advisory Committee
 (TAC)](index) was formed in April 2017 by the [San Francisco
-Elections Commission](http://sfgov.org/electionscommission/).
+Elections Commission](https://sfgov.org/electionscommission).
 
 
 # Site Contents
@@ -25,5 +25,5 @@ Commission Twitter account here:
 
 - [GitHub Account](https://github.com/OSVTAC)
 - Draft Recommendations (TBA)
-- [San Francisco Elections Commission](http://sfgov.org/electionscommission/)
-- [San Francisco Department of Elections](http://www.sfelections.org/)
+- [San Francisco Elections Commission](https://sfgov.org/electionscommission)
+- [San Francisco Department of Elections](https://www.sfelections.org)

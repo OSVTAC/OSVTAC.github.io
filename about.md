@@ -1,7 +1,7 @@
 # About
 
 The TAC Bylaws can be found on the Commission's
-[Documents page](http://sfgov.org/electionscommission/documents).
+[Documents page](https://sfgov.org/electionscommission/documents).
 
 ## Members
 
