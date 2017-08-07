@@ -11,9 +11,11 @@ customized version of GitHub's
 Setup
 -----
 
-Install a current version of Ruby.  We recommend using
-[rvm](https://rvm.io/) to install and manage the versions of Ruby
-installed on your machine.
+Install a current version of [Ruby](https://www.ruby-lang.org).
+As of August 2017, the latest stable version was 2.4.1.
+
+We recommend using [rvm](https://rvm.io/) to install and manage the
+versions of Ruby installed on your machine.
 
 You can check what version of Ruby you are currently using by running:
 
