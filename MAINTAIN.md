@@ -25,6 +25,13 @@ With rvm, you can list all of your installed Ruby versions with:
 
     $ rvm list
 
+From the repository root--
+
+    $ bundle install
+
+The above installs the version of each needed gems (project dependency),
+as specified in `Gemfile.lock`.
+
 
 Running Locally
 ---------------
@@ -33,3 +40,15 @@ To run and preview the site locally, run the following from the
 repo root:
 
     $ bundle exec jekyll serve
+
+This writes the generated pages to a subdirectory called `_site`.
+
+
+Deploying
+---------
+
+Pushing new commits to the master branch will automatically update
+the rendered page on GitHub pages.
+
+You can see whether this was successful by looking for a green
+check mark next to the commit in GitHub's UI.
