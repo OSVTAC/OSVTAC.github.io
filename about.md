@@ -1,7 +1,8 @@
 # About
 
 The TAC Bylaws can be found on the Commission's
-[Documents page](https://sfgov.org/electionscommission/documents).
+[OSVTAC page](https://sfgov.org/electionscommission/osvtac/).
+
 
 ## Members
 
