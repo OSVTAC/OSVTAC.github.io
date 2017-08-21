@@ -17,7 +17,3 @@ The TAC Bylaws can be found on the Commission's
 To contact the Committee, you can email the Commitee Chair above, or the
 Commission Secretary at
 <a href="mailto:elections.commission@sfgov.org">elections.commission@sfgov.org</a>.
-
-### Bios
-
-TODO
