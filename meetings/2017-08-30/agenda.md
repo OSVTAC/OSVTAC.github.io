@@ -1,4 +1,5 @@
-Meeting Agenda: July 26, 2017
+Meeting Agenda: August 30, 2017
+
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -9,54 +10,103 @@ Don Chan, Secretary<br>
 <div class="headered">
 Open Source Voting System Technical Advisory Committee<br>
 Christopher Jerdonek, Chair<br>
-Larry Bafundo<br>
+Larry Bafundo, Vice Chair<br>
 Carl Hage<br>
 Roan Kattouw<br>
 Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-INAUGURAL MEETING AGENDA<br>
+MEETING AGENDA<br>
 Open Source Voting System Technical Advisory Committee<br>
 of the San Francisco Elections Commission<br>
-Wednesday, July 26, 2017<br>
+Wednesday, August 30, 2017<br>
 6:00 p.m.<br>
-City Hall, Room 305<br>
+City Hall, Room 421<br>
 1 Dr. Carlton B. Goodlett Place<br>
 San Francisco, California 94102<br>
 </div>
 
+**[Note: hyperlinks to agenda packet documents will be inserted below
+as soon as they are available.]**
+
 Order of Business
 
-1. Call to Order & Roll Call
+1.  Call to Order & Roll Call
 
-2. Introductions
+2.  General Public Comment
 
-3. General Public Comment
+    Public comment on any issue within the Committee’s general jurisdiction that is not covered by another item on this agenda.
 
-   Public comment on any issue within the Committee’s general jurisdiction that is not covered by another item on this agenda.
+3.  Approval of Minutes of Previous Meeting
 
-4. Sunshine Ordinance Overview
+    Discussion and possible action to approve Minutes for the July 26, 2017 Committee meeting.
 
-   Presentation by Deputy City Attorney Joshua White regarding the Sunshine Ordinance.
+    (Agenda Packet: [Draft Minutes](/meetings/2017-07-26/minutes-draft))
 
-5. Committee Goals
+4.  Member Reports
 
-   Discussion of Committee goals and strategies for achieving those goals.
+    Member reports on committee-related activities not covered by another
+item on this agenda, including but not limited to the last Elections
+Commission meeting, Department of Elections progress, research findings,
+and news reports.
 
-6. Administration
+    (Agenda Packet: _New York Times_ op-ed; _Lawfare Blog_ piece)
 
-   Discussion and possible action regarding administrative issues including but not limited to attendance at Elections Commission meetings by Committee members; posting and soliciting feedback from the public regarding Committee recommendations; the Committee's meeting schedule; format, content, and timing of Committee reports; and the Committee's website.
+5.  Administration
 
-7. Topics for future discussion
+    Discussion and possible action regarding administrative issues including but not limited to attendance at Elections Commission meetings by Committee members, the Committee's meeting schedule, and the Committee's website.
 
-   Discussion and possible action regarding topics for future discussion.
+6.  Current voting system and election processes
 
-8. Election of Vice-Chair
+    Discussion of the Department of Elections' current voting system and
+election processes.
 
-   Discussion and possible action to elect a Committee Vice-Chair.  The process will be as follows: The presiding Chair will open nominations for the position. When there are no further nominations, the presiding Chair will close nominations. Public comment will then take place. After discussion, there will be a roll call vote during which each Committee member shall state the name of the nominee for whom he or she wishes to vote. Any nominee receiving three votes shall be elected Vice-Chair. The term of office will begin immediately at the conclusion of tonight’s meeting.
+    (Agenda Packet: Department RFP excerpt)
+
+7.  Document template for Committee recommendations
+
+    Discussion and possible action regarding the document template for
+Committee recommendations, including the document structure and process for
+soliciting feedback from the public.
+
+    (Agenda Packet: Draft Template)
+
+8.  Committee Goals
+
+    Discussion and possible action regarding Committee goals, including
+scope, priorities, and assumptions.
+
+    (Agenda Packet: Draft Goals)
+
+9.  Open Source Voting Project Resources
+
+    Discussion and possible action regarding open source voting project
+resources.
+
+    (Agenda Packet: Draft Resources)
+
+10. Committee Recommendations
+
+    Discussion and possible action regarding Committee recommendations on
+the subjects of the Department's interim voting system, project management,
+requirements, and open source.
+
+    (Agenda Packet: Draft Recommendations)
+
+11. Written Report to the Elections Commission
+
+    Discussion and possible action regarding the Committee's first written
+report to the Elections Commission, per the Committee Bylaws.
+
+    (Agenda Packet: Draft Report)
+
+12. Topics for future discussion
+
+    Discussion and possible action regarding topics for future discussion.
 
 Adjournment
+
 
 There will be an opportunity for public comment on each agenda item.
 
@@ -64,7 +114,7 @@ Materials contained in the agenda packets for meetings are available for inspect
 
 Cell phones, pagers and similar sound-producing electronic devices: The ringing of and use of cell phones, pagers and similar sound-producing electronic devices are prohibited at this meeting. The Chair may order the removal from the meeting room of any person responsible for the ringing or use of a cell phone, pager, or other similar sound-producing electronic devices.
 
-Disability Access: The Committee meeting will be held in Room 305, City Hall, 1 Dr. Carlton B. Goodlett Place, San Francisco, CA. The meeting room is wheelchair accessible. The closest accessible BART station is the Civic Center Station at United Nations Plaza and Market Street. Accessible MUNI lines serving this location are: #42 Downtown Loop, and #71 Haight/Noriega and the F Line to Market and Van Ness and the Metro Stations at Van Ness and Market and at Civic Center. For information about MUNI accessible services call (415) 923-6142. There is accessible curbside parking adjacent to City Hall on Grove Street and Van Ness Avenue and in the vicinity of the Veterans Building at 401 Van Ness Avenue adjacent to Davies Hall and the War Memorial Complex.
+Disability Access: The meeting will be held in Room 421, City Hall, 1 Dr. Carlton B. Goodlett Place, San Francisco, CA. The meeting room is wheelchair accessible. The nearest accessible BART station is Civic Center (Market/Grove/Hyde Streets). Accessible MUNI Metro lines are the F, J, K, L, M, N, T (exit at Civic Center or Van Ness Stations). MUNI bus lines also serving the area are the 5, 5R, 6, 7, 7R, 7X, 9, 9R, 19, 21, 47, and 49. For more information about MUNI accessible services, call 311, call (415) 701-4485, or visit http://www.sfmuni.com. There is accessible curbside parking adjacent to City Hall on Grove Street and Van Ness Avenue and in the vicinity of the Veterans Building at 401 Van Ness Avenue adjacent to Davies Hall and the War Memorial Complex.
 
 To obtain a disability-related modification or accommodation, including auxiliary aids or services, to participate in a meeting, please contact the Department of Elections at least 48 hours before the meeting, except for Monday meetings, for which the deadline is 4:00 p.m. the previous Friday.  Late requests will be honored, if possible. Services available on request include the following:  American sign language interpreters or the use of a reader during a meeting, a sound enhancement system, and/or alternative formats of the agenda and minutes.  Please contact the Department of Elections at (415) 554-4375 or our TDD at (415) 554-4386 to make arrangements for a disability-related modification or accommodation.
 
