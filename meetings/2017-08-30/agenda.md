@@ -51,7 +51,7 @@ item on this agenda, including but not limited to the last Elections
 Commission meeting, Department of Elections progress, research findings,
 and news reports.
 
-    (Agenda Packet: _New York Times_ op-ed; _Lawfare Blog_ piece)
+    (Agenda Packet: [_New York Times_ op-ed](/files/meetings/2017-08-30/packet/NYT_Open_Source_Voting_Op_Ed.pdf); [_Lawfare Blog_ piece](/files/meetings/2017-08-30/packet/Lawfare_Open_Source.pdf))
 
 5.  Administration
 
@@ -62,7 +62,7 @@ and news reports.
     Discussion of the Department of Elections' current voting system and
 election processes.
 
-    (Agenda Packet: Department RFP excerpt)
+    (Agenda Packet: [Department RFP excerpt](/files/meetings/2017-08-30/packet/Business_Case_RFP_Excerpt.pdf))
 
 7.  Document template for Committee recommendations
 
