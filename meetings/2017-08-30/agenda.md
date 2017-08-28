@@ -62,7 +62,10 @@ and news reports.
     Discussion of the Department of Elections' current voting system and
 election processes.
 
-    (Agenda Packet: [Department RFP excerpt](/files/meetings/2017-08-30/packet/Business_Case_RFP_Excerpt.pdf))
+    (Agenda Packet: [Department RFP
+excerpt](/files/meetings/2017-08-30/packet/Business_Case_RFP_Excerpt.pdf);
+[Voting System
+Components](/files/meetings/2017-08-30/packet/Voting_System_Components.pdf))
 
 7.  Document template for Committee recommendations
 
