@@ -73,21 +73,21 @@ Components](/files/meetings/2017-08-30/packet/Voting_System_Components.pdf))
 Committee recommendations, including the document structure and process for
 soliciting feedback from the public.
 
-    (Agenda Packet: Draft Template)
+    (Agenda Packet: [Draft Template](/files/meetings/2017-08-30/packet/Draft_TAC_Recommendations.pdf))
 
 8.  Committee Goals
 
     Discussion and possible action regarding Committee goals, including
 scope, priorities, and assumptions.
 
-    (Agenda Packet: Draft Goals)
+    (Agenda Packet: [Draft Goals](/files/meetings/2017-08-30/packet/Draft_TAC_Recommendations.pdf))
 
 9.  Open Source Voting Project Resources
 
     Discussion and possible action regarding open source voting project
 resources.
 
-    (Agenda Packet: Draft Resources)
+    (Agenda Packet: [Draft Resources](/files/meetings/2017-08-30/packet/Draft_TAC_Recommendations.pdf))
 
 10. Committee Recommendations
 
@@ -95,14 +95,14 @@ resources.
 the subjects of the Department's interim voting system, project management,
 requirements, and open source.
 
-    (Agenda Packet: Draft Recommendations)
+    (Agenda Packet: [Draft Recommendations](/files/meetings/2017-08-30/packet/Draft_TAC_Recommendations.pdf))
 
 11. Written Report to the Elections Commission
 
     Discussion and possible action regarding the Committee's first written
 report to the Elections Commission, per the Committee Bylaws.
 
-    (Agenda Packet: Draft Report)
+    (Agenda Packet: [Draft Report](/files/meetings/2017-08-30/packet/OSVTAC_Report_01_August_2017_DRAFT.pdf))
 
 12. Topics for future discussion
 
