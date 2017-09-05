@@ -1,10 +1,10 @@
 # Member Attendance
 
 
-| Meeeting Date | LB | CH | CJ | RK | TW |
-|:--------------|:---|:---|:---|:---|:---|
-| Wed, July 26, 2017 | P | P | P | P | P |
-| Wed, August 30, 2017 | P | P | P | EA | P |
+| Meeeting Date        | LB | CH | CJ | RK | TW |
+|:---------------------|:---|:---|:---|:---|:---|
+| Wed, July 26, 2017   |  P |  P |  P |  P |  P |
+| Wed, August 30, 2017 |  P |  P |  P | EA |  P |
 
 
 ## Key
