@@ -22,11 +22,9 @@ To provide comments on the committee's recommendations, you can email your
 feedback to the committee. Contact information can be found on the [About
 page][osvtac-about].
 
-Alternatively, if you have a [GitHub][github] account, you can view the
-repository for the recommendations [here][recommendations-repo] and make a
-comment by opening an issue on the [issue tracker][recommendations-issues].
-To suggest specific wording for some portion of the document, you can open a
-"pull request" [here][recommendations-pulls].
+Alternatively, if you have a [GitHub][github] account and are familiar with
+[Markdown], you can view the GitHub repository for the recommendations
+[here][recommendations-repo] and follow the instructions in the README file.
 
 The committee may discuss and/or vote on your suggestions at a future
 meeting. Note that because of San Francisco's [Sunshine Ordinance] and other
@@ -37,11 +35,10 @@ publicly as individuals.
 
 
 [github]: https://github.com/
+[Markdown]: https://daringfireball.net/projects/markdown/
 [osvtac-about]: about
 [osvtac-recommendations]: recommendations/index
 [osvtac-report-1]: files/reports/OSVTAC_Report_01_September_5_2017.pdf
 [recommendations-history]: https://github.com/OSVTAC/project-recommendations/commits/master
-[recommendations-issues]: https://github.com/OSVTAC/project-recommendations/issues
-[recommendations-pulls]: https://github.com/OSVTAC/project-recommendations/pulls
 [recommendations-repo]: https://github.com/OSVTAC/project-recommendations
 [Sunshine Ordinance]: https://www.sfcityattorney.org/good-government/sunshine/
