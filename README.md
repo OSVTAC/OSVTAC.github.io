@@ -1,8 +1,8 @@
 # Next Meeting
 
-| Date | Time | Location | Agenda & Packet |
-|:-----|:-----|:---------|:----------------|
-| September 2017 (TBD) | | | |
+| Date                      | Time   | Location            | Agenda & Packet |
+|:--------------------------|:-------|:--------------------|:----------------|
+| Thurs, September 21, 2017 | 6:00PM | City Hall, Room 421 | TBD |
 
 For meeting announcements via Twitter, you can also follow the Elections
 Commission Twitter account here:
