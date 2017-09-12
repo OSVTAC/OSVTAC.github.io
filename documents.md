@@ -23,8 +23,9 @@ feedback to the committee. Contact information can be found on the [About
 page][osvtac-about].
 
 Alternatively, if you have a [GitHub][github] account and are familiar with
-[Markdown], you can view the GitHub repository for the recommendations
-[here][recommendations-repo] and follow the instructions in the README file.
+[Markdown], you can view the [GitHub repository][recommendations-repo] for
+the recommendations and follow the instructions in the README file for
+providing feedback.
 
 The committee may discuss and/or vote on your suggestions at a future
 meeting. Note that because of San Francisco's [Sunshine Ordinance] and other
