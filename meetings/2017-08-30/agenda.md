@@ -1,6 +1,5 @@
 Meeting Agenda: August 30, 2017
 
-
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
 City and County of San Francisco<br>
@@ -30,85 +29,85 @@ San Francisco, California 94102<br>
 **[Note: hyperlinks to agenda packet documents will be inserted below
 as soon as they are available.]**
 
-Order of Business
+**Order of Business**
 
-1.  Call to Order & Roll Call
+**1\. Call to Order & Roll Call**
 
-2.  General Public Comment
+**2\. General Public Comment**
 
-    Public comment on any issue within the Committee’s general jurisdiction that is not covered by another item on this agenda.
+Public comment on any issue within the Committee’s general jurisdiction that is not covered by another item on this agenda.
 
-3.  Approval of Minutes of Previous Meeting
+**3\. Approval of Minutes of Previous Meeting**
 
-    Discussion and possible action to approve Minutes for the July 26, 2017 Committee meeting.
+Discussion and possible action to approve Minutes for the July 26, 2017 Committee meeting.
 
-    (Agenda Packet: [Draft Minutes](/meetings/2017-07-26/minutes-draft))
+(Agenda Packet: [Draft Minutes](/meetings/2017-07-26/minutes-draft))
 
-4.  Member Reports
+**4\. Member Reports**
 
-    Member reports on committee-related activities not covered by another
+Member reports on committee-related activities not covered by another
 item on this agenda, including but not limited to the last Elections
 Commission meeting, Department of Elections progress, research findings,
 and news reports.
 
-    (Agenda Packet: [_New York Times_ op-ed](/files/meetings/2017-08-30/packet/NYT_Open_Source_Voting_Op_Ed.pdf); [_Lawfare Blog_ piece](/files/meetings/2017-08-30/packet/Lawfare_Open_Source.pdf))
+(Agenda Packet: [_New York Times_ op-ed](/files/meetings/2017-08-30/packet/NYT_Open_Source_Voting_Op_Ed.pdf); [_Lawfare Blog_ piece](/files/meetings/2017-08-30/packet/Lawfare_Open_Source.pdf))
 
-5.  Administration
+**5\. Administration**
 
-    Discussion and possible action regarding administrative issues including but not limited to attendance at Elections Commission meetings by Committee members, the Committee's meeting schedule, and the Committee's website.
+Discussion and possible action regarding administrative issues including but not limited to attendance at Elections Commission meetings by Committee members, the Committee's meeting schedule, and the Committee's website.
 
-6.  Current voting system and election processes
+**6\. Current voting system and election processes**
 
-    Discussion of the Department of Elections' current voting system and
+Discussion of the Department of Elections' current voting system and
 election processes.
 
-    (Agenda Packet: [Department RFP
+(Agenda Packet: [Department RFP
 excerpt](/files/meetings/2017-08-30/packet/Business_Case_RFP_Excerpt.pdf);
 [Voting System
 Components](/files/meetings/2017-08-30/packet/Voting_System_Components.pdf))
 
-7.  Document template for Committee recommendations
+**7\. Document template for Committee recommendations**
 
-    Discussion and possible action regarding the document template for
+Discussion and possible action regarding the document template for
 Committee recommendations, including the document structure and process for
 soliciting feedback from the public.
 
-    (Agenda Packet: [Draft Template](/files/meetings/2017-08-30/packet/Draft_TAC_Recommendations.pdf))
+(Agenda Packet: [Draft Template](/files/meetings/2017-08-30/packet/Draft_TAC_Recommendations.pdf))
 
-8.  Committee Goals
+**8\. Committee Goals**
 
-    Discussion and possible action regarding Committee goals, including
+Discussion and possible action regarding Committee goals, including
 scope, priorities, and assumptions.
 
-    (Agenda Packet: [Draft Goals](/files/meetings/2017-08-30/packet/Draft_TAC_Recommendations.pdf))
+(Agenda Packet: [Draft Goals](/files/meetings/2017-08-30/packet/Draft_TAC_Recommendations.pdf))
 
-9.  Open Source Voting Project Resources
+**9\. Open Source Voting Project Resources**
 
-    Discussion and possible action regarding open source voting project
+Discussion and possible action regarding open source voting project
 resources.
 
-    (Agenda Packet: [Draft Resources](/files/meetings/2017-08-30/packet/Draft_TAC_Recommendations.pdf))
+(Agenda Packet: [Draft Resources](/files/meetings/2017-08-30/packet/Draft_TAC_Recommendations.pdf))
 
-10. Committee Recommendations
+**10\. Committee Recommendations**
 
-    Discussion and possible action regarding Committee recommendations on
+Discussion and possible action regarding Committee recommendations on
 the subjects of the Department's interim voting system, project management,
 requirements, and open source.
 
-    (Agenda Packet: [Draft Recommendations](/files/meetings/2017-08-30/packet/Draft_TAC_Recommendations.pdf))
+(Agenda Packet: [Draft Recommendations](/files/meetings/2017-08-30/packet/Draft_TAC_Recommendations.pdf))
 
-11. Written Report to the Elections Commission
+**11\. Written Report to the Elections Commission**
 
-    Discussion and possible action regarding the Committee's first written
+Discussion and possible action regarding the Committee's first written
 report to the Elections Commission, per the Committee Bylaws.
 
-    (Agenda Packet: [Draft Report](/files/meetings/2017-08-30/packet/OSVTAC_Report_01_August_2017_DRAFT.pdf))
+(Agenda Packet: [Draft Report](/files/meetings/2017-08-30/packet/OSVTAC_Report_01_August_2017_DRAFT.pdf))
 
-12. Topics for future discussion
+**12\. Topics for future discussion**
 
-    Discussion and possible action regarding topics for future discussion.
+Discussion and possible action regarding topics for future discussion.
 
-Adjournment
+**Adjournment**
 
 
 There will be an opportunity for public comment on each agenda item.

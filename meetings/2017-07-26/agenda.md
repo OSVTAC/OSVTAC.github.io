@@ -26,37 +26,37 @@ City Hall, Room 305<br>
 San Francisco, California 94102<br>
 </div>
 
-Order of Business
+**Order of Business**
 
-1. Call to Order & Roll Call
+**1\. Call to Order & Roll Call**
 
-2. Introductions
+**2\. Introductions**
 
-3. General Public Comment
+**3\. General Public Comment**
 
-   Public comment on any issue within the Committee’s general jurisdiction that is not covered by another item on this agenda.
+Public comment on any issue within the Committee’s general jurisdiction that is not covered by another item on this agenda.
 
-4. Sunshine Ordinance Overview
+**4\. Sunshine Ordinance Overview**
 
-   Presentation by Deputy City Attorney Joshua White regarding the Sunshine Ordinance.
+Presentation by Deputy City Attorney Joshua White regarding the Sunshine Ordinance.
 
-5. Committee Goals
+**5\. Committee Goals**
 
-   Discussion of Committee goals and strategies for achieving those goals.
+Discussion of Committee goals and strategies for achieving those goals.
 
-6. Administration
+**6\. Administration**
 
-   Discussion and possible action regarding administrative issues including but not limited to attendance at Elections Commission meetings by Committee members; posting and soliciting feedback from the public regarding Committee recommendations; the Committee's meeting schedule; format, content, and timing of Committee reports; and the Committee's website.
+Discussion and possible action regarding administrative issues including but not limited to attendance at Elections Commission meetings by Committee members; posting and soliciting feedback from the public regarding Committee recommendations; the Committee's meeting schedule; format, content, and timing of Committee reports; and the Committee's website.
 
-7. Topics for future discussion
+**7\. Topics for future discussion**
 
-   Discussion and possible action regarding topics for future discussion.
+Discussion and possible action regarding topics for future discussion.
 
-8. Election of Vice-Chair
+**8\. Election of Vice-Chair**
 
-   Discussion and possible action to elect a Committee Vice-Chair.  The process will be as follows: The presiding Chair will open nominations for the position. When there are no further nominations, the presiding Chair will close nominations. Public comment will then take place. After discussion, there will be a roll call vote during which each Committee member shall state the name of the nominee for whom he or she wishes to vote. Any nominee receiving three votes shall be elected Vice-Chair. The term of office will begin immediately at the conclusion of tonight’s meeting.
+Discussion and possible action to elect a Committee Vice-Chair.  The process will be as follows: The presiding Chair will open nominations for the position. When there are no further nominations, the presiding Chair will close nominations. Public comment will then take place. After discussion, there will be a roll call vote during which each Committee member shall state the name of the nominee for whom he or she wishes to vote. Any nominee receiving three votes shall be elected Vice-Chair. The term of office will begin immediately at the conclusion of tonight’s meeting.
 
-Adjournment
+**Adjournment**
 
 There will be an opportunity for public comment on each agenda item.
 

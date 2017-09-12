@@ -43,12 +43,6 @@ th {
   font-weight: bold;
 }
 
-// Make the first line of each item of a numbered list bold.
-// TODO: DRY this up with the above.
-ol > li::first-line {
-  font-weight: bold;
-}
-
 #meeting_header_right {
   float: right;
   text-align: right;
