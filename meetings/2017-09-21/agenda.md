@@ -52,8 +52,8 @@ this agenda, including but not limited to the last Elections Commission
 meeting, Department of Elections progress, research findings, and news
 reports.
 
-(Agenda Packet: _San Francisco Chronicle_ article; [EMS & Voting System Costs
-memo][ems-voting-system-costs])
+(Agenda Packet: [_San Francisco Chronicle_ article][sf-chronicle-article];
+[EMS & Voting System Costs memo][ems-voting-system-costs])
 
 **5\. Administration**
 
@@ -167,5 +167,5 @@ contact the San Francisco Ethics Commission at 25 Van Ness Avenue; Suite 220;
 San Francisco, CA 94102. Phone: (415) 252-3100; Fax: (415) 252-3112; Email:
 ethics.commission@sfgov.org; Website: http://www.sfethics.org.
 
-[sf-chronicle-article]: http://example.com
+[sf-chronicle-article]: /files/meetings/2017-09-21/packet/SF_Chronicle_Article.pdf
 [ems-voting-system-costs]: /files/meetings/2017-09-21/packet/SF_EMS_and_Voting_System_Costs.pdf
