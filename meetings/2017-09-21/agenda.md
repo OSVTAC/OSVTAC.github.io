@@ -66,7 +66,8 @@ members, the Committee's meeting schedule, and the Committee's website.
 Discussion and possible action regarding project terminology, including
 the meaning of voting system, and resources for additional information.
 
-(Agenda Packet: Draft Terminology and Voting System Section)
+(Agenda Packet: Draft Terminology and Voting System Section;
+[Proposed Link Additions][link-edits] (Hage, Word))
 
 **7\. Project Management and Procurement**
 
@@ -167,5 +168,6 @@ contact the San Francisco Ethics Commission at 25 Van Ness Avenue; Suite 220;
 San Francisco, CA 94102. Phone: (415) 252-3100; Fax: (415) 252-3112; Email:
 ethics.commission@sfgov.org; Website: http://www.sfethics.org.
 
-[sf-chronicle-article]: /files/meetings/2017-09-21/packet/SF_Chronicle_Article.pdf
 [ems-voting-system-costs]: /files/meetings/2017-09-21/packet/SF_EMS_and_Voting_System_Costs.pdf
+[link-edits]: /files/meetings/2017-09-21/packet/Proposed_Link_Edits_Hage.docx
+[sf-chronicle-article]: /files/meetings/2017-09-21/packet/SF_Chronicle_Article.pdf
