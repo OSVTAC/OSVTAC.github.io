@@ -177,5 +177,5 @@ ethics.commission@sfgov.org; Website: http://www.sfethics.org.
 [proposed-link-edits]: /files/meetings/2017-09-21/packet/Proposed_Link_Edits_Hage.docx
 [proposed-project-mgt]: /files/meetings/2017-09-21/packet/Item_7_Project_Management_Jerdonek.pdf
 [proposed-recommendations]: /files/meetings/2017-09-21/packet/Item_8_Recommendations_Jerdonek.pdf
-[proposed-terminology-edits]: /files/meetings/2017-09-21/packet/Item_6_Proposed_Terminology_Jerdonek.pdf
+[proposed-terminology-edits]: /files/meetings/2017-09-21/packet/Item_6_Terminology_Jerdonek.pdf
 [sf-chronicle-article]: /files/meetings/2017-09-21/packet/SF_Chronicle_Article.pdf
