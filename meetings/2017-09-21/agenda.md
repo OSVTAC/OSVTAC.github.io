@@ -75,7 +75,8 @@ Additions][proposed-terminology-edits] (Jerdonek);
 
 Discussion and possible action regarding project management and procurement.
 
-(Agenda Packet: Draft Project Management Recommendations)
+Agenda Packet: [Proposed Project Management Additions][proposed-project-mgt]
+(Jerdonek)
 
 **8\. Committee Recommendations**
 
@@ -173,5 +174,6 @@ ethics.commission@sfgov.org; Website: http://www.sfethics.org.
 [ems-voting-system-costs]: /files/meetings/2017-09-21/packet/SF_EMS_and_Voting_System_Costs.pdf
 [nisen-letters]: /files/meetings/2017-09-21/packet/Disability_Rights_Letters_Nisen.pdf
 [proposed-link-edits]: /files/meetings/2017-09-21/packet/Proposed_Link_Edits_Hage.docx
+[proposed-project-mgt]: /files/meetings/2017-09-21/packet/Item_7_Project_Management_Jerdonek.pdf
 [proposed-terminology-edits]: /files/meetings/2017-09-21/packet/Item_6_Proposed_Terminology_Jerdonek.pdf
 [sf-chronicle-article]: /files/meetings/2017-09-21/packet/SF_Chronicle_Article.pdf
