@@ -52,8 +52,9 @@ this agenda, including but not limited to the last Elections Commission
 meeting, Department of Elections progress, research findings, and news
 reports.
 
-(Agenda Packet: [_San Francisco Chronicle_ article][sf-chronicle-article];
-[EMS & Voting System Costs memo][ems-voting-system-costs])
+Agenda Packet: [_San Francisco Chronicle_ article][sf-chronicle-article];
+[EMS & Voting System Costs memo][ems-voting-system-costs];
+[Letters from Fred Nisen re: accessibility][nisen-letters] (Disability Rights CA)
 
 **5\. Administration**
 
@@ -66,8 +67,9 @@ members, the Committee's meeting schedule, and the Committee's website.
 Discussion and possible action regarding project terminology, including
 the meaning of voting system, and resources for additional information.
 
-(Agenda Packet: Draft Terminology and Voting System Section;
-[Proposed Link Additions][link-edits] (Hage, Word))
+Agenda Packet: [Proposed Terminology / Voting System
+Additions][proposed-terminology-edits] (Jerdonek);
+[Proposed Link Additions][proposed-link-edits] (Hage, Word format)
 
 **7\. Project Management and Procurement**
 
@@ -169,5 +171,7 @@ San Francisco, CA 94102. Phone: (415) 252-3100; Fax: (415) 252-3112; Email:
 ethics.commission@sfgov.org; Website: http://www.sfethics.org.
 
 [ems-voting-system-costs]: /files/meetings/2017-09-21/packet/SF_EMS_and_Voting_System_Costs.pdf
-[link-edits]: /files/meetings/2017-09-21/packet/Proposed_Link_Edits_Hage.docx
+[nisen-letters]: /files/meetings/2017-09-21/packet/Disability_Rights_Letters_Nisen.pdf
+[proposed-link-edits]: /files/meetings/2017-09-21/packet/Proposed_Link_Edits_Hage.docx
+[proposed-terminology-edits]: /files/meetings/2017-09-21/packet/Item_6_Proposed_Terminology_Jerdonek.pdf
 [sf-chronicle-article]: /files/meetings/2017-09-21/packet/SF_Chronicle_Article.pdf
