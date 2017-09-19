@@ -84,7 +84,8 @@ Discussion and possible action regarding Committee recommendations on the
 subjects of requirements gathering, open source, software architecture and
 design, software development, and testing.
 
-(Agenda Packet: Draft Recommendations)
+Agenda Packet: [Proposed Recommendation Additions][proposed-recommendations]
+(Jerdonek).
 
 **9\. Incremental Approaches**
 
@@ -175,5 +176,6 @@ ethics.commission@sfgov.org; Website: http://www.sfethics.org.
 [nisen-letters]: /files/meetings/2017-09-21/packet/Disability_Rights_Letters_Nisen.pdf
 [proposed-link-edits]: /files/meetings/2017-09-21/packet/Proposed_Link_Edits_Hage.docx
 [proposed-project-mgt]: /files/meetings/2017-09-21/packet/Item_7_Project_Management_Jerdonek.pdf
+[proposed-recommendations]: /files/meetings/2017-09-21/packet/Item_8_Recommendations_Jerdonek.pdf
 [proposed-terminology-edits]: /files/meetings/2017-09-21/packet/Item_6_Proposed_Terminology_Jerdonek.pdf
 [sf-chronicle-article]: /files/meetings/2017-09-21/packet/SF_Chronicle_Article.pdf
