@@ -1,13 +1,16 @@
-# Next Meeting
-
-| Date                      | Time   | Location            | Agenda & Packet |
-|:--------------------------|:-------|:--------------------|:----------------|
-| Thurs, September 21, 2017 | 6:00PM | City Hall, Room 421 | [HTML][next-agenda-html] / [PDF][next-agenda-pdf] |
-
 For meeting announcements via Twitter, you can also follow the Elections
 Commission Twitter account here:
 [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
+# Next Meeting
+
+| Date                      | Time   | Location            | Agenda & Packet* |
+|:--------------------------|:-------|:--------------------|:-----------------|
+| Thurs, September 21, 2017 | 6:00PM | City Hall, Room 421 | [HTML][next-agenda-html] / [PDF][next-agenda-pdf] |
+
+\*Agenda packet documents are available as hyperlinks in the HTML version of
+the agenda under each item. Links are added when the documents become
+available.
 
 # Site Contents
 
