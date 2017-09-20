@@ -92,7 +92,8 @@ Agenda Packet: [Proposed Recommendation Additions][proposed-recommendations]
 Discussion and possible action regarding incremental approaches to
 developing and deploying an open source voting system.
 
-(Agenda Packet: Draft Incremental Approach)
+Agenda Packet: [Proposed Incremental Approach
+Additions][proposed-incremental-approach] (Jerdonek).
 
 **10\. Topics for future discussion**
 
@@ -174,6 +175,7 @@ ethics.commission@sfgov.org; Website: http://www.sfethics.org.
 
 [ems-voting-system-costs]: /files/meetings/2017-09-21/packet/SF_EMS_and_Voting_System_Costs.pdf
 [nisen-letters]: /files/meetings/2017-09-21/packet/Disability_Rights_Letters_Nisen.pdf
+[proposed-incremental-approach]: /files/meetings/2017-09-21/packet/Item_9_Incremental_Approach_Jerdonek.pdf
 [proposed-link-edits]: /files/meetings/2017-09-21/packet/Proposed_Link_Edits_Hage.docx
 [proposed-project-mgt]: /files/meetings/2017-09-21/packet/Item_7_Project_Management_Jerdonek.pdf
 [proposed-recommendations]: /files/meetings/2017-09-21/packet/Item_8_Recommendations_Jerdonek.pdf
