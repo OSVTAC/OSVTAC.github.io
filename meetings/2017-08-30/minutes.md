@@ -1,4 +1,4 @@
-Draft Meeting Minutes: August 30, 2017
+Meeting Minutes: August 30, 2017
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -17,7 +17,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-MEETING MINUTES (DRAFT)<br>
+MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee<br>
 of the San Francisco Elections Commission<br>
 Wednesday, August 30, 2017<br>
@@ -49,7 +49,7 @@ Elections Center in Orange County. He spoke about open source voting as part
 of a panel. Additionally, he mentioned that Colorado has enlisted a
 contractor to develop an open source elections auditing system. That software
 development can be followed on GitHub. Colorado is deciding what type of
-General Public License they will get. (They don’t presently have one.) There
+license they will get. (They don’t presently have one.) There
 is a GitHub issue accepting comments on this issue.
 
 Chair Jerdonek further reported that AB 668, dealing with providing matching
@@ -264,7 +264,7 @@ Deputy City Attorney White. Listed are just some things to start off with. He
 asked if members had other suggestions. Member Hage said it might be helpful
 to add a description to each link so that readers wouldn’t have to click each
 link to find out. Member Wasserman suggested links to the Open Source
-Initiative's home page (OSI), GitHub, and the NIST link. When about
+Initiative's home page (OSI), GitHub, and the NIST link. When asked about
 international open source voting systems, Member Wasserman thought there
 might be one in Paris, and one in the Netherlands. OpenCount and Verified
 Voting were mentioned as other possibilities.
