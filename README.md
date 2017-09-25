@@ -27,3 +27,8 @@ available.
 - [San Francisco Elections Commission](https://sfgov.org/electionscommission)
 - [San Francisco Department of Elections](https://www.sfelections.org)
 - [All San Francisco Open Source Projects](http://open.innovatesf.com)
+
+<a class="twitter-timeline" data-width="360" data-height="600" data-theme="light" href="https://twitter.com/SFElectionsComm">
+Tweets by SFElectionsComm</a>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8">
+</script>
