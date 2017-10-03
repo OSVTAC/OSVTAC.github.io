@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+// Fix issue #17, which causes the text to jitter when hovering over a link:
+// https://github.com/pages-themes/slate/issues/17
+a:hover, a:focus {
+  font-weight:normal;
+}
+
 #project_image {
   position: absolute;
   top: 0;
