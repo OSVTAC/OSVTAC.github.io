@@ -10,13 +10,14 @@ The TAC Bylaws can be found on the Commission's
 
 ## Members
 
-| Name | Position | Email | Term Ends |
-|:-----|:---------|:------|:----------|
-| Christopher Jerdonek | Chair | <chris.jerdonek@sfgov.org> | April 20, 2018 |
-| Larry Bafundo | Vice Chair | TBA | May 18, 2018 |
-| Carl Hage | | TBA | May 18, 2018 |
-| Roan Kattouw | | TBA | May 18, 2018 |
-| Tony Wasserman | | TBA | May 18, 2018 |
+| Name                 | Position   | Email                      | Term Ends      |
+|:---------------------|:-----------|:---------------------------|:---------------|
+| Christopher Jerdonek | Chair      | <chris.jerdonek@sfgov.org> | April 20, 2018 |
+| Larry Bafundo        | Vice Chair | TBA                        | May 18, 2018   |
+| Carl Hage            |            | TBA                        | May 18, 2018   |
+| Roan Kattouw         |            | <roan.kattouw@sfgov.org>   | May 18, 2018   |
+| Tony Wasserman       |            | TBA                        | May 18, 2018   |
+
 
 ## Contact
 
