@@ -71,6 +71,9 @@ members, the Committee's meeting schedule, and the Committee's website.
 Discussion and possible action regarding presentations by committee members
 about the open source voting project.
 
+Agenda Packet:
+[Jerdonek Slides](/files/meetings/2017-10-19/packet/Jerdonek_slides.pdf)
+
 
 **7\. Responses to the Business Case RFP**
 
@@ -78,9 +81,9 @@ Discussion and possible action regarding the responses to the RFP to prepare
 a business case for developing an open source voting system.
 
 Agenda Packet:
-[RFP Response (6 Head Corp)](/files/meetings/2017-10-19/packet/rfp-responses/Head_REG_RFP_2017-01_Response_Final.pdf),
-[RFP Response (AJW)](/files/meetings/2017-10-19/packet/rfp-responses/AJWISubmission_RFP2017-01.pdf),
-[RFP Response (Slalom)](/files/meetings/2017-10-19/packet/rfp-responses/REG_RFP_2017-01_Slalom_Response.pdf)
+(1) [RFP Response (6 Head Corp)](/files/meetings/2017-10-19/packet/rfp-responses/Head_REG_RFP_2017-01_Response_Final.pdf),
+(2) [RFP Response (AJW)](/files/meetings/2017-10-19/packet/rfp-responses/AJWISubmission_RFP2017-01.pdf),
+(3) [RFP Response (Slalom)](/files/meetings/2017-10-19/packet/rfp-responses/REG_RFP_2017-01_Slalom_Response.pdf)
 
 
 **8\. Committee Goals and Assumptions**
@@ -112,10 +115,10 @@ subjects of requirements (including accessibility), open source, software
 development processes, software architecture and design, hardware, and testing.
 
 Agenda Packet:
-[Kattouw Suggestion - Copyleft](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-02-copyleft-preference.txt),
-[Kattouw Suggestion - Documentation](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-03-documentation-license.txt),
-[Kattouw Suggestion - Programming Language](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-04-open-prog-langs.txt),
-[Kattouw Suggestion - Software Reuse](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-05-reuse-existing.txt)
+(1) [Kattouw Suggestion - Copyleft](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-02-copyleft-preference.txt),
+(2) [Kattouw Suggestion - Documentation](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-03-documentation-license.txt),
+(3) [Kattouw Suggestion - Programming Language](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-04-open-prog-langs.txt),
+(4) [Kattouw Suggestion - Software Reuse](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-05-reuse-existing.txt)
 
 
 **12\. Topics for future discussion**
