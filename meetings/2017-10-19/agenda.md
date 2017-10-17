@@ -91,6 +91,9 @@ Agenda Packet:
 Discussion and possible action regarding committee goals, scope, and
 assumptions, including assumptions around computer security.
 
+Agenda Packet:
+[Jerdonek Suggestion - Goals](/files/meetings/2017-10-19/packet/jerdonek-patches/jerdonek-patch-01-goals-assumptions.txt)
+
 
 **9\. Project Background and Terminology**
 
@@ -98,7 +101,8 @@ Discussion and possible action regarding project background and terminology,
 including around voting system components and other voting system projects.
 
 Agenda Packet:
-[Kattouw Suggestion - Slalom](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-01-background-slalom.txt)
+(1) [Kattouw Suggestion - Slalom](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-01-background-slalom.txt)
+(2) [Jerdonek Suggestion - Background](/files/meetings/2017-10-19/packet/jerdonek-patches/jerdonek-patch-02-background-terminology.txt)
 
 
 **10\. Project Management and Procurement**
@@ -106,6 +110,9 @@ Agenda Packet:
 Discussion and possible action regarding project management and procurement,
 including around incremental approaches to developing an open source voting
 system.
+
+Agenda Packet:
+[Jerdonek Suggestion - Management](/files/meetings/2017-10-19/packet/jerdonek-patches/jerdonek-patch-03-project-management.txt)
 
 
 **11\. Committee Recommendations**
@@ -119,6 +126,7 @@ Agenda Packet:
 (2) [Kattouw Suggestion - Documentation](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-03-documentation-license.txt),
 (3) [Kattouw Suggestion - Programming Language](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-04-open-prog-langs.txt),
 (4) [Kattouw Suggestion - Software Reuse](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-05-reuse-existing.txt)
+(5) [Jerdonek Suggestion - Recommendations](/files/meetings/2017-10-19/packet/jerdonek-patches/jerdonek-patch-04-recommendations.txt)
 
 
 **12\. Topics for future discussion**
