@@ -55,6 +55,9 @@ this agenda, including but not limited to the last Elections Commission
 meeting, Department of Elections progress, research findings, and news
 reports.
 
+Agenda Packet:
+[Hage Email](/files/meetings/2017-10-19/packet/hage-email.pdf)
+
 
 **5\. Administration**
 
@@ -91,6 +94,9 @@ assumptions, including assumptions around computer security.
 Discussion and possible action regarding project background and terminology,
 including around voting system components and other voting system projects.
 
+Agenda Packet:
+[Kattouw Suggestion - Slalom](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-01-background-slalom.txt)
+
 
 **10\. Project Management and Procurement**
 
@@ -104,6 +110,12 @@ system.
 Discussion and possible action regarding Committee recommendations on the
 subjects of requirements (including accessibility), open source, software
 development processes, software architecture and design, hardware, and testing.
+
+Agenda Packet:
+[Kattouw Suggestion - Copyleft](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-02-copyleft-preference.txt),
+[Kattouw Suggestion - Documentation](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-03-documentation-license.txt),
+[Kattouw Suggestion - Programming Language](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-04-open-prog-langs.txt),
+[Kattouw Suggestion - Software Reuse](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-05-reuse-existing.txt)
 
 
 **12\. Topics for future discussion**
