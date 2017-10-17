@@ -74,6 +74,11 @@ about the open source voting project.
 Discussion and possible action regarding the responses to the RFP to prepare
 a business case for developing an open source voting system.
 
+Agenda Packet:
+[RFP Response (6 Head Corp)](/files/meetings/2017-10-19/packet/rfp-responses/Head_REG_RFP_2017-01_Response_Final.pdf),
+[RFP Response (AJW)](/files/meetings/2017-10-19/packet/rfp-responses/AJWISubmission_RFP2017-01.pdf),
+[RFP Response (Slalom)](/files/meetings/2017-10-19/packet/rfp-responses/REG_RFP_2017-01_Slalom_Response.pdf)
+
 
 **8\. Committee Goals and Assumptions**
 
