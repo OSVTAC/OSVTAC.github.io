@@ -101,8 +101,9 @@ Discussion and possible action regarding project background and terminology,
 including around voting system components and other voting system projects.
 
 Agenda Packet:
-(1) [Kattouw Suggestion - Slalom](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-01-background-slalom.txt)
-(2) [Jerdonek Suggestion - Background](/files/meetings/2017-10-19/packet/jerdonek-patches/jerdonek-patch-02-background-terminology.txt)
+(1) [Kattouw Suggestion - Slalom](/files/meetings/2017-10-19/packet/kattouw-patches/kattouw-patch-01-background-slalom.txt),
+(2) [Jerdonek Suggestion - Background](/files/meetings/2017-10-19/packet/jerdonek-patches/jerdonek-patch-02-background-terminology.txt),
+(3) [Jerdonek Suggestion - Other Projects](/files/meetings/2017-10-19/packet/jerdonek-patches/jerdonek-patch-05-background-projects.txt)
 
 
 **10\. Project Management and Procurement**
