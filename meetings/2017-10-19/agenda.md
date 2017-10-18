@@ -56,7 +56,10 @@ meeting, Department of Elections progress, research findings, and news
 reports.
 
 Agenda Packet:
-[Hage Email](/files/meetings/2017-10-19/packet/hage-email.pdf)
+(1) [Hage Email](/files/meetings/2017-10-19/packet/hage-email.pdf),
+(2) [Business Case Contract](/files/meetings/2017-10-19/packet/slalom-contract/Business_Case_Contract.pdf),
+(3) [Contract - Appendix A](/files/meetings/2017-10-19/packet/slalom-contract/Business_Case_Appendix_A.pdf),
+(4) [Contract - Appendix B](/files/meetings/2017-10-19/packet/slalom-contract/Business_Case_Appendix_B.pdf)
 
 
 **5\. Administration**
