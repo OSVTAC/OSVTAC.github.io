@@ -16,12 +16,10 @@ Commission Twitter account here:
 the agenda under each item. Links are added when the documents become
 available.
 
-# Site Contents
+# Project Recommendations
 
-- [About](about)
-- [Documents](documents) (includes OSVTAC's latest Project Recommendations)
-- [Past Meetings](past-meetings)
-- [Member Attendance](attendance)
+For OSVTAC's latest project recommendations, see the [Documents](documents)
+page.
 
 
 # Links
