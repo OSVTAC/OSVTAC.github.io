@@ -6,7 +6,6 @@ City and County of San Francisco<br>
 Don Chan, Secretary<br>
 </div>
 
-
 <div class="headered">
 Open Source Voting System Technical Advisory Committee<br>
 Christopher Jerdonek, Chair<br>
@@ -22,6 +21,7 @@ Open Source Voting System Technical Advisory Committee<br>
 of the San Francisco Elections Commission<br>
 Wednesday, August 30, 2017<br>
 </div>
+
 **Order of Business**
 
 **1\. Call to Order & Roll Call**

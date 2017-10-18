@@ -21,6 +21,7 @@ Open Source Voting System Technical Advisory Committee<br>
 of the San Francisco Elections Commission<br>
 Wednesday, August 30, 2017<br>
 </div>
+
 **Order of Business**
 
 **1\. Call to Order & Roll Call**
