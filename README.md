@@ -6,7 +6,6 @@ Commission Twitter account here:
 
 | Date                      | Time   | Location            | Agenda & Packet* |
 |:--------------------------|:-------|:--------------------|:-----------------|
-| Thurs, October 19, 2017   | 6:00PM | City Hall, Room 421 | [HTML][next-agenda-html] / [PDF][next-agenda-pdf] |
 | Thurs, November 16, 2017  | 6:00PM | (Date tentative)    | |
 
 [next-agenda-html]: meetings/2017-10-19/agenda
