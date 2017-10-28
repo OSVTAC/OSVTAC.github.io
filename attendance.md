@@ -3,6 +3,7 @@
 
 | Meeeting Date             | LB | CH | CJ | RK | TW |
 |:--------------------------|:---|:---|:---|:---|:---|
+| Thurs, October 19, 2017   | EA | UA |  P |  P |  P |
 | Thurs, September 21, 2017 |  P |  P |  P |  P |  P |
 | Wed, August 30, 2017      |  P |  P |  P | EA |  P |
 | Wed, July 26, 2017        |  P |  P |  P |  P |  P |
@@ -18,7 +19,8 @@
 - RK - Roan Kattouw
 - TW - Tony Wasserman
 
-### Row Values
+### Cell Values
 
-- EA - Excused Absence
 - P - Present
+- EA - Excused Absence
+- UA - Unexcused Absence
