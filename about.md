@@ -24,7 +24,5 @@ For individual email addresses of some of the committee members, see the
 Below are the regular written reports submitted to the Elections
 Commission, per the committee's bylaws.
 
-* [OSVTAC Report #1][osvtac-report-1] (dated September 5, 2017)
-
-
-[osvtac-report-1]: files/reports/OSVTAC_Report_01_September_5_2017.pdf
+* [OSVTAC Report #1](files/reports/OSVTAC_Report_01_September_5_2017.pdf)
+  (dated September 5, 2017)
