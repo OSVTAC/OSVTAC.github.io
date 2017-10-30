@@ -15,7 +15,21 @@ the agenda under each item. Links are added when the documents become
 available.
 
 
-# External Links
+## Committee Recommendations
+
+For the latest version of the committee's San Francisco open source voting
+system project recommendations, see:
+
+* [**Open Source Voting System Project Recommendations**][osvtac-recommendations]
+
+For more on the committee's recommendations, including how to provide
+feedback, see the [Recommendations](documents) page.
+
+
+[osvtac-recommendations]: recommendations/index
+
+
+## External Links
 
 - [OSVTAC on GitHub](https://github.com/OSVTAC)
 - [San Francisco Elections Commission](https://sfgov.org/electionscommission)
