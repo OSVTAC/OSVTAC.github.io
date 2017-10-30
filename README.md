@@ -17,13 +17,14 @@ available.
 
 ## Committee Recommendations
 
-For the latest version of the committee's San Francisco open source voting
-system project recommendations, see:
+For the latest version of the committee's recommendations on the San Francisco
+open source voting system project, see:
 
 * [**Open Source Voting System Project Recommendations**][osvtac-recommendations]
 
-For more on the committee's recommendations, including how to provide
-feedback, see the [Recommendations](documents) page.
+For background on the committee's recommendations, including how to provide
+feedback for the next version, see the linked section of the
+[About](about#project-recommendations) page.
 
 
 [osvtac-recommendations]: recommendations/index
