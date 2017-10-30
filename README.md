@@ -1,6 +1,5 @@
-For meeting announcements via Twitter, you can also follow the Elections
-Commission Twitter account here:
-[@SFElectionsComm](https://twitter.com/SFElectionsComm).
+For meeting announcements, you can also follow the Elections Commission
+Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 # Next Meeting
 
@@ -15,13 +14,8 @@ Commission Twitter account here:
 the agenda under each item. Links are added when the documents become
 available.
 
-# Project Recommendations
 
-For OSVTAC's latest project recommendations, see the [Documents](documents)
-page.
-
-
-# Links
+# External Links
 
 - [OSVTAC on GitHub](https://github.com/OSVTAC)
 - [San Francisco Elections Commission](https://sfgov.org/electionscommission)
