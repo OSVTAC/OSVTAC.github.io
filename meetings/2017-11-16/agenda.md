@@ -55,8 +55,8 @@ Discussion and possible action to approve Minutes for the September 21, 2017
 and October 19, 2017 Committee meetings.
 
 Agenda Packet:
-(1) [September 21 Draft Minutes](meetings/2017-09-21/minutes-draft),
-(2) [October 19 Draft Minutes](meetings/2017-10-19/minutes-draft)
+(1) [September 21 Draft Minutes](/meetings/2017-09-21/minutes-draft),
+(2) [October 19 Draft Minutes](/meetings/2017-10-19/minutes-draft)
 
 
 **5\. Member Reports**
