@@ -6,6 +6,7 @@ channel][youtube-channel].
 
 | Date                      | Agenda & Packet* | Minutes | Audio |
 |:--------------------------|:----------------|:--------|:------|
+| Thurs, November 16, 2017  | [HTML](meetings/2017-11-16/agenda) / [PDF](files/meetings/2017-11-16/2017_11_16_OSVTAC_Agenda.pdf)  | TBA | [3 hr 23 min (YT)](https://www.youtube.com/watch?v=MlD2RJvSlpI) |
 | Thurs, October 19, 2017   | [HTML](meetings/2017-10-19/agenda) / [PDF](files/meetings/2017-10-19/2017_10_19_OSVTAC_Agenda.pdf)  | [HTML (Draft)](meetings/2017-10-19/minutes-draft) | [2 hr 23 min (YT)](https://www.youtube.com/watch?v=88eewdZs2jM) |
 | Thurs, September 21, 2017 | [HTML](meetings/2017-09-21/agenda) / [PDF](files/meetings/2017-09-21/2017_09_21_OSVTAC_Agenda.pdf)  | [HTML (Draft)](meetings/2017-09-21/minutes-draft) | [3 hr 49 min (YT)](https://www.youtube.com/watch?v=YRoPkECqfcs) |
 | Wed, August 30, 2017      | [HTML](meetings/2017-08-30/agenda) / [PDF](files/meetings/2017-08-30/2017_08_30_OSVTAC_Agenda.pdf)  | [HTML](meetings/2017-08-30/minutes)       | [3 hr  7 min (YT)](https://www.youtube.com/watch?v=6Gy5YinBUPc) |

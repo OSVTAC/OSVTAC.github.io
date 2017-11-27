@@ -5,7 +5,7 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                      | Time   | Location            | Agenda & Packet* |
 |:--------------------------|:-------|:--------------------|:-----------------|
-| Thurs, November 16, 2017  | 6:00PM | City Hall, Room 421 | [HTML][next-agenda-html] / [PDF][next-agenda-pdf] |
+| Thurs, December 14, 2017  | 6:00PM | (Date tentative)    | TBA |
 
 [next-agenda-html]: meetings/2017-11-16/agenda
 [next-agenda-pdf]: files/meetings/2017-11-16/2017_11_16_OSVTAC_Agenda.pdf
