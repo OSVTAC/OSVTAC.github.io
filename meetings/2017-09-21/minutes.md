@@ -1,4 +1,4 @@
-Draft Meeting Minutes: September 21, 2017
+Meeting Minutes: September 21, 2017
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -16,7 +16,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-MEETING MINUTES (DRAFT)<br>
+MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee<br>
 of the San Francisco Elections Commission<br>
 Thursday, September 21, 2017<br>
@@ -66,7 +66,7 @@ up, but they can work on their own profiles if they want.
 Member Kattouw reported he would be going to New Hampshire on personal
 business in the next couple of months, so if the Committee wanted him to
 touch base with the people working on their open source voting system, he’d
-be happy to. He asked if Committee members could issue “poll requests”. He
+be happy to. He asked if Committee members could issue “pull requests”. He
 asked what the term “re-making ballots” means (heard at the Elections
 Commission meeting. Member Bafundo explained what he’s seen in the LA process.
 
@@ -87,7 +87,7 @@ made.
 electronically, but it was only used for accessible voting.
 
 4. The Travis Co. system is similar to Prime III, voting in precincts, but
-can use a QR code to print the allot. It is just being proposed now.
+can use a QR code to print the ballot. It is just being proposed now.
 
 Member Wasserman gave a short review of his report to the Elections
 Commission last night.

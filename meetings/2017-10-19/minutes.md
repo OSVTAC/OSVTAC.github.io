@@ -1,4 +1,4 @@
-Draft Meeting Minutes: October 19, 2017
+Meeting Minutes: October 19, 2017
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -16,7 +16,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-MEETING MINUTES (DRAFT)<br>
+MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee<br>
 of the San Francisco Elections Commission<br>
 Thursday, October 19, 2017<br>
@@ -234,7 +234,7 @@ carried unanimously, 3-0.
 
 **11\. Committee Recommendations**
 
-Member Kattouw reviewed his patch files.
+Member Kattouw talked through his patch files.
 
 Chair Jerdonek asked if he purposely did not specify that the system had to
 be built using open source tools. Maybe the language needs firming up to say
