@@ -47,6 +47,13 @@ Alternatively, if you have a [GitHub][github] account and are familiar with
 the recommendations and follow the instructions in the README file for
 providing feedback.
 
+At its November 2017 meeting, the committee voted that its recommendations
+document be licensed under a [Creative Commons Attribution-ShareAlike 4.0
+International License](http://creativecommons.org/licenses/by-sa/4.0/)
+(CC BY-SA 4.0). Thus, individuals suggesting specific wording must agree
+to their contributions being licensed under CC BY-SA 4.0 before the
+committee can include it.
+
 The committee may discuss and/or vote on your suggestions at a future
 meeting. Note that because of San Francisco's [Sunshine Ordinance] and other
 open government laws, the committee is limited in how it can collaborate
