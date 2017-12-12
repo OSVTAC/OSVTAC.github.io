@@ -57,13 +57,20 @@ this agenda, including but not limited to the last Elections Commission
 meeting, Department of Elections progress, research findings, and news
 reports.
 
+Agenda Packet:
+(1) [Hage Email - Nov. 16](/files/meetings/2017-12-14/packet/Hage_Email_Nov_16_2017.pdf),
+(2) [Business Case Template](/files/meetings/2017-12-14/packet/SF_Business_Case_Template_v1.pdf)
+
 
 **5\. Administration**
 
-Member reports on committee-related activities not covered by another item on
-this agenda, including but not limited to the last Elections Commission
-meeting, Department of Elections progress, research findings, and news
-reports.
+Discussion and possible action regarding administrative issues including but
+not limited to attendance at Elections Commission meetings by Committee
+members, the Committee's website, and the Committee’s written reports to the
+Commission.
+
+Agenda Packet:
+[Draft Written Report #2 - Bafundo](/files/meetings/2017-12-14/packet/OSVTAC_Report_02_January_DRAFT.pdf)
 
 
 **6\. Committee Goals and Assumptions**
@@ -92,12 +99,18 @@ subjects of requirements, open source, software development processes,
 software architecture and design, hardware, intellectual property, and
 testing.
 
+Agenda Packet:
+[Recommendation Document - Section 4](/files/meetings/2017-12-14/packet/TAC_Recommendations_Section_4.pdf)
+
 
 **10\. Voting Process and Equipment Decisions**
 
 Discussion and possible action regarding voting process and equipment
 decisions that need to be made to implement open-source voting in San
 Francisco.
+
+Agenda Packet:
+[Hage Memo](/files/meetings/2017-12-14/packet/Hage_Decisions_Memo.pdf)
 
 
 **11\. Topics for future discussion**
