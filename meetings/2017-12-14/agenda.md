@@ -84,12 +84,20 @@ assumptions.
 Discussion and possible action regarding project background and terminology,
 including around voting system components and other voting system projects.
 
+Agenda Packet:
+(1) [Suggestion re: VVSG - Jerdonek](/files/meetings/2017-12-14/packet/jerdonek-patches/jerdonek-patch-01-background-vvsg.txt),
+(2) [Suggestion re: Glossary - Jerdonek](/files/meetings/2017-12-14/packet/jerdonek-patches/jerdonek-patch-03-glossary.txt)
+
 
 **8\. Project Management and Procurement**
 
 Discussion and possible action regarding project management and procurement,
 including topics like modular contracting, agile development in government,
 and incremental approaches to the project.
+
+Agenda Packet:
+(1) [Suggestion re: Agile - Jerdonek](/files/meetings/2017-12-14/packet/jerdonek-patches/jerdonek-patch-05-recommendations-agile.txt),
+(2) [Suggestion re: Incremental approaches - Jerdonek](/files/meetings/2017-12-14/packet/jerdonek-patches/jerdonek-patch-06-recommendations-incremental.txt)
 
 
 **9\. Committee Recommendations**
@@ -100,7 +108,9 @@ software architecture and design, hardware, intellectual property, and
 testing.
 
 Agenda Packet:
-[Recommendation Document - Section 4](/files/meetings/2017-12-14/packet/TAC_Recommendations_Section_4.pdf)
+(1) [Recommendation Document - Section 4](/files/meetings/2017-12-14/packet/TAC_Recommendations_Section_4.pdf),
+(2) [Suggestion re: FAQ - Jerdonek](/files/meetings/2017-12-14/packet/jerdonek-patches/jerdonek-patch-02-faq.txt),
+(3) [Suggestion re: Testing - Jerdonek](/files/meetings/2017-12-14/packet/jerdonek-patches/jerdonek-patch-04-recommendations-testing.txt)
 
 
 **10\. Voting Process and Equipment Decisions**
