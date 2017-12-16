@@ -3,4 +3,4 @@
 	url = https://github.com/OSVTAC/site-files.git
 [submodule "recommendations"]
 	path = recommendations
-	url = https://github.com/OSVTAC/project-recommendations.git
+	url = https://github.com/OSVTAC/project-recommendations-site.git
