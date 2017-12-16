@@ -1,4 +1,4 @@
-Draft Meeting Minutes: November 16, 2017
+Meeting Minutes: November 16, 2017
 
 
 <div id="meeting_header_right" class="headered">
@@ -17,7 +17,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-MEETING MINUTES (DRAFT)<br>
+MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee<br>
 of the San Francisco Elections Commission<br>
 Thursday, November 16, 2017<br>
@@ -176,12 +176,12 @@ Member Kattouw mentioned his report at the Elections Commission meeting and
 some of the discussion items that were dealt with, including a report from
 both BOPEC and Slalom, and a memo from Travis County explaining why they are
 not going forward with open source. He also mentioned that he submitted a
-proposal to speak at Libre Planet’s March conference. Lastly, he said he heard
+proposal to speak at LibrePlanet’s March conference. Lastly, he said he heard
 that Concord, New Hampshire had used the Prime III system for a local
 election.
 
 Member Wasserman raised the idea of Member Kattouw doing his presentation at
-a smaller conference as a “practice run” and mentioned Scale (which will be
+a smaller conference as a “practice run” and mentioned SCALE (which will be
 held in Pasadena before the LibrePlanet conference).
 
 
@@ -191,9 +191,9 @@ Chair Jerdonek reviewed the meeting schedule for the rest of the year and
 going into next year. The December meeting will be on the 14th. Member
 Wasserman will attend the December 20 Elections Commission meeting, Vice
 Chair Bafundo will attend the January 17 Commission meeting, and Member
-Wasserman will do the February 21 and March 21 meetings. For next year the
-committee will try a second Thursday meeting schedule, but remain flexible if
-changes are needed.
+Wasserman is available for the February 21 and March 21 meetings. For next
+year the committee will try a second Thursday meeting schedule, but remain
+flexible if changes are needed.
 
 Chair Jerdonek reported on changes he made to the website. He said there was
 a suggestion that when changes are made to the recommendations document, the
@@ -298,10 +298,10 @@ VVSG (voluntary voting systems guidelines) has gone through three iterations,
 and that the latest version adopted in March 2015 removed the prohibition on
 interpreted languages.
 
-Member Kattouw brought up a question around his use of the word reproducible…
-(vis-à-vis building open source systems), and he clarified that to mean
-something that could be taken and independently built by other government
-bodies.
+Member Kattouw brought up a question from Chair Jerdonek around his use of
+the word reproducible (vis-à-vis building open source systems), and he
+clarified that to mean something that could be taken and independently built
+by other government bodies.
 
 Chair Jerdonek mentioned some other items to be discussed: 1) concern for
 patent infringement, 2) should the City own the copyright or dual copyright
