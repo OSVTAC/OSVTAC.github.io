@@ -5,7 +5,7 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                      | Time   | Location            | Agenda & Packet* |
 |:--------------------------|:-------|:--------------------|:-----------------|
-| Thurs, January 11, 2018   | 6:00PM | (Date tentative)    | TBA |
+| Thurs, January 18, 2018   | 6:00PM | (Date tentative)    | TBA |
 
 [next-agenda-html]: meetings/2017-12-14/agenda
 [next-agenda-pdf]: files/meetings/2017-12-14/2017_12_14_OSVTAC_Agenda.pdf
