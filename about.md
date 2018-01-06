@@ -77,3 +77,5 @@ Commission, per the committee's bylaws.
 
 * [OSVTAC Report #1](files/reports/OSVTAC_Report_01_September_5_2017.pdf)
   (dated September 5, 2017)
+* [OSVTAC Report #2](files/reports/OSVTAC_Report_02_January_5_2018.pdf)
+  (dated January 5, 2018)
