@@ -5,10 +5,10 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                      | Time   | Location            | Agenda & Packet* |
 |:--------------------------|:-------|:--------------------|:-----------------|
-| Thurs, January 18, 2018   | 6:00PM | (Date tentative)    | TBA |
+| Thurs, January 18, 2018   | 6:00PM | City Hall, Room 421 | [PDF][next-agenda-pdf] |
 
 [next-agenda-html]: meetings/2017-12-14/agenda
-[next-agenda-pdf]: files/meetings/2017-12-14/2017_12_14_OSVTAC_Agenda.pdf
+[next-agenda-pdf]: files/meetings/2018-01-18/2018_01_18_OSVTAC_Agenda.pdf
 
 \*Agenda packet documents are available as hyperlinks in the HTML version of
 the agenda under each item. Links are added when the documents become
