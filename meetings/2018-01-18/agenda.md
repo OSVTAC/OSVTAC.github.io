@@ -46,6 +46,9 @@ is not covered by another item on this agenda.
 Discussion and possible action to approve Minutes for the December 14, 2017
 Committee meeting.
 
+Agenda Packet:
+[Draft Meeting Minutes](/meetings/2017-12-14/minutes-draft)
+
 
 **4\. Member Reports**
 
