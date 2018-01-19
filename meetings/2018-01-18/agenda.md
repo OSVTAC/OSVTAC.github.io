@@ -57,6 +57,11 @@ this agenda, including but not limited to the last Elections Commission
 meeting, Department of Elections progress, research findings, and news
 reports.
 
+Agenda Packet:
+(1) [Hage - Suggestion #1](/files/meetings/2018-01-18/packet/hage-diffs-ch181701.txt),
+(2) [Hage - Suggestion #2](/files/meetings/2018-01-18/packet/hage-diff-ch20180118.txt),
+(3) [Hage - Summary](/files/meetings/2018-01-18/packet/hage-diffs-summary.txt)
+
 
 **5\. Administration**
 
@@ -77,6 +82,9 @@ including other voting system projects.
 Discussion and possible action regarding project management and procurement,
 including topics like modular contracting, agile development in government,
 and incremental approaches to the project.
+
+Agenda Packet:
+[Wasserman - Suggestion](/files/meetings/2018-01-18/packet/wasserman_suggestion.pdf)
 
 
 **8\. Equipment Decisions and Implementation Plan**
