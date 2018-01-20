@@ -23,6 +23,7 @@ To send an email to all of the committee members, see the [About](about) page.
 
 | Meeeting Date             | LB | CH | CJ | RK | TW |
 |:--------------------------|:---|:---|:---|:---|:---|
+| Thurs, January 18, 2018   | EA | DE |  P |  P | EL |
 | Thurs, December 14, 2017  | EA | EL |  P |  P |  P |
 | Thurs, November 16, 2017  |  P | EA |  P |  P |  P |
 | Thurs, October 19, 2017   | EA | UA |  P |  P |  P |
@@ -45,6 +46,7 @@ To send an email to all of the committee members, see the [About](about) page.
 - EA - Excused Absence
 - UA - Unexcused Absence
 - EL - Excused Late
+- DE - Departed Early
 
 
 ## Member Bios
