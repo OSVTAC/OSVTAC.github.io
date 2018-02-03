@@ -11,7 +11,7 @@
 |:---------------------|:-----------|:---------------------------|:---------------|
 | Christopher Jerdonek | Chair      | <chris.jerdonek@sfgov.org> | April 20, 2018 |
 | Larry Bafundo        | Vice Chair | TBA                        | May 18, 2018   |
-| Carl Hage            |            | TBA                        | May 18, 2018   |
+| Carl Hage            |            | <carl.hage@sfgov.org>      | May 18, 2018   |
 | Roan Kattouw         |            | <roan.kattouw@sfgov.org>   | May 18, 2018   |
 | Tony Wasserman       |            | N/A                        | May 18, 2018   |
 
