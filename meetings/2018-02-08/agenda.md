@@ -46,7 +46,8 @@ is not covered by another item on this agenda.
 Discussion and possible action to approve Minutes for the January 18, 2018
 Committee meeting.
 
-Agenda Packet: TBA
+Agenda Packet:
+[Jan. 18, 2018 Draft Minutes](/files/meetings/2018-02-08/packet/2018_01_18_OSVTAC_Minutes_Draft.pdf) (PDF)
 
 
 **4\. Administration**
@@ -64,11 +65,17 @@ this agenda, including but not limited to the last Elections Commission
 meeting, Department of Elections progress, research findings, and news
 reports.
 
+Agenda Packet:
+[Dept. of Elections RFP #2018-01](/files/meetings/2018-02-08/packet/FA52092.pdf) (PDF)
+
 
 **6\. Project Background and Terminology**
 
 Discussion and possible action regarding project background and terminology,
 including other voting system projects.
+
+Agenda Packet:
+[Suggestion re: Background - Hage](/files/meetings/2018-02-08/packet/diff-ch20180208-bkg.txt)
 
 
 **7\. Project Management and Procurement**
@@ -82,6 +89,9 @@ and incremental approaches to the project.
 
 Discussion and possible action regarding implementation plans for open-source
 voting, including voting process and equipment decisions that need to be made.
+
+Agenda Packet:
+[Suggestions re: Decisions - Hage](/files/meetings/2018-02-08/packet/diff-ch20180208-rec.pdf) (PDF)
 
 
 **9\. Committee Recommendations**
