@@ -86,6 +86,10 @@ Discussion and possible action regarding implementation plans for open-source
 voting, including timeline as well as decisions that need to be made
 regarding voting process and equipment.
 
+Agenda Packet:
+(1) [Jerdonek Suggestion #1 - Overview (PDF)](/files/meetings/2018-03-08/packet/Jerdonek_Suggestion_1.pdf),
+(2) [Jerdonek Suggestion #1 - Diff (TXT)](/files/meetings/2018-03-08/packet/jerdonek-patch-1-components.txt)
+
 
 **9\. Committee Recommendations**
 
