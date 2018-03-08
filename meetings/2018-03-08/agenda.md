@@ -89,6 +89,8 @@ regarding voting process and equipment.
 Agenda Packet:
 (1) [Jerdonek Suggestion #1 - Overview (PDF)](/files/meetings/2018-03-08/packet/Jerdonek_Suggestion_1.pdf),
 (2) [Jerdonek Suggestion #1 - Diff (TXT)](/files/meetings/2018-03-08/packet/jerdonek-patch-1-components.txt)
+(3) [Jerdonek Suggestion #2 - Overview (PDF)](/files/meetings/2018-03-08/packet/Jerdonek_Suggestion_2.pdf),
+(4) [Jerdonek Suggestion #2 - Diff (TXT)](/files/meetings/2018-03-08/packet/jerdonek-patch-2-decisions.txt)
 
 
 **9\. Committee Recommendations**
