@@ -58,6 +58,8 @@ not limited to attendance at Elections Commission meetings by Committee
 members, the Committee's website, and the Committee’s written reports to the
 Commission.
 
+Agenda Packet: [Hage Suggestion #1 - Diff (TXT)](/files/meetings/2018-03-08/packet/Hage_0009-Add-documentation-set-UTF-8-for-file-IO.txt)
+
 
 **5\. Member Reports**
 
@@ -91,6 +93,8 @@ Agenda Packet:
 (2) [Jerdonek Suggestion #1 - Diff (TXT)](/files/meetings/2018-03-08/packet/jerdonek-patch-1-components.txt)
 (3) [Jerdonek Suggestion #2 - Overview (PDF)](/files/meetings/2018-03-08/packet/Jerdonek_Suggestion_2.pdf),
 (4) [Jerdonek Suggestion #2 - Diff (TXT)](/files/meetings/2018-03-08/packet/jerdonek-patch-2-decisions.txt)
+(5) [Hage - Security (PDF)](/files/meetings/2018-03-08/packet/Hage_5.3.2crypto.pdf)
+(6) [Jerdonek Proposed Recommendation (PDF)](/files/meetings/2018-03-08/packet/Proposed_Funding_Recommendation_Jerdonek.pdf)
 
 
 **9\. Committee Recommendations**
