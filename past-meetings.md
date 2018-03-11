@@ -1,8 +1,7 @@
 # Past Meetings
 
-Audio for the meetings can also be found on the Commission's [YouTube
-channel][youtube-channel].
-
+Audio for the meetings can also be found on the Elections Commission's
+[YouTube channel][youtube-channel].
 
 
 | Date                      | Agenda & Packet* | Minutes | Audio |
