@@ -93,7 +93,16 @@ in mathematics from the University of California, Davis.
 
 ### Roan Kattouw
 
-TBA
+Roan Kattouw is a professional software engineer. He has contributed to open
+source software in his free time since 2007, and professionally since 2009.
+Roan works at the Wikimedia Foundation, the non-profit organization that
+operates Wikipedia and its sister projects. All software developed at
+Wikimedia is open source, with both volunteers and paid staff contributing.
+
+Roan has spoken at well-known open source conferences like OSCON,
+Linux.conf.au and LibrePlanet. He has an M.S. in Computer Science from
+Stanford University, and a BSc in Computer Science from the University of
+Groningen.
 
 
 ### Tony Wasserman
