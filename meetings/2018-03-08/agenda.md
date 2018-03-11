@@ -93,8 +93,7 @@ Agenda Packet:
 (2) [Jerdonek Suggestion #1 - Diff (TXT)](/files/meetings/2018-03-08/packet/jerdonek-patch-1-components.txt)
 (3) [Jerdonek Suggestion #2 - Overview (PDF)](/files/meetings/2018-03-08/packet/Jerdonek_Suggestion_2.pdf),
 (4) [Jerdonek Suggestion #2 - Diff (TXT)](/files/meetings/2018-03-08/packet/jerdonek-patch-2-decisions.txt)
-(5) [Hage - Security (PDF)](/files/meetings/2018-03-08/packet/Hage_5.3.2crypto.pdf)
-(6) [Jerdonek Proposed Recommendation (PDF)](/files/meetings/2018-03-08/packet/Proposed_Funding_Recommendation_Jerdonek.pdf)
+(5) [Jerdonek Proposed Recommendation (PDF)](/files/meetings/2018-03-08/packet/Proposed_Funding_Recommendation_Jerdonek.pdf)
 
 
 **9\. Committee Recommendations**
@@ -103,6 +102,9 @@ Discussion and possible action regarding Committee recommendations on the
 subjects of requirements, open source, software development processes,
 software architecture and design, hardware, intellectual property, and
 testing.
+
+Agenda Packet:
+[Hage - Security (PDF)](/files/meetings/2018-03-08/packet/Hage_5.3.2crypto.pdf)
 
 
 **10\. Topics for future discussion**
