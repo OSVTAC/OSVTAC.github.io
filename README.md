@@ -5,7 +5,7 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                      | Time   | Location            | Agenda & Packet* |
 |:--------------------------|:-------|:--------------------|:-----------------|
-| Thurs, March 8, 2018      | 6:00PM | City Hall, Room 421 | [HTML][next-agenda-html] / [PDF][next-agenda-pdf] |
+| Thurs, April 12, 2018     | 6:00PM | City Hall, Room 421 | TBA |
 
 [next-agenda-html]: meetings/2018-03-08/agenda
 [next-agenda-pdf]: files/meetings/2018-03-08/2018_03_08_OSVTAC_Agenda.pdf
