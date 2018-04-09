@@ -5,10 +5,10 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                      | Time   | Location            | Agenda & Packet* |
 |:--------------------------|:-------|:--------------------|:-----------------|
-| Thurs, April 12, 2018     | 6:00PM | City Hall, Room 421 | TBA |
+| Thurs, April 12, 2018     | 6:00PM | City Hall, Room 421 | HTML (TBA) / [PDF][next-agenda-pdf] |
 
-[next-agenda-html]: meetings/2018-03-08/agenda
-[next-agenda-pdf]: files/meetings/2018-03-08/2018_03_08_OSVTAC_Agenda.pdf
+[next-agenda-html]: meetings/2018-04-12/agenda
+[next-agenda-pdf]: files/meetings/2018-04-12/2018_04_12_OSVTAC_Agenda.pdf
 
 \*Agenda packet documents are available as hyperlinks in the HTML version of
 the agenda under each item. Links are added when the documents become
