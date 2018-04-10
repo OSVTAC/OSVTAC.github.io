@@ -59,7 +59,7 @@ members, the Committee's website, and the Committee’s written reports to the
 Commission.
 
 Agenda Packet:
-Draft OSVTAC Report #3 (TBA)
+[Draft OSVTAC Report #3](/files/meetings/2018-04-12/packet/Draft_OSVTAC_report_May_2018.pdf)
 
 
 **5\. Member Reports**
@@ -69,6 +69,9 @@ this agenda, including but not limited to the last Elections Commission
 meeting, Department of Elections progress, research findings, conferences,
 and news reports.
 
+Agenda Packet:
+[Improving hiring for San Francisco - RFI](/files/meetings/2018-04-12/packet/Improving_Hiring_RFI.pdf)
+
 
 **6\. Slalom Report**
 
@@ -77,7 +80,10 @@ Feasibility Assessment" report prepared by Slalom for the Department of
 Elections.
 
 Agenda Packet:
-Slalom Report (TBA)
+(1) [Slalom Report](/files/meetings/2018-04-12/packet/CCSF_-_Open_Source_Voting_System_-_Feasibility_Assessment_vFINAL.PDF),
+(2) [Slalom Questions - David Cary](/files/meetings/2018-04-12/packet/questions-slalom-report-dcary.pdf),
+(3) [Slalom Graphical - David Cary](/files/meetings/2018-04-12/packet/slalom-report-graphically-dcary.pdf)
+
 
 **7\. Voting System Component Development**
 
