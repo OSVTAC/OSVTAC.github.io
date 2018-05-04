@@ -5,10 +5,10 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                      | Time   | Location            | Agenda & Packet* |
 |:--------------------------|:-------|:--------------------|:-----------------|
-| Wed, May 9, 2018          | 6:00PM | City Hall, Room 421 | TBA |
+| Wed, May 9, 2018          | 6:00PM | City Hall, Room 421 | [PDF][next-agenda-pdf] / HTML (TBA) |
 
-[next-agenda-html]: meetings/2018-04-12/agenda
-[next-agenda-pdf]: files/meetings/2018-04-12/2018_04_12_OSVTAC_Agenda.pdf
+[next-agenda-html]: meetings/2018-05-09/agenda
+[next-agenda-pdf]: files/meetings/2018-05-09/2018_05_09_OSVTAC_Agenda.pdf
 
 \*Agenda packet documents are available as hyperlinks in the HTML version of
 the agenda under each item. Links are added when the documents become
