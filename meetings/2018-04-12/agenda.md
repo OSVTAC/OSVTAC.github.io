@@ -96,12 +96,18 @@ the development of one or more voting system components as a proof of concept.
 Discussion and possible action regarding project background and terminology,
 including other voting system projects.
 
+Agenda Packet:
+[Hage - Security Appendix (PDF)](/files/meetings/2018-04-12/packet/hage-appendix-crypto.pdf)
+
 
 **9\. Equipment Decisions and Implementation Plan**
 
 Discussion and possible action regarding implementation plans for open-source
 voting, including timeline as well as decisions that need to be made
 regarding voting process and equipment.
+
+Agenda Packet:
+[Hage - Equipment Decisions (diff)](/files/meetings/2018-04-12/packet/hage-ch2018-03-02.txt)
 
 
 **10\. Committee Recommendations**
@@ -110,6 +116,9 @@ Discussion and possible action regarding Committee recommendations on the
 subjects of requirements, open source, software development processes,
 software architecture and design, hardware, intellectual property, and
 testing.
+
+Agenda Packet:
+[Hage - Recommendations (PDF)](/files/meetings/2018-04-12/packet/hage-rec5.8.pdf)
 
 
 **11\. Topics for future discussion**
