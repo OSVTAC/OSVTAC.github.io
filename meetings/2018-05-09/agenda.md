@@ -102,6 +102,9 @@ Discussion and possible action regarding the "Open Source Voting System
 Feasibility Assessment" report prepared by Slalom for the Department of
 Elections.
 
+Agenda Packet:
+[Slalom Report](/files/meetings/2018-05-09/packet/Slalom_Report_Sections_1-5.pdf) (first five sections)
+
 
 **11\. Topics for future discussion**
 
