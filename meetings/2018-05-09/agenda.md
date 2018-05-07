@@ -49,7 +49,7 @@ April 12, 2018 Committee meetings.
 
 Agenda Packet:
 (1) [March 8, 2018 Draft Minutes](/meetings/2018-03-08/minutes-draft),
-(2) April 12, 2018 Draft Minutes (TBA)
+(2) [April 12, 2018 Draft Minutes](/meetings/2018-04-12/minutes-draft)
 
 
 **4\. Administration**

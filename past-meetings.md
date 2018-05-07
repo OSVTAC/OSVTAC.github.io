@@ -6,7 +6,7 @@ Audio for the meetings can also be found on the Elections Commission's
 
 | Date                      | Agenda & Packet* | Minutes | Audio |
 |:--------------------------|:-----------------|:--------|:------|
-| Thurs, April 12, 2018     | [HTML](meetings/2018-04-12/agenda) / [PDF](files/meetings/2018-04-12/2018_04_12_OSVTAC_Agenda.pdf)  | TBA                                               | [4 hr 31 min (YT)](https://www.youtube.com/watch?v=ymV1dqDBRR4) |
+| Thurs, April 12, 2018     | [HTML](meetings/2018-04-12/agenda) / [PDF](files/meetings/2018-04-12/2018_04_12_OSVTAC_Agenda.pdf)  | [HTML (Draft)](meetings/2018-04-12/minutes-draft) | [4 hr 31 min (YT)](https://www.youtube.com/watch?v=ymV1dqDBRR4) |
 | Thurs, March 8, 2018      | [HTML](meetings/2018-03-08/agenda) / [PDF](files/meetings/2018-03-08/2018_03_08_OSVTAC_Agenda.pdf)  | [HTML (Draft)](meetings/2018-03-08/minutes-draft) | [2 hr  2 min (YT)](https://www.youtube.com/watch?v=OIFnabnuFYw) |
 | Thurs, February 8, 2018   | [HTML](meetings/2018-02-08/agenda) / [PDF](files/meetings/2018-02-08/2018_02_08_OSVTAC_Agenda.pdf)  | [HTML](meetings/2018-02-08/minutes)               | [2 hr 33 min (YT)](https://www.youtube.com/watch?v=NYnhnEKFBnE) |
 | Thurs, January 18, 2018   | [HTML](meetings/2018-01-18/agenda) / [PDF](files/meetings/2018-01-18/2018_01_18_OSVTAC_Agenda.pdf)  | [PDF](files/meetings/2018-01-18/2018_01_18_OSVTAC_Minutes.pdf) | [2 hr 11 min (YT)](https://www.youtube.com/watch?v=-J_YRZ9z308) |
