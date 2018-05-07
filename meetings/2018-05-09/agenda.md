@@ -87,6 +87,9 @@ Discussion and possible action regarding implementation plans for open-source
 voting, including timeline as well as decisions that need to be made
 regarding voting process and equipment.
 
+Agenda Packet:
+[Hage Suggestions (TXT)](/files/meetings/2018-05-09/packet/hage-decisions-2018-05-07.txt)
+
 
 **9\. Committee Recommendations**
 
