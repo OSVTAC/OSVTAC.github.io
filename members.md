@@ -23,6 +23,7 @@ To send an email to all of the committee members, see the [About](about) page.
 
 | Meeeting Date             | LB | CH | CJ | RK | TW |
 |:--------------------------|:---|:---|:---|:---|:---|
+| Wed, May 9, 2018          | EA |  P |  P |  P | EA |
 | Thurs, April 12, 2018     | EA |  P |  P |  P | DE |
 | Thurs, March 8, 2018      | EL |  P |  P |  P |  P |
 | Thurs, February 8, 2018   | EA |  P | EA |  P |  P |
