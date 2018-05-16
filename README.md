@@ -3,14 +3,16 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 # Next Meeting
 
-| Date                      | Time   | Location            | Agenda & Packet* |
-|:--------------------------|:-------|:--------------------|:-----------------|
+| Date                      | Time   | Location            | Agenda* & Packet** |
+|:--------------------------|:-------|:--------------------|:-------------------|
 | Thurs, June 14, 2018      | 6:00PM | City Hall, Room 305 | TBA |
 
 [next-agenda-html]: meetings/2018-06-14/agenda
 [next-agenda-pdf]: files/meetings/2018-06-14/2018_06_14_OSVTAC_Agenda.pdf
 
-\*Agenda packet documents are available as hyperlinks in the HTML version of
+\*The agenda is posted at least 72 hours before the start of the meeting.
+
+\*\*Agenda packet documents are available as hyperlinks in the _HTML_ version of
 the agenda under each item. Links are added when the documents become
 available.
 
