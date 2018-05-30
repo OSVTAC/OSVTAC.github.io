@@ -9,11 +9,11 @@
 
 | Name                 | Position   | Email                      | Term Ends      |
 |:---------------------|:-----------|:---------------------------|:---------------|
-| Christopher Jerdonek | Chair      | <chris.jerdonek@sfgov.org> | April 20, 2018 |
+| Christopher Jerdonek | Chair      | <chris.jerdonek@sfgov.org> | May 17, 2019   |
 | Larry Bafundo        | Vice Chair | TBA                        | May 18, 2018   |
-| Carl Hage            |            | <carl.hage@sfgov.org>      | May 18, 2018   |
-| Roan Kattouw         |            | <roan.kattouw@sfgov.org>   | May 18, 2018   |
-| Tony Wasserman       |            | N/A                        | May 18, 2018   |
+| Carl Hage            |            | <carl.hage@sfgov.org>      | May 17, 2019   |
+| Roan Kattouw         |            | <roan.kattouw@sfgov.org>   | May 17, 2019   |
+| Tony Wasserman       |            | N/A                        | May 17, 2019   |
 
 To send an email to all of the committee members, see the [About](about) page.
 
@@ -58,6 +58,8 @@ To send an email to all of the committee members, see the [About](about) page.
 
 ### Larry Bafundo
 
+* Appointed May 17, 2017
+
 Larry Bafundo is a product strategist with broad experience delivering
 digital solutions for the public and private sectors. He is currently a
 product manager at 18F, a consultancy within the federal government that
@@ -69,6 +71,9 @@ products for Fortune 500 companies.
 
 
 ### Carl Hage
+
+* Appointed May 17, 2017
+* Re-appointed May 16, 2018
 
 Carl Hage has been an independent consultant for more than 25 years,
 primarily working in the area of Electronic Design Automation (EDA/CAD) and
@@ -82,11 +87,14 @@ interchange, and election information data.
 
 ### Christopher Jerdonek
 
+* Appointed April 19, 2017
+* Re-appointed May 16, 2018
+
 Christopher Jerdonek has served on the San Francisco Elections Commission
 since 2014 and served as President in 2015 and 2017. He has been active in
 election reform for over fifteen years, including drafting Oakland’s
 ranked-choice voting charter amendment that passed in 2006. He has served as
-a polling place inspector in San Francisco seventeen times. He works as a
+a polling place inspector in San Francisco eighteen times. He works as a
 software developer by day and recently co-founded a start-up. He has
 contributed code to many open source projects including Python, Django,
 Mercurial, and WebKit. He has an A.B. in mathematics from Harvard and a Ph.D.
@@ -94,6 +102,9 @@ in mathematics from the University of California, Davis.
 
 
 ### Roan Kattouw
+
+* Appointed May 17, 2017
+* Re-appointed May 16, 2018
 
 Roan Kattouw is a professional software engineer. He has contributed to open
 source software in his free time since 2007, and professionally since 2009.
@@ -108,6 +119,9 @@ Groningen.
 
 
 ### Tony Wasserman
+
+* Appointed May 17, 2017
+* Re-appointed May 16, 2018
 
 Anthony I. (Tony) Wasserman is a Professor in the Software Management program
 at Carnegie Mellon University's Silicon Valley campus. His research is
