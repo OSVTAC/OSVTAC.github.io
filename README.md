@@ -5,11 +5,10 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                      | Time   | Location            | Agenda* & Packet** |
 |:--------------------------|:-------|:--------------------|:-------------------|
-| Fri, June 8, 2018         | 2:00PM | City Hall, Room 48  | [HTML][next-agenda-html] / [PDF][next-agenda-pdf] |
-| Thurs, June 14, 2018      | 6:00PM | City Hall, Room 305 | TBA |
+| Thurs, June 14, 2018      | 6:00PM | City Hall, Room 479 | [PDF][next-agenda-pdf] / HTML (TBA) |
 
 [next-agenda-html]: meetings/2018-06-08/agenda
-[next-agenda-pdf]: files/meetings/2018-06-08/2018_06_08_OSVTAC_Agenda.pdf
+[next-agenda-pdf]: files/meetings/2018-06-14/2018_06_14_OSVTAC_Agenda.pdf
 
 \*The agenda is posted at least 72 hours before the start of the meeting.
 
