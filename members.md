@@ -87,14 +87,14 @@ interchange, and election information data.
 
 ### Christopher Jerdonek
 
-* Appointed April 19, 2017
-* Re-appointed May 16, 2018
+* Appointed Chair April 19, 2017
+* Re-appointed Chair May 16, 2018
 
 Christopher Jerdonek has served on the San Francisco Elections Commission
 since 2014 and served as President in 2015 and 2017. He has been active in
 election reform for over fifteen years, including drafting Oakland’s
 ranked-choice voting charter amendment that passed in 2006. He has served as
-a polling place inspector in San Francisco eighteen times. He works as a
+a polling place inspector in San Francisco nineteen times. He works as a
 software developer by day and recently co-founded a start-up. He has
 contributed code to many open source projects including Python, Django,
 Mercurial, and WebKit. He has an A.B. in mathematics from Harvard and a Ph.D.
