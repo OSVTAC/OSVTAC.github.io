@@ -109,7 +109,10 @@ Feasibility Assessment" report prepared by Slalom for the Department of
 Elections.
 
 Agenda Packet:
-[Kattouw Comments (TXT)](/files/meetings/2018-06-14/packet/kattouw-slalom-rebuttals-june-2018.txt)
+(1) [Kattouw Comments (TXT)](/files/meetings/2018-06-14/packet/kattouw-slalom-rebuttals-june-2018.txt)
+(2) ["Reasons to Reject Slalom Report"
+(PDF)](/files/meetings/2018-06-14/packet/reasons-to-reject-slalom-dcary.pdf)
+by David Cary
 
 
 **11\. Topics for future discussion**
