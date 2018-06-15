@@ -72,12 +72,7 @@ publicly as individuals.
 
 ### Reports to the Commission
 
-Below are the regular written reports submitted to the Elections
-Commission, per the committee's bylaws.
+For reports to the Commission, see the [“Reports to the
+Commission”][reports-to-the-commission] section of the Communications page.
 
-* [OSVTAC Report #1](files/reports/OSVTAC_Report_01_September_5_2017.pdf)
-  (dated September 5, 2017)
-* [OSVTAC Report #2](files/reports/OSVTAC_Report_02_January_5_2018.pdf)
-  (dated January 5, 2018)
-* [OSVTAC Report #3](files/reports/OSVTAC_Report_03_May_2018.pdf)
-  (dated May 8, 2018)
+[reports-to-the-commission]: communications#reports-to-the-commission
