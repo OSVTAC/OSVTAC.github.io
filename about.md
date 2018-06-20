@@ -9,6 +9,19 @@ Committee](index) (OSVTAC) was formed in April 2017 by the [San Francisco
 Elections Commission](https://sfgov.org/electionscommission).
 
 
+### Bylaws
+
+The committee's bylaws can be found on the Commission's
+[OSVTAC page](https://sfgov.org/electionscommission/osvtac/).
+
+### Reports to the Commission
+
+For reports to the Commission, see the [“Reports to the
+Commission”][reports-to-the-commission] section of the Communications page.
+
+[reports-to-the-commission]: communications#reports-to-the-commission
+
+
 ## Contact
 
 To send an email to the full Committee, you can email
@@ -20,15 +33,7 @@ For individual email addresses of some of the committee members, see the
 [Members](members) page.
 
 
-## Documents
-
-### Bylaws
-
-The committee's bylaws can be found on the Commission's
-[OSVTAC page](https://sfgov.org/electionscommission/osvtac/).
-
-
-### Project Recommendations
+## Project Recommendations
 
 The committee is actively developing recommendations on the San Francisco
 open source voting system project.  For the latest version of these
@@ -68,11 +73,3 @@ publicly as individuals.
 [recommendations-history]: https://github.com/OSVTAC/project-recommendations/commits/master
 [recommendations-repo]: https://github.com/OSVTAC/project-recommendations
 [Sunshine Ordinance]: https://www.sfcityattorney.org/good-government/sunshine/
-
-
-### Reports to the Commission
-
-For reports to the Commission, see the [“Reports to the
-Commission”][reports-to-the-commission] section of the Communications page.
-
-[reports-to-the-commission]: communications#reports-to-the-commission
