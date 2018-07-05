@@ -1,4 +1,4 @@
-Draft Meeting Minutes: April 12, 2018
+Meeting Minutes: April 12, 2018 (approved May 9, 2018)
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -16,7 +16,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-MEETING MINUTES (DRAFT)<br>
+MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee<br>
 of the San Francisco Elections Commission<br>
 Thursday, April 12, 2018<br>
@@ -107,7 +107,7 @@ asking for $6.8 million, but COIT has only recommended allocating $300,000.
 He also referred to the RFI included in the agenda packet to upgrade San
 Francisco's hiring process. The RFI is interesting in that it entertains an
 agile approach. It might be useful as an example of how the process could
-work for the open source votingproject.
+work for the open source voting project.
 
 Member Kattouw commented that the document referenced a process the state of
 Alaska is engaged in, which might be the same one that Member Bafundo

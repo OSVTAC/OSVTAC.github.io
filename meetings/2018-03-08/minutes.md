@@ -1,4 +1,4 @@
-Draft Meeting Minutes: March 8, 2018
+Meeting Minutes: March 8, 2018 (approved May 9, 2018)
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -16,7 +16,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-MEETING MINUTES (DRAFT)<br>
+MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee<br>
 of the San Francisco Elections Commission<br>
 Thursday, March 8, 2018<br>
