@@ -5,7 +5,7 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                      | Time   | Location            | Agenda* & Packet** |
 |:--------------------------|:-------|:--------------------|:-------------------|
-| Thurs, June 14, 2018      | 6:00PM | City Hall, Room 479 | [HTML][next-agenda-html] / [PDF][next-agenda-pdf] |
+| Tues, July 10, 2018       | 6:00PM | City Hall, Room 479 | TBA |
 
 [next-agenda-html]: meetings/2018-06-14/agenda
 [next-agenda-pdf]: files/meetings/2018-06-14/2018_06_14_OSVTAC_Agenda.pdf
