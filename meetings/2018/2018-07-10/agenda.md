@@ -47,7 +47,10 @@ is not covered by another item on this agenda.
 Discussion and possible action to approve Minutes for the May 9, 2018; June
 8, 2018; and June 14, 2018 Committee meetings.
 
-Agenda Packet: TBA
+Agenda Packet:
+(1) [May 9, 2018 Draft Minutes](/meetings/2018-05-09/minutes-draft),
+(2) [June 8, 2018 Draft Minutes](/meetings/2018-06-08/minutes-draft),
+(3) [June 14, 2018 Draft Minutes](/meetings/2018-06-14/minutes-draft)
 
 
 **4\. Administration**
