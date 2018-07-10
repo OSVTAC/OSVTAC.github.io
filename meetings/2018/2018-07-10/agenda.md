@@ -68,6 +68,9 @@ this agenda, including but not limited to the last Elections Commission
 meeting, Department of Elections progress, research findings, conferences,
 and news reports.
 
+Agenda Packet:
+[Tour Questions (PDF)](/files/meetings/2018/2018-07-10/packet/Tour_Questions.pdf)
+
 
 **6\. 2017-2018 Civil Grand Jury Report**
 
@@ -77,7 +80,8 @@ San Francisco.”
 
 Agenda Packet:
 (1) [CGJ Press Release (PDF)](/files/meetings/2018/2018-07-10/packet/OSV_Press_Release.pdf),
-(2) [Civil Grand Jury Report (PDF)](/files/meetings/2018/2018-07-10/packet/2017-18_SFCGJ_Final_Report_Open_Source_Voting_in_San_Francisco.pdf)
+(2) [Civil Grand Jury Report (PDF)](/files/meetings/2018/2018-07-10/packet/2017-18_SFCGJ_Final_Report_Open_Source_Voting_in_San_Francisco.pdf),
+(3) [CGJ Background (PDF)](/files/meetings/2018/2018-07-10/packet/CGJ_Background.pdf)
 
 
 **7\. Voting System Component Development**
