@@ -69,7 +69,8 @@ meeting, Department of Elections progress, research findings, conferences,
 and news reports.
 
 Agenda Packet:
-[Tour Questions (PDF)](/files/meetings/2018/2018-07-10/packet/Tour_Questions.pdf)
+(1) [Tour Questions (PDF)](/files/meetings/2018/2018-07-10/packet/Tour_Questions.pdf),
+(2) [VSAP Contract - IP section](/files/meetings/2018/2018-07-10/packet/VSAP_Contract_IP.pdf)
 
 
 **6\. 2017-2018 Civil Grand Jury Report**
