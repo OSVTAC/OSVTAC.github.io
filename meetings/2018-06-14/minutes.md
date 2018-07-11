@@ -1,4 +1,4 @@
-Draft Meeting Minutes: June 14, 2018
+Meeting Minutes: June 14, 2018 (approved July 10, 2018)
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -16,7 +16,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-MEETING MINUTES (DRAFT)<br>
+MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
 Thursday, June 14, 2018<br>
@@ -154,7 +154,7 @@ to individuals to develop, that can then be compiled and reviewed by the
 other members during meetings.
 
 Chair Jerdonek moved that the Committee create a GitHub repository for an
-open source results reporter called “osv-results-reporter,” using the code
+open source results reporter called “osv-results-reporter,” starting with the code
 presented tonight, and adopt this as an official TAC project, with the added
 condition that this action only be valid if the copyright for individual
 contributions by committee members can be retained by the individual

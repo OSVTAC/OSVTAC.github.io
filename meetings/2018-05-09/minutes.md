@@ -1,4 +1,4 @@
-Draft Meeting Minutes: May 9, 2018
+Meeting Minutes: May 9, 2018 (approved July 10, 2018)
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -16,7 +16,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-MEETING MINUTES (DRAFT)<br>
+MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
 Wednesday, May 9, 2018<br>
@@ -170,7 +170,7 @@ Public comment:
 
 Mr. Adam Wojcieh commented that the committee could simply provide links to
 existing definitions, and that it wasn’t necessary to come up with their own
-definitino. Also, it means different things depending on the subject (e.g.
+definition. Also, it means different things depending on the subject (e.g.
 software or hardware).
 
 
