@@ -5,10 +5,11 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                      | Time   | Location            | Agenda* & Packet** |
 |:--------------------------|:-------|:--------------------|:-------------------|
-| Mon, August 27, 2018      | 6:00PM | City Hall, Room 421 | TBA |
+| Mon, August 27, 2018      | 6:00PM | City Hall, Room 421 | [HTML][next-agenda-html] / [PDF][next-agenda-pdf] |
 
-[next-agenda-html]: meetings/2018/2018-07-10/agenda
-[next-agenda-pdf]: files/meetings/2018/2018-07-10/2018_07_10_OSVTAC_Agenda.pdf
+
+[next-agenda-html]: meetings/2018/2018-08-27/agenda
+[next-agenda-pdf]: files/meetings/2018/2018-08-27/2018_08_27_OSVTAC_Agenda.pdf
 
 \*The agenda is posted at least 72 hours before the start of the meeting.
 
