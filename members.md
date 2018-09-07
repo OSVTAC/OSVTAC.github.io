@@ -3,6 +3,7 @@
 * [Current Members](#current-members)
 * [Attendance Record](#attendance-record)
 * [Member Bios](#member-bios)
+* [Past Members](#past-members)
 
 
 ## Current Members
@@ -10,16 +11,19 @@
 | Name                 | Position   | Email                      | Term Ends      |
 |:---------------------|:-----------|:---------------------------|:---------------|
 | Christopher Jerdonek | Chair      | <chris.jerdonek@sfgov.org> | May 17, 2019   |
-| Larry Bafundo        | Vice Chair | TBA                        | May 18, 2018   |
+| Roan Kattouw         | Vice Chair | <roan.kattouw@sfgov.org>   | May 17, 2019   |
 | Carl Hage            |            | <carl.hage@sfgov.org>      | May 17, 2019   |
-| Roan Kattouw         |            | <roan.kattouw@sfgov.org>   | May 17, 2019   |
 | Tony Wasserman       |            | N/A                        | May 17, 2019   |
+| _Vacancy_            |            | N/A                        | N/A            |
 
 To send an email to all of the committee members, see the [About](about) page.
 
 
 ## Attendance Record
 
+| Meeeting Date             | CH | CJ | RK | TW |
+|:--------------------------|:---|:---|:---|:---|
+| Mon, August 27, 2018      |  P |  P |  P |  P |
 
 | Meeeting Date             | LB | CH | CJ | RK | TW |
 |:--------------------------|:---|:---|:---|:---|:---|
@@ -57,20 +61,6 @@ To send an email to all of the committee members, see the [About](about) page.
 
 
 ## Member Bios
-
-
-### Larry Bafundo
-
-* Appointed May 17, 2017
-
-Larry Bafundo is a product strategist with broad experience delivering
-digital solutions for the public and private sectors. He is currently a
-product manager at 18F, a consultancy within the federal government that
-helps agencies modernize their digital services, and is working with the FBI
-to deliver an open source solution that improves access to the nation’s crime
-statistics. Prior to joining government he helped design a new voting system
-for Los Angeles County and led the planning and delivery of several digital
-products for Fortune 500 companies.
 
 
 ### Carl Hage
@@ -139,3 +129,20 @@ ACM, honored for his contributions to integrated software engineering
 environments. He served on the Board of Directors of the Open Source
 Initiative (OSI) from 2010-16, and is Chair of an International Working Group
 on Open Source. More information at <http://linkedin.com/in/tonywasserman>.
+
+
+## Past Members
+
+
+### Larry Bafundo
+
+* Appointed May 17, 2017 (served until August 15, 2018)
+
+Larry Bafundo is a product strategist with broad experience delivering
+digital solutions for the public and private sectors. He is currently a
+product manager at 18F, a consultancy within the federal government that
+helps agencies modernize their digital services, and is working with the FBI
+to deliver an open source solution that improves access to the nation’s crime
+statistics. Prior to joining government he helped design a new voting system
+for Los Angeles County and led the planning and delivery of several digital
+products for Fortune 500 companies.
