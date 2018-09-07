@@ -5,7 +5,7 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                      | Time   | Location            | Agenda* & Packet** |
 |:--------------------------|:-------|:--------------------|:-------------------|
-| Mon, August 27, 2018      | 6:00PM | City Hall, Room 421 | [HTML][next-agenda-html] / [PDF][next-agenda-pdf] |
+| Thurs, September 13, 2018 | 6:00PM | City Hall, Room 421 | TBA |
 
 
 [next-agenda-html]: meetings/2018/2018-08-27/agenda
