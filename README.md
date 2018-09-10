@@ -1,6 +1,12 @@
 For meeting announcements, you can also follow the Elections Commission
 Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
+**Special Announcement (Sept. 10, 2018):** TAC has a vacancy!
+See [this page](https://sfgov.org/electionscommission/osvtac-app)
+on the Elections Commission's website for details on how to apply
+(applications due Monday, Sept. 24, 2018).
+
+
 # Next Meeting
 
 | Date                      | Time   | Location            | Agenda* & Packet** |
