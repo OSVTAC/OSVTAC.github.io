@@ -47,8 +47,8 @@ Discussion and possible action to approve Minutes for the July 10, 2018 and
 August 27, 2018 Committee meetings.
 
 Agenda Packet:
-(1) July 10, 2018 Draft Minutes (TBD),
-(2) August 27, 2018 Draft Minutes (TBD)
+(1) [July 10, 2018 Draft Minutes](/meetings/2018/2018-07-10/minutes-draft),
+(2) [August 27, 2018 Draft Minutes](/meetings/2018/2018-08-27/minutes-draft)
 
 
 **4\. Administration**
