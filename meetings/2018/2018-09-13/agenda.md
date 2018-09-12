@@ -72,7 +72,8 @@ and news reports.
 Agenda Packet:
 (1) [Project Manager Job Posting](/files/meetings/2018/2018-09-13/packet/Job_Posting_5504_Project_Manager_20180828.pdf),
 (2) [LA County VSAP Records Request](/files/meetings/2018/2018-09-13/packet/LA_County_Records_Request.pdf),
-(3) [Email from Chair Jerdonek](/files/meetings/2018/2018-09-13/packet/TAC_Emailed_Links.pdf)
+(3) [Email from Chair Jerdonek](/files/meetings/2018/2018-09-13/packet/TAC_Emailed_Links.pdf),
+(4) [Email from Member Kattouw](/files/meetings/2018/2018-09-13/packet/Kattouw_Email.pdf)
 
 
 **6\. Voting System Component Development**
