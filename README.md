@@ -11,7 +11,7 @@ on the Elections Commission's website for details on how to apply
 
 | Date                      | Time   | Location            | Agenda* & Packet** |
 |:--------------------------|:-------|:--------------------|:-------------------|
-| Thurs, September 13, 2018 | 6:00PM | City Hall, Room 421 | [HTML][next-agenda-html] / [PDF][next-agenda-pdf] |
+| Thurs, October 11, 2018   | 6:00PM | City Hall, Room 416 | TBA |
 
 
 [next-agenda-html]: meetings/2018/2018-09-13/agenda
