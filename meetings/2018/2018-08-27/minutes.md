@@ -1,4 +1,4 @@
-Draft Meeting Minutes: August 27, 2018
+Meeting Minutes: August 27, 2018 (approved September 13, 2018)
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -15,7 +15,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-MEETING MINUTES (DRAFT)<br>
+MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
 Monday, August 27, 2018<br>
@@ -244,7 +244,7 @@ product owner has in “scrum.” Chair Jerdonek further suggested using the ter
 
 Member Wasserman commented that the domain expert would be found in the
 Department of Elections because you wouldn’t expect the project manager to
-necessarily know how the product is supposed to work.
+necessarily know the details of the voting process.
 
 Chair Jerdonek reviewed the proposed language of the discussion by saying
 that the text will include the paragraphs read by Member Kattouw and Member
