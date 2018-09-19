@@ -2,6 +2,12 @@
 
 ## Statements
 
+* September 18, 2018 [“Statement on Project Manager
+  Hiring”](files/communications/OSVTAC_re_Project_Manager_Hiring_Sept_18_2018.pdf)
+  (PDF)
+* September 18, 2018 [“Statement on Project Ownership and Project
+  Management”](files/communications/OSVTAC_re_Project_Ownership_Sept_18_2018.pdf)
+  (PDF)
 * June 15, 2018 [“Statement on Slalom
   Report”](files/communications/OSVTAC_Slalom_Report_Statement_June_15_2018.pdf)
   (PDF)
