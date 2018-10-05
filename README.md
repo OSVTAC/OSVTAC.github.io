@@ -6,7 +6,7 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                      | Time   | Location            | Agenda* & Packet** |
 |:--------------------------|:-------|:--------------------|:-------------------|
-| Thurs, October 11, 2018   | 6:00PM | City Hall, Room 416 | TBA |
+| Thurs, October 11, 2018   | 6:00PM | City Hall, Room 421 | TBA |
 
 
 [next-agenda-html]: meetings/2018/2018-09-13/agenda
