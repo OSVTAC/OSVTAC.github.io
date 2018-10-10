@@ -80,7 +80,9 @@ open source voting project.
 Discussion and possible action regarding the 2017-18 Civil Grand Jury Report
 on open source voting and responses to the report.
 
-Agenda Packet: CGJ Report Responses (TBD)
+Agenda Packet:
+(1) [CGJ Report Responses](/files/meetings/2018/2018-10-11/packet/CGJ_Report_Responses.pdf),
+(2) [CGJ Hearing Email](/files/meetings/2018/2018-10-11/packet/CGJ_Hearing_Email.pdf)
 
 
 **8\. Voting System Component Development**
