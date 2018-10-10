@@ -64,6 +64,10 @@ this agenda, including but not limited to the last Elections Commission
 meeting, Department of Elections progress, research findings, conferences,
 and news reports.
 
+Agenda Packet:
+(1) [Hage Email](/files/meetings/2018/2018-10-11/packet/Hage_Emails.pdf),
+(2) [Masson LA County Public Records Request](/files/meetings/2018/2018-10-11/packet/Masson_Pub_Records_Request.pdf)
+
 
 **6\. Open Source Voting System Project Manager**
 
@@ -91,7 +95,11 @@ proof of concept.
 Discussion and possible action regarding the November 6, 2018 election, its
 processes, and observing the election.
 
-Agenda Packet: Logic & Accuracy Testing Checklists (TBD)
+Agenda Packet:
+(1) [Logic & Accuracy Testing (LAT) Checklist - 400C](/files/meetings/2018/2018-10-11/packet/Log_Acc_Testing/SF_400C_Pre_Election_LAT_Checklist.pdf),
+(2) [LAT Checklist - Insight](/files/meetings/2018/2018-10-11/packet/Log_Acc_Testing/SF_INSIGHT_LAT_Checklist.pdf),
+(3) [LAT Checklist - Edge](/files/meetings/2018/2018-10-11/packet/Log_Acc_Testing/SF_EDGE_Pre_LAT_Checklist.pdf),
+(4) [LAT Photo - Insights](/files/meetings/2018/2018-10-11/packet/Log_Acc_Testing/Log_Acc_Testing_Insights.JPG)
 
 
 **10\. Committee Recommendations**
