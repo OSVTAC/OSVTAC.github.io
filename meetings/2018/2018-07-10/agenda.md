@@ -1,6 +1,5 @@
 Meeting Agenda: July 10, 2018
 
-
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
 City and County of San Francisco<br>
