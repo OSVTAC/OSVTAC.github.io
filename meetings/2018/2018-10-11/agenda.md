@@ -67,7 +67,8 @@ and news reports.
 Agenda Packet:
 (1) [Hage Email](/files/meetings/2018/2018-10-11/packet/Hage_Emails.pdf),
 (2) [Masson LA County Public Records Request](/files/meetings/2018/2018-10-11/packet/Masson_Pub_Records_Request.pdf),
-(3) [June 2018 Election Observation Questions & Answers](/files/meetings/2018/2018-10-11/packet/Election_Observation_Questions_Answers.pdf)
+(3) [June 2018 Election Observation Questions & Answers](/files/meetings/2018/2018-10-11/packet/Election_Observation_Questions_Answers.pdf),
+(4) [Department of Technology Project Initiation Plan (DRAFT)](/files/meetings/2018/2018-10-11/packet/Draft_Project_Initiation_Plan.pdf)
 
 
 **6\. Open Source Voting System Project Manager**
