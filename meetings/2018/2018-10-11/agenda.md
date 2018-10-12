@@ -46,7 +46,8 @@ is not covered by another item on this agenda.
 Discussion and possible action to approve Minutes for the September 13, 2018
 Committee meeting.
 
-Agenda Packet: September 13, 2018 Draft Minutes (TBD)
+Agenda Packet:
+(1) [September 13, 2018 Draft Minutes](/meetings/2018/2018-09-13/minutes-draft)
 
 
 **4\. Administration**
