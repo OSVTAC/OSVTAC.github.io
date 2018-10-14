@@ -1,4 +1,4 @@
-Draft Meeting Minutes: September 13, 2018
+Meeting Minutes: September 13, 2018 (approved October 11, 2018)
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -15,7 +15,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-MEETING MINUTES (DRAFT)<br>
+MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
 Thursday, September 13, 2018<br>
@@ -42,7 +42,7 @@ None.
 
 **3\. Approval of Minutes of Previous Meetings**
 
-Member Wassermann suggested an amendment to the August minutes. With that, he
+Member Wasserman suggested an amendment to the August minutes. With that, he
 moved to approve both minutes documents, seconded by Member Hage. By voice
 vote, the motion carried, 3-0.
 
