@@ -8,13 +8,13 @@
 
 ## Current Members
 
-| Name                 | Position   | Email                      | Term Ends      |
-|:---------------------|:-----------|:---------------------------|:---------------|
-| Christopher Jerdonek | Chair      | <chris.jerdonek@sfgov.org> | May 17, 2019   |
-| Roan Kattouw         | Vice Chair | <roan.kattouw@sfgov.org>   | May 17, 2019   |
-| Carl Hage            |            | <carl.hage@sfgov.org>      | May 17, 2019   |
-| Tony Wasserman       |            | N/A                        | May 17, 2019   |
-| _Vacancy_            |            | N/A                        | N/A            |
+| Name                 | Position   | Email                      | Term Ends        |
+|:---------------------|:-----------|:---------------------------|:-----------------|
+| Christopher Jerdonek | Chair      | <chris.jerdonek@sfgov.org> | May 17, 2019     |
+| Roan Kattouw         | Vice Chair | <roan.kattouw@sfgov.org>   | May 17, 2019     |
+| Carl Hage            |            | <carl.hage@sfgov.org>      | May 17, 2019     |
+| Brandon Philips      |            |                            | October 18, 2019 |
+| Tony Wasserman       |            | N/A                        | May 17, 2019     |
 
 To send an email to all of the committee members, see the [About](about) page.
 
@@ -111,6 +111,13 @@ Roan has spoken at well-known open source conferences like OSCON,
 Linux.conf.au and LibrePlanet. He has an M.S. in Computer Science from
 Stanford University, and a BSc in Computer Science from the University of
 Groningen.
+
+
+### Brandon Philips
+
+* Appointed October 17, 2018
+
+TBA
 
 
 ### Tony Wasserman
