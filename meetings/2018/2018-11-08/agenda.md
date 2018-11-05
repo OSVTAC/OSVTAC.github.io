@@ -54,7 +54,7 @@ Invited guest:
 * Linda Gerull, Executive Director / City CIO, Department of Technology
 
 Agenda Packet:
-Draft Project Initiation Plan (TBA)
+[Draft Project Initiation Plan](/files/meetings/2018/2018-11-08/packet/Open_Source_Draft_Project_Plan_V5.pdf)
 
 
 **4\. Approval of Minutes of Previous Meeting**
