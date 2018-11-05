@@ -1,4 +1,4 @@
-Meeting Agenda: October 11, 2018
+Meeting Agenda: November 8, 2018
 
 
 <div id="meeting_header_right" class="headered">
@@ -12,6 +12,7 @@ Open Source Voting System Technical Advisory Committee<br>
 Christopher Jerdonek, Chair<br>
 Roan Kattouw, Vice Chair<br>
 Carl Hage<br>
+Brandon Philips<br>
 Tony Wasserman<br>
 </div>
 
@@ -19,7 +20,7 @@ Tony Wasserman<br>
 MEETING AGENDA<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
-Thursday, October 11, 2018<br>
+Thursday, November 8, 2018<br>
 6:00 p.m.<br>
 City Hall, Room 421<br>
 1 Dr. Carlton B. Goodlett Place<br>
@@ -34,6 +35,8 @@ are available.]**
 
 **1\. Call to Order & Roll Call**
 
+* New member introduction: Brandon Philips
+
 
 **2\. General Public Comment**
 
@@ -41,16 +44,29 @@ Public comment on any issue within the Committee’s general jurisdiction that
 is not covered by another item on this agenda.
 
 
-**3\. Approval of Minutes of Previous Meeting**
+**3\. Open Source Voting Project Plan**
 
-Discussion and possible action to approve Minutes for the September 13, 2018
+Discussion and possible action regarding the plan for the Open Source Voting
+System Project.
+
+Invited guest:
+
+* Linda Gerull, Executive Director / City CIO, Department of Technology
+
+Agenda Packet:
+Draft Project Initiation Plan (TBA)
+
+
+**4\. Approval of Minutes of Previous Meeting**
+
+Discussion and possible action to approve Minutes for the October 11, 2018
 Committee meeting.
 
 Agenda Packet:
-(1) [September 13, 2018 Draft Minutes](/meetings/2018/2018-09-13/minutes-draft)
+October 11, 2018 Draft Minutes (TBA)
 
 
-**4\. Administration**
+**5\. Administration**
 
 Discussion and possible action regarding administrative issues including but
 not limited to attendance at Elections Commission meetings by Committee
@@ -58,34 +74,23 @@ members, the Committee's website, and the Committee’s written reports to the
 Commission.
 
 
-**5\. Member Reports**
+**6\. Member Reports**
 
 Member reports on committee-related activities not covered by another item on
 this agenda, including but not limited to the last Elections Commission
 meeting, Department of Elections progress, research findings, conferences,
 and news reports.
 
-Agenda Packet:
-(1) [Hage Email](/files/meetings/2018/2018-10-11/packet/Hage_Emails.pdf),
-(2) [Masson LA County Public Records Request](/files/meetings/2018/2018-10-11/packet/Masson_Pub_Records_Request.pdf),
-(3) [June 2018 Election Observation Questions & Answers](/files/meetings/2018/2018-10-11/packet/Election_Observation_Questions_Answers.pdf),
-(4) [Department of Technology Project Initiation Plan (DRAFT)](/files/meetings/2018/2018-10-11/packet/Draft_Project_Initiation_Plan.pdf)
 
+**7\. Contributor License Agreements (CLA's) for OSVTAC Projects**
 
-**6\. Open Source Voting System Project Manager**
-
-Discussion and possible action regarding the Project Manager position for the
-open source voting project.
-
-
-**7\. Civil Grand Jury Report**
-
-Discussion and possible action regarding the 2017-18 Civil Grand Jury Report
-on open source voting and responses to the report.
+Discussion and possible action regarding Contributor License Agreements
+(CLA's) for contributing to OSVTAC Projects.
 
 Agenda Packet:
-(1) [CGJ Report Responses](/files/meetings/2018/2018-10-11/packet/CGJ_Report_Responses.pdf),
-(2) [CGJ Hearing Email](/files/meetings/2018/2018-10-11/packet/CGJ_Hearing_Email.pdf)
+(1) [Member Kattouw Email](/files/meetings/2018/2018-11-08/packet/CLA_Email_Kattouw.pdf),
+(2) [Draft CLA](/files/meetings/2018/2018-11-08/packet/Draft_CLA_Kattouw.txt),
+(3) [JS Foundation CLA](/files/meetings/2018/2018-11-08/packet/JS_Project_CLA.pdf)
 
 
 **8\. Voting System Component Development**
@@ -95,19 +100,7 @@ facilitating the development of one or more voting system components as a
 proof of concept.
 
 
-**9\. November 6, 2018 Election**
-
-Discussion and possible action regarding the November 6, 2018 election, its
-processes, and observing the election.
-
-Agenda Packet:
-(1) [Logic & Accuracy Testing (LAT) Checklist - 400C](/files/meetings/2018/2018-10-11/packet/Log_Acc_Testing/SF_400C_Pre_Election_LAT_Checklist.pdf),
-(2) [LAT Checklist - Insight](/files/meetings/2018/2018-10-11/packet/Log_Acc_Testing/SF_INSIGHT_LAT_Checklist.pdf),
-(3) [LAT Checklist - Edge](/files/meetings/2018/2018-10-11/packet/Log_Acc_Testing/SF_EDGE_Pre_LAT_Checklist.pdf),
-(4) [LAT Photo - Insights](/files/meetings/2018/2018-10-11/packet/Log_Acc_Testing/Log_Acc_Testing_Insights.JPG)
-
-
-**10\. Committee Recommendations**
+**9\. Committee Recommendations**
 
 Discussion and possible action regarding Committee recommendations on the
 subjects of requirements, open source, software development processes,
@@ -115,7 +108,7 @@ software architecture and design, hardware, intellectual property, and
 testing.
 
 
-**11\. Topics for future discussion**
+**10\. Topics for future discussion**
 
 Discussion and possible action regarding topics for future discussion.
 

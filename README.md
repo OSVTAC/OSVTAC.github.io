@@ -6,10 +6,10 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                      | Time   | Location            | Agenda* & Packet** |
 |:--------------------------|:-------|:--------------------|:-------------------|
-| Thurs, November 8, 2018   | 6:00PM | City Hall, Room 421 | [PDF][next-agenda-pdf] / HTML (TBA) |
+| Thurs, November 8, 2018   | 6:00PM | City Hall, Room 421 | [HTML][next-agenda-html] / [PDF][next-agenda-pdf] |
 
 
-[next-agenda-html]: meetings/2018/2018-10-11/agenda
+[next-agenda-html]: meetings/2018/2018-11-08/agenda
 [next-agenda-pdf]: files/meetings/2018/2018-11-08/2018_11_08_OSVTAC_Agenda.pdf
 
 \*The agenda is posted at least 72 hours before the start of the meeting.
