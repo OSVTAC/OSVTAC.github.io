@@ -62,7 +62,7 @@ Discussion and possible action to approve Minutes for the October 11, 2018
 Committee meeting.
 
 Agenda Packet:
-October 11, 2018 Draft Minutes (TBA)
+[October 11, 2018 Draft Minutes](/meetings/2018/2018-10-11/minutes-draft)
 
 
 **5\. Administration**
