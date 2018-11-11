@@ -21,6 +21,10 @@ To send an email to all of the committee members, see the [About](about) page.
 
 ## Attendance Record
 
+| Meeeting Date             | BP | CH | CJ | RK | TW |
+|:--------------------------|:---|:---|:---|:---|:---|
+| Thurs, November 8, 2018   | EL | EL |  P | P  |  P |
+
 | Meeeting Date             | CH | CJ | RK | TW |
 |:--------------------------|:---|:---|:---|:---|
 | Thurs, October 11, 2018   |  P |  P |  P | DE |
@@ -47,9 +51,10 @@ To send an email to all of the committee members, see the [About](about) page.
 
 ### Column Headers
 
-- LB - Larry Bafundo
+- BP - Brandon Philips
 - CH - Carl Hage
 - CJ - Christopher Jerdonek
+- LB - Larry Bafundo
 - RK - Roan Kattouw
 - TW - Tony Wasserman
 
