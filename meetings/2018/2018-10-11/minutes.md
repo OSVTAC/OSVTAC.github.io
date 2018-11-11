@@ -1,4 +1,4 @@
-Draft Meeting Minutes: October 11, 2018
+Meeting Minutes: October 11, 2018 (approved November 8, 2018)
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -15,7 +15,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-MEETING MINUTES (DRAFT)<br>
+MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
 Thursday, October 11, 2018<br>
@@ -222,7 +222,7 @@ results might be a good candidate for soliciting public contributions.
 
 **9\. November 6, 2018 Election**
 
-Chair Jerdonek and Member Kattouw were sable to observe the Logic and
+Chair Jerdonek and Member Kattouw were able to observe the Logic and
 Accuracy (L&A) testing (separately), and they reported on what they saw.
 Member Kattouw was surprised to see the process being done by a Dominion
 employee.
