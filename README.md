@@ -6,7 +6,7 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                      | Time   | Location            | Agenda* & Packet** |
 |:--------------------------|:-------|:--------------------|:-------------------|
-| Thurs, December 6, 2018   | 6:00PM | City Hall, Room 421 | TBA |
+| Thurs, December 6, 2018   | 6:00PM | City Hall, Room 479 | TBA |
 
 
 [next-agenda-html]: meetings/2018/2018-11-08/agenda
