@@ -47,7 +47,7 @@ Discussion and possible action to approve Minutes for the November 8, 2018
 Committee meeting.
 
 Agenda Packet:
-November 8, 2018 Draft Minutes (TBA)
+[November 8, 2018 Draft Minutes](/meetings/2018/2018-11-08/minutes-draft)
 
 
 **4\. Administration**
