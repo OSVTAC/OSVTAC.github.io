@@ -77,12 +77,19 @@ systems and software generally.
 Discussion and possible action regarding Contributor License Agreements
 (CLA's) for contributing to OSVTAC Projects.
 
+Agenda Packet:
+[Draft CLA (from Member Kattouw)](/files/meetings/2018/2018-12-06/packet/CLA_Draft.md)
+
 
 **8\. Voting System Component Development**
 
 Discussion and possible action regarding OSVTAC developing and/or
 facilitating the development of one or more voting system components as a
 proof of concept.
+
+Agenda Packet:
+(1) [Member Philips Email re: Ballot Scanning](/files/meetings/2018/2018-12-06/packet/Philips_Email_re_Ballot_Scanning.pdf),
+(2) [David Cary Email re: RCV Reporting](/files/meetings/2018/2018-12-06/packet/rcv-report-formats-dcary-20181127.pdf)
 
 
 **9\. Topics for future discussion**
