@@ -21,10 +21,10 @@ To send an email to all of the committee members, see the [About](about) page.
 
 ## Attendance Record
 
-| Meeeting Date             | BP | CH | CJ | RK | TW |
+| Meeeting Date             | CH | CJ | RK | TW | BP |
 |:--------------------------|:---|:---|:---|:---|:---|
-| Thurs, December 6, 2018   | EA |  P |  P | UL |  P |
-| Thurs, November 8, 2018   | EL | EL |  P | P  |  P |
+| Thurs, December 6, 2018   |  P |  P | UL |  P | EA |
+| Thurs, November 8, 2018   | EL |  P |  P |  P | EL |
 
 | Meeeting Date             | CH | CJ | RK | TW |
 |:--------------------------|:---|:---|:---|:---|
@@ -32,21 +32,21 @@ To send an email to all of the committee members, see the [About](about) page.
 | Thurs, September 13, 2018 |  P |  P | EA |  P |
 | Mon, August 27, 2018      |  P |  P |  P |  P |
 
-| Meeeting Date             | LB | CH | CJ | RK | TW |
+| Meeeting Date             | CH | CJ | RK | TW | LB |
 |:--------------------------|:---|:---|:---|:---|:---|
-| Tues, July 10, 2018       | EA |  P |  P |  P |  P |
-| Thurs, June 14, 2018      | EA |  P |  P |  P |  P |
-| Fri, June 8, 2018         | EA |  P |  P |  P |  P |
-| Wed, May 9, 2018          | EA |  P |  P |  P | EA |
-| Thurs, April 12, 2018     | EA |  P |  P |  P | DE |
-| Thurs, March 8, 2018      | EL |  P |  P |  P |  P |
-| Thurs, February 8, 2018   | EA |  P | EA |  P |  P |
-| Thurs, January 18, 2018   | EA | DE |  P |  P | EL |
-| Thurs, December 14, 2017  | EA | EL |  P |  P |  P |
-| Thurs, November 16, 2017  |  P | EA |  P |  P |  P |
-| Thurs, October 19, 2017   | EA | UA |  P |  P |  P |
+| Tues, July 10, 2018       |  P |  P |  P |  P | EA |
+| Thurs, June 14, 2018      |  P |  P |  P |  P | EA |
+| Fri, June 8, 2018         |  P |  P |  P |  P | EA |
+| Wed, May 9, 2018          |  P |  P |  P | EA | EA |
+| Thurs, April 12, 2018     |  P |  P |  P | DE | EA |
+| Thurs, March 8, 2018      |  P |  P |  P |  P | EL |
+| Thurs, February 8, 2018   |  P | EA |  P |  P | EA |
+| Thurs, January 18, 2018   | DE |  P |  P | EL | EA |
+| Thurs, December 14, 2017  | EL |  P |  P |  P | EA |
+| Thurs, November 16, 2017  | EA |  P |  P |  P |  P |
+| Thurs, October 19, 2017   | UA |  P |  P |  P | EA |
 | Thurs, September 21, 2017 |  P |  P |  P |  P |  P |
-| Wed, August 30, 2017      |  P |  P |  P | EA |  P |
+| Wed, August 30, 2017      |  P |  P | EA |  P |  P |
 | Wed, July 26, 2017        |  P |  P |  P |  P |  P |
 
 
@@ -62,10 +62,10 @@ To send an email to all of the committee members, see the [About](about) page.
 ### Cell Values
 
 - P - Present
-- EA - Excused Absence
-- UA - Unexcused Absence
 - EL - Excused Late
 - UL - Unexcused Late
+- EA - Excused Absence
+- UA - Unexcused Absence
 - DE - Departed Early
 
 
