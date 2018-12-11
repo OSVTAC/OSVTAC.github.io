@@ -1,4 +1,4 @@
-Draft Meeting Minutes: November 8, 2018
+Meeting Minutes: November 8, 2018 (approved December 6, 2018)
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -16,7 +16,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-MEETING MINUTES (DRAFT)<br>
+MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
 Thursday, November 8, 2018<br>
@@ -123,7 +123,7 @@ Member Kattouw researched this topic, taking into account previous committee
 discussions on issues related to licensing, intellectual property, etc. He
 summarized that the Apache CLA is simple and allows the entity you are
 agreeing with to re-license your contribution. For GPLv3 projects this is a
-concern. He didn’t like the JS Foundation CLA, which does not include patent
+concern. He liked the JS Foundation CLA, but it does not include patent
 grants. He favored one used by the Harmony Project (harmonyagreements.org).
 All of this was covered in his email (see agenda packet).
 
@@ -211,10 +211,8 @@ entire system at the beginning.
 Member Hage suggested going back to the section on security and expanding the
 background appendix, before DT gets too far along.
 
-Member Wasserman repeated that he thought the committee’s recommendations
-should be kept in the mind of DT to ensure the parameters are maintained. He
-asked if discussion should be focused on using containers or in a broader
-sense.
+Member Wasserman again recommended that we keep open lines of communication
+with DT to ensure that the committee's recommendations are followed.
 
 Member Hage said he will work more on the glossary to amplify terms
 for cryptography and security. Member Wasserman suggested a way to present
