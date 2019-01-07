@@ -6,11 +6,11 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                      | Time   | Location            | Agenda* & Packet** |
 |:--------------------------|:-------|:--------------------|:-------------------|
-| Thurs, January 10, 2018   | 6:00PM | City Hall, Room 421 | TBA |
+| Thurs, January 10, 2019   | 6:00PM | City Hall, Room 421 | [PDF][next-agenda-pdf] / HTML (TBA) |
 
 
 [next-agenda-html]: meetings/2018/2018-12-06/agenda
-[next-agenda-pdf]: files/meetings/2018/2018-12-06/2018_12_06_OSVTAC_Agenda.pdf
+[next-agenda-pdf]: files/meetings/2019/2019-01-10/2019_01_10_OSVTAC_Agenda.pdf
 
 \*The agenda is posted at least 72 hours before the start of the meeting.
 
