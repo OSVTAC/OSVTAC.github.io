@@ -46,6 +46,9 @@ is not covered by another item on this agenda.
 Discussion and possible action regarding the plan for the Open Source Voting
 System Project.
 
+Agenda Packet:
+[December 2018 DT Project Update](/files/meetings/2019/2019-01-10/packet/OSV_Project_Update_2018-12.pdf)
+
 
 **4\. Approval of Minutes of Previous Meeting**
 
@@ -73,6 +76,9 @@ Member reports on committee-related activities not covered by another item on
 this agenda, including but not limited to the last Elections Commission
 meeting, Department of Elections progress, research findings, conferences,
 and news reports.
+
+Agenda Packet:
+[Verified Voting Statement on Georgia](/files/meetings/2019/2019-01-10/packet/2019-01-04_VV_Statement_on_Georgia.pdf)
 
 
 **7\. Voting System Security**
