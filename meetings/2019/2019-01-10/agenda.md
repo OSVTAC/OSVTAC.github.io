@@ -53,7 +53,7 @@ Discussion and possible action to approve Minutes for the December 6, 2018
 Committee meeting.
 
 Agenda Packet:
-December 6, 2018 Draft Minutes (TBA)
+[December 6, 2018 Draft Minutes](/meetings/2018/2018-12-06/minutes-draft)
 
 
 **5\. Administration**
