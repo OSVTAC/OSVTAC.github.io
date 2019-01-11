@@ -67,7 +67,7 @@ members, the Committee's website, and the Committee’s written reports to the
 Commission.
 
 Agenda Packet:
-Draft Written Report to the Commission (TBA)
+[Draft Written Report to the Commission](/files/meetings/2019/2019-01-10/packet/OSVTAC_Report_05_Jan_2019_DRAFT.pdf)
 
 
 **6\. Member Reports**
