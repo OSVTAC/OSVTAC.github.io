@@ -1,4 +1,4 @@
-Draft Meeting Minutes: December 6, 2018
+Meeting Minutes: December 6, 2018 (approved January 10, 2019)
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -16,7 +16,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-MEETING MINUTES (DRAFT)<br>
+MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
 Thursday, December 6, 2018<br>
