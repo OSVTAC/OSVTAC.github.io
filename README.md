@@ -6,7 +6,7 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                      | Time   | Location            | Agenda* & Packet** |
 |:--------------------------|:-------|:--------------------|:-------------------|
-| Thurs, January 10, 2019   | 6:00PM | City Hall, Room 421 | [HTML][next-agenda-html] / [PDF][next-agenda-pdf] |
+| Thurs, February 14, 2019  | 6:00PM | City Hall, Room 421 | TBA |
 
 
 [next-agenda-html]: meetings/2019/2019-01-10/agenda
