@@ -30,3 +30,5 @@ Commission, per the committee's bylaws.
 * [OSVTAC Report #4](files/reports/OSVTAC_Report_04_September_2018.pdf)
   (dated September 6, 2018), and
   [Attachment](files/reports/OSVTAC_Report_04_Attachment.pdf)
+* [OSVTAC Report #5](files/reports/OSVTAC_Report_05_Jan_2019.pdf)
+  (dated January 14, 2019)
