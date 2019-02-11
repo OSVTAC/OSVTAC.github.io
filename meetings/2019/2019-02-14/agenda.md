@@ -1,9 +1,9 @@
-Meeting Agenda: January 10, 2019
+Meeting Agenda: February 14, 2019
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
 City and County of San Francisco<br>
-Don Chan, Secretary<br>
+William Walker, Secretary<br>
 </div>
 
 <div class="headered">
@@ -19,7 +19,7 @@ Tony Wasserman<br>
 MEETING AGENDA<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
-Thursday, January 10, 2019<br>
+Thursday, February 14, 2019<br>
 6:00 p.m.<br>
 City Hall, Room 421<br>
 1 Dr. Carlton B. Goodlett Place<br>
@@ -46,17 +46,14 @@ is not covered by another item on this agenda.
 Discussion and possible action regarding the plan for the Open Source Voting
 System Project.
 
-Agenda Packet:
-[December 2018 DT Project Update](/files/meetings/2019/2019-01-10/packet/OSV_Project_Update_2018-12.pdf)
-
 
 **4\. Approval of Minutes of Previous Meeting**
 
-Discussion and possible action to approve Minutes for the December 6, 2018
+Discussion and possible action to approve Minutes for the January 10, 2019
 Committee meeting.
 
 Agenda Packet:
-[December 6, 2018 Draft Minutes](/meetings/2018/2018-12-06/minutes-draft)
+January 10, 2019 Draft Minutes (TBA)
 
 
 **5\. Administration**
@@ -66,9 +63,6 @@ not limited to attendance at Elections Commission meetings by Committee
 members, the Committee's website, and the Committee’s written reports to the
 Commission.
 
-Agenda Packet:
-[Draft Written Report to the Commission](/files/meetings/2019/2019-01-10/packet/OSVTAC_Report_05_Jan_2019_DRAFT.pdf)
-
 
 **6\. Member Reports**
 
@@ -76,9 +70,6 @@ Member reports on committee-related activities not covered by another item on
 this agenda, including but not limited to the last Elections Commission
 meeting, Department of Elections progress, research findings, conferences,
 and news reports.
-
-Agenda Packet:
-[Verified Voting Statement on Georgia](/files/meetings/2019/2019-01-10/packet/2019-01-04_VV_Statement_on_Georgia.pdf)
 
 
 **7\. Voting System Security**
