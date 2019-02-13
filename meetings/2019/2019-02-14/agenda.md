@@ -71,6 +71,10 @@ this agenda, including but not limited to the last Elections Commission
 meeting, Department of Elections progress, research findings, conferences,
 and news reports.
 
+Agenda Packet:
+(1) [Kattouw patch Re: Ballot verification (TXT)](/files/meetings/2019/2019-02-14/packet/kattouw-patch-ballot-verification-paper.txt),
+(2) [Kattouw patch Re: South Carolina (TXT)](/files/meetings/2019/2019-02-14/packet/kattouw-patch-south-carolina.txt)
+
 
 **7\. Voting System Security**
 
