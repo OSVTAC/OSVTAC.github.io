@@ -73,7 +73,11 @@ and news reports.
 
 Agenda Packet:
 (1) [Kattouw patch Re: Ballot verification (TXT)](/files/meetings/2019/2019-02-14/packet/kattouw-patch-ballot-verification-paper.txt),
-(2) [Kattouw patch Re: South Carolina (TXT)](/files/meetings/2019/2019-02-14/packet/kattouw-patch-south-carolina.txt)
+(2) [Kattouw patch Re: South Carolina (TXT)](/files/meetings/2019/2019-02-14/packet/kattouw-patch-south-carolina.txt),
+(3) [Emails from Commissioner Lucy Bernholz (PDF)](/files/meetings/2019/2019-02-14/packet/Bernholz_Emails.pdf),
+(4) ["Contributing to an Open Source Project" (PDF)](/files/meetings/2019/2019-02-14/packet/Briefer_No_7_Contributing_to_an_Open_Source_Project.pdf),
+(5) [Open Source Contribution Questionnaire (PDF)](/files/meetings/2019/2019-02-14/packet/Example_Open_Source_Contribution_Questionnaire.pdf),
+(6) [Open Source Resources (PDF)](/files/meetings/2019/2019-02-14/packet/Smithline_PC_Open_Source_Resources.pdf)
 
 
 **7\. Voting System Security**
