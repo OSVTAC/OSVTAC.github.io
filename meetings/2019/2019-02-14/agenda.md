@@ -53,7 +53,7 @@ Discussion and possible action to approve Minutes for the January 10, 2019
 Committee meeting.
 
 Agenda Packet:
-January 10, 2019 Draft Minutes (TBA)
+[January 10, 2019 Draft Minutes](/meetings/2019/2019-01-10/minutes-draft)
 
 
 **5\. Administration**
