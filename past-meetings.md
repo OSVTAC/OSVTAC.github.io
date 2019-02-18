@@ -6,7 +6,8 @@ Audio for the meetings can also be found on the Elections Commission's
 
 | Date                      | Agenda & Packet* | Minutes | Audio / Video** |
 |:--------------------------|:-----------------|:--------|:----------------|
-| Thurs, January 10, 2019   | [HTML](meetings/2019/2019-01-10/agenda) / [PDF](files/meetings/2019/2019-01-10/2019_01_10_OSVTAC_Agenda.pdf)  | [HTML (Draft)](meetings/2019/2019-01-10/minutes-draft) | [1 hr 19 min (video)](https://www.youtube.com/watch?v=taU2IQwzZPA) |
+| Thurs, February 14, 2019  | [HTML](meetings/2019/2019-02-14/agenda) / [PDF](files/meetings/2019/2019-02-14/2019_02_14_OSVTAC_Agenda.pdf)  | TBA | TBA |
+| Thurs, January 10, 2019   | [HTML](meetings/2019/2019-01-10/agenda) / [PDF](files/meetings/2019/2019-01-10/2019_01_10_OSVTAC_Agenda.pdf)  | [HTML](meetings/2019/2019-01-10/minutes) | [1 hr 19 min (video)](https://www.youtube.com/watch?v=taU2IQwzZPA) |
 
 
 ## 2018
