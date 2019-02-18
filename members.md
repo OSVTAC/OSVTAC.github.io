@@ -28,11 +28,15 @@ To send an email to all of the committee members, see the [About](about) page.
 | Thurs, December 6, 2018   |  P |  P | UL |  P | EA |
 | Thurs, November 8, 2018   | EL |  P |  P |  P | EL |
 
+_(Brandon Philips (BP) joined.)_
+
 | Meeeting Date             | CH | CJ | RK | TW |
 |:--------------------------|:---|:---|:---|:---|
 | Thurs, October 11, 2018   |  P |  P |  P | DE |
 | Thurs, September 13, 2018 |  P |  P | EA |  P |
 | Mon, August 27, 2018      |  P |  P |  P |  P |
+
+_(Larry Bafundo (LB) departed.)_
 
 | Meeeting Date             | CH | CJ | RK | TW | LB |
 |:--------------------------|:---|:---|:---|:---|:---|
