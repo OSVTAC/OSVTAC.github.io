@@ -8,13 +8,13 @@
 
 ## Current Members
 
-| Name                 | Position   | Email                      | Term Ends        |
-|:---------------------|:-----------|:---------------------------|:-----------------|
-| Christopher Jerdonek | Chair      | <chris.jerdonek@sfgov.org> | May 17, 2019     |
-| Roan Kattouw         | Vice Chair | <roan.kattouw@sfgov.org>   | May 17, 2019     |
-| Carl Hage            |            | <carl.hage@sfgov.org>      | May 17, 2019     |
-| Brandon Philips      |            |                            | October 18, 2019 |
-| Tony Wasserman       |            | N/A                        | May 17, 2019     |
+| Name                                          | Position   | Email                      | Term Ends        |
+|:----------------------------------------------|:-----------|:---------------------------|:-----------------|
+| [Christopher Jerdonek](#christopher-jerdonek) | Chair      | <chris.jerdonek@sfgov.org> | May 17, 2019     |
+| [Roan Kattouw](#roan-kattouw)                 | Vice Chair | <roan.kattouw@sfgov.org>   | May 17, 2019     |
+| [Carl Hage](#carl-hage)                       |            | <carl.hage@sfgov.org>      | May 17, 2019     |
+| [Brandon Philips](#brandon-philips)           |            |                            | October 18, 2019 |
+| [Tony Wasserman](#tony-wasserman)             |            | N/A                        | May 17, 2019     |
 
 To send an email to all of the committee members, see the [About](about) page.
 
