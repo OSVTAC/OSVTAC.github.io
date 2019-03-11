@@ -2,11 +2,12 @@ For meeting announcements, you can also follow the Elections Commission
 Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 
-# Next Meeting
+# Next Meetings
 
 | Date                      | Time   | Location            | Agenda* & Packet** |
 |:--------------------------|:-------|:--------------------|:-------------------|
 | Thurs, March 14, 2019     | 6:00PM | City Hall, Room 421 | TBA |
+| Sun, March 17, 2019       | 3:00PM | SF Public Library, Martin Paley Conference Room (3rd Floor) | TBA |
 
 
 [next-agenda-html]: meetings/2019/2019-03-14/agenda
