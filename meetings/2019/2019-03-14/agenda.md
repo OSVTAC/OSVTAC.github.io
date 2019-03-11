@@ -75,6 +75,9 @@ this agenda, including but not limited to the last Elections Commission
 meeting, Department of Elections progress, research findings, conferences,
 and news reports.
 
+Agenda Packet:
+[SCaLE 17x talk re: LA County](https://youtu.be/7iId3eWhgSI?t=5h33m50s) (5:33:50 - 6:45:30)
+
 
 **7\. Equipment Decisions and Implementation Plan**
 
@@ -96,7 +99,7 @@ Agenda Packet:
 (1) [Proposed Voting System Contract (PDF)](/files/meetings/2019/2019-03-14/packet/Proposed_Voting_System_Contract.pdf),
 (2) [Memo re: New Voting System (PDF)](/files/meetings/2019/2019-03-14/packet/Memo_re_New_Voting_System.pdf),
 (3) [Budget and Legislative Analyst Report (PDF)](/files/meetings/2019/2019-03-14/packet/Budget_and_Leg_Analyst_Report.pdf),
-(4) [San Francisco Examiner article (PDF)](/files/meetings/2019/2019-03-14/packet/SF_Examiner_Upgrade_voting_machines.pdf)
+(4) [_San Francisco Examiner_ article (PDF)](/files/meetings/2019/2019-03-14/packet/SF_Examiner_Upgrade_voting_machines.pdf)
 
 
 **9\. Contributor License Agreements (CLA's) for OSVTAC Projects**
