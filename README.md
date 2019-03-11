@@ -6,7 +6,7 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                      | Time   | Location            | Agenda* & Packet** |
 |:--------------------------|:-------|:--------------------|:-------------------|
-| Thurs, March 14, 2019     | 6:00PM | City Hall, Room 421 | TBA |
+| Thurs, March 14, 2019     | 6:00PM | City Hall, Room 421 | [HTML][next-agenda-html] / PDF (TBA) |
 | Sun, March 17, 2019       | 3:00PM | SF Public Library, Martin Paley Conference Room (3rd Floor) | TBA |
 
 
