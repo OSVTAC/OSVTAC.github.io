@@ -78,7 +78,7 @@ and news reports.
 
 **7\. Equipment Decisions and Implementation Plan**
 
-Discussion and possible action regarding implementation plans for open-source
+Discussion and possible action regarding implementation plans for open source
 voting, including timeline as well as decisions that need to be made
 regarding voting process and equipment.
 
