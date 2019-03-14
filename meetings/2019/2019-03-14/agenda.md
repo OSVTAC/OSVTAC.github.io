@@ -95,8 +95,8 @@ regarding voting process and equipment.
 
 Agenda Packet:
 
-1. [Kattouw patch Re: Ballot verification (TXT)](/files/meetings/2019/2019-03-14/packet/kattouw-patch-ballot-verification-paper.txt)
-2. [Kattouw patch Re: South Carolina (TXT)](/files/meetings/2019/2019-03-14/packet/kattouw-patch-south-carolina.txt)
+1. Kattouw: [Patch re: Ballot verification (TXT)](/files/meetings/2019/2019-03-14/packet/kattouw-patch-ballot-verification-paper.txt)
+2. Kattouw: [Patch re: South Carolina (TXT)](/files/meetings/2019/2019-03-14/packet/kattouw-patch-south-carolina.txt)
 
 
 **8\. San Francisco's Next Voting System**
