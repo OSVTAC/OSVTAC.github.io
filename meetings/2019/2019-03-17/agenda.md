@@ -1,4 +1,4 @@
-Meeting Agenda: March 14, 2019
+Special Meeting Agenda: March 17, 2019
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -16,23 +16,31 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-MEETING AGENDA<br>
+SPECIAL MEETING AGENDA<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
-Thursday, March 14, 2019<br>
-6:00 p.m.<br>
-City Hall, Room 421<br>
-1 Dr. Carlton B. Goodlett Place<br>
-San Francisco, California 94102<br>
+Sunday, March 17, 2019<br>
+3:00 p.m.<br>
+Martin Paley Conference Room (3rd Floor)<br>
+The San Francisco Public Library<br>
+100 Larkin Street (at Grove Street)<br>
+San Francisco, California<br>
 </div>
+
+
+_The Martin Paley Conference Room is located on the 3rd Floor next to the
+Page Desk._
 
 **[Note: links to packet documents will be inserted below as soon as they
 are available.]**
+
 
 **Order of Business**
 
 
 **1\. Call to Order & Roll Call**
+
+Attendance at this special meeting is optional for committee members.
 
 
 **2\. General Public Comment**
@@ -41,93 +49,17 @@ Public comment on any issue within the Committee’s general jurisdiction that
 is not covered by another item on this agenda.
 
 
-**3\. Open Source Voting Project Plan**
-
-Discussion and possible action regarding the plan for the Open Source Voting
-System Project.
-
-Agenda Packet:
-(1) [Feb. 2019 Project Status Update (PDF)](/files/meetings/2019/2019-03-14/packet/Feb_2019_OSV_Status_Update.pdf),
-(2) [Project Management Services RFP (PDF)](/files/meetings/2019/2019-03-14/packet/RFP_Project_Mgmt_Services.pdf)
-
-
-**4\. Approval of Minutes of Previous Meeting**
-
-Discussion and possible action to approve Minutes for the February 14, 2019
-Committee meeting.
-
-Agenda Packet:
-February 14, 2019 Draft Minutes (TBA)
-
-
-**5\. Administration**
-
-Discussion and possible action regarding administrative issues including but
-not limited to attendance at Elections Commission meetings by Committee
-members, the Committee's website, and the Committee’s written reports to the
-Commission.
-
-
-**6\. Member Reports**
-
-Member reports on committee-related activities not covered by another item on
-this agenda, including but not limited to the last Elections Commission
-meeting, Department of Elections progress, research findings, conferences,
-and news reports.
-
-Agenda Packet:
-(1) [SCaLE 17x talk re: LA County](https://youtu.be/7iId3eWhgSI?t=5h33m50s) (5:33:50 - 6:45:30, Wasserman),
-(2) [Blog post re: All-in-one voting machines
-(PDF)](/files/meetings/2019/2019-03-14/packet/Reexamination-all-in-one.pdf)
-(Kattouw),
-(3) [Draft info re: Digital Signatures](/files/meetings/2019/2019-03-14/packet/hage-digsig.md) (Hage)
-
-
-**7\. Equipment Decisions and Implementation Plan**
-
-Discussion and possible action regarding implementation plans for open source
-voting, including timeline as well as decisions that need to be made
-regarding voting process and equipment.
-
-Agenda Packet:
-(1) [Kattouw patch Re: Ballot verification (TXT)](/files/meetings/2019/2019-03-14/packet/kattouw-patch-ballot-verification-paper.txt),
-(2) [Kattouw patch Re: South Carolina (TXT)](/files/meetings/2019/2019-03-14/packet/kattouw-patch-south-carolina.txt)
-
-
-**8\. San Francisco's Next Voting System**
-
-Discussion and possible action regarding San Francisco's next voting system,
-including the proposed contract with Dominion Voting Systems, Inc.
-
-Agenda Packet:
-(1) [Proposed Voting System Contract (PDF)](/files/meetings/2019/2019-03-14/packet/Proposed_Voting_System_Contract.pdf),
-(2) [Memo re: New Voting System (PDF)](/files/meetings/2019/2019-03-14/packet/Memo_re_New_Voting_System.pdf),
-(3) [Budget and Legislative Analyst Report (PDF)](/files/meetings/2019/2019-03-14/packet/Budget_and_Leg_Analyst_Report.pdf),
-(4) [_San Francisco Examiner_ article (PDF)](/files/meetings/2019/2019-03-14/packet/SF_Examiner_Upgrade_voting_machines.pdf)
-
-
-**9\. Contributor License Agreements (CLA's) for OSVTAC Projects**
-
-Discussion and possible action regarding Contributor License Agreements
-(CLA's) for contributing to OSVTAC Projects.
-
-Agenda Packet:
-[Proposed CLA](/files/meetings/2019/2019-03-14/packet/Proposed_CLA_Kattouw.md) (Kattouw)
-
-
-**10\. Voting System Component Development**
+**3\. Voting System Component Development**
 
 Discussion and possible action regarding OSVTAC developing and/or
 facilitating the development of one or more voting system components as a
 proof of concept.
 
 
-**11\. Topics for future discussion**
-
-Discussion and possible action regarding topics for future discussion.
-
-
 **Adjournment**
+
+
+_Note: This is not a Library Sponsored Program. If you have questions, please contact the Committee Chair Chris Jerdonek at (415) 286-2238._
 
 
 There will be an opportunity for public comment on each agenda item.
@@ -148,17 +80,18 @@ removal from the meeting room of any person responsible for the ringing or
 use of a cell phone, pager, or other similar sound-producing electronic
 devices.
 
-Disability Access: The meeting will be held in Room 421, City Hall, 1 Dr.
-Carlton B. Goodlett Place, San Francisco, CA. The meeting room is wheelchair
-accessible. The nearest accessible BART station is Civic Center
-(Market/Grove/Hyde Streets). Accessible MUNI Metro lines are the F, J, K, L,
-M, N, T (exit at Civic Center or Van Ness Stations). MUNI bus lines also
-serving the area are the 5, 5R, 6, 7, 7R, 7X, 9, 9R, 19, 21, 47, and 49. For
-more information about MUNI accessible services, call 311, call (415)
-701-4485, or visit <http://www.sfmuni.com>. There is accessible curbside
-parking adjacent to City Hall on Grove Street and Van Ness Avenue and in the
-vicinity of the Veterans Building at 401 Van Ness Avenue adjacent to Davies
-Hall and the War Memorial Complex.
+Disability Access: The meeting will be held in the Martin Paley Conference
+Room (3rd Floor), The San Francisco Public Library, 100 Larkin Street (at
+Grove Street), San Francisco, CA. The meeting room is wheelchair accessible.
+The nearest accessible BART station is Civic Center (Market/Grove/Hyde
+Streets). Accessible MUNI Metro lines are the F, J, K, L, M, N, T (exit at
+Civic Center or Van Ness Stations). MUNI bus lines also serving the area are
+the 5, 5R, 6, 7, 7R, 7X, 9, 9R, 19, 21, 47, and 49. For more information
+about MUNI accessible services, call 311, call (415) 701-4485, or visit
+<http://www.sfmuni.com>. There is accessible curbside parking adjacent to
+City Hall on Grove Street and Van Ness Avenue and in the vicinity of the
+Veterans Building at 401 Van Ness Avenue adjacent to Davies Hall and the War
+Memorial Complex.
 
 To obtain a disability-related modification or accommodation, including
 auxiliary aids or services, to participate in a meeting, please contact the
