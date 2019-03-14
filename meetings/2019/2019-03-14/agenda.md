@@ -76,11 +76,14 @@ meeting, Department of Elections progress, research findings, conferences,
 and news reports.
 
 Agenda Packet:
-(1) [SCaLE 17x talk re: LA County](https://youtu.be/7iId3eWhgSI?t=5h33m50s) (5:33:50 - 6:45:30, Wasserman),
-(2) [Blog post re: All-in-one voting machines
+
+1. Wasserman: [SCaLE 17x talk re: LA County](https://youtu.be/7iId3eWhgSI?t=5h33m50s) (5:33:50 - 6:45:30)
+2. Kattouw: [Blog post re: All-in-one voting machines
 (PDF)](/files/meetings/2019/2019-03-14/packet/Reexamination-all-in-one.pdf)
-(Kattouw),
-(3) [Draft info re: Digital Signatures](/files/meetings/2019/2019-03-14/packet/hage-digsig.md) (Hage)
+([original link](https://freedom-to-tinker.com/2019/03/08/reexamination-of-an-all-in-one-voting-machine/))
+3. Hage: [Draft info re: Digital Signatures](/files/meetings/2019/2019-03-14/packet/hage-digsig.md)
+4. Philips: [_Motherboard_ article re: DARPA](/files/meetings/2019/2019-03-14/packet/DARPA_Voting_Motherboard.pdf)
+([original link](https://motherboard.vice.com/en_us/article/yw84q7/darpa-is-building-a-dollar10-million-open-source-secure-voting-system))
 
 
 **7\. Equipment Decisions and Implementation Plan**
