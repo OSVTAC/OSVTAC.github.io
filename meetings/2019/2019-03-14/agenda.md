@@ -47,8 +47,9 @@ Discussion and possible action regarding the plan for the Open Source Voting
 System Project.
 
 Agenda Packet:
-(1) [Feb. 2019 Project Status Update (PDF)](/files/meetings/2019/2019-03-14/packet/Feb_2019_OSV_Status_Update.pdf),
-(2) [Project Management Services RFP (PDF)](/files/meetings/2019/2019-03-14/packet/RFP_Project_Mgmt_Services.pdf)
+
+1. [Feb. 2019 Project Status Update (PDF)](/files/meetings/2019/2019-03-14/packet/Feb_2019_OSV_Status_Update.pdf)
+2. [Project Management Services RFP (PDF)](/files/meetings/2019/2019-03-14/packet/RFP_Project_Mgmt_Services.pdf)
 
 
 **4\. Approval of Minutes of Previous Meeting**
@@ -93,8 +94,9 @@ voting, including timeline as well as decisions that need to be made
 regarding voting process and equipment.
 
 Agenda Packet:
-(1) [Kattouw patch Re: Ballot verification (TXT)](/files/meetings/2019/2019-03-14/packet/kattouw-patch-ballot-verification-paper.txt),
-(2) [Kattouw patch Re: South Carolina (TXT)](/files/meetings/2019/2019-03-14/packet/kattouw-patch-south-carolina.txt)
+
+1. [Kattouw patch Re: Ballot verification (TXT)](/files/meetings/2019/2019-03-14/packet/kattouw-patch-ballot-verification-paper.txt)
+2. [Kattouw patch Re: South Carolina (TXT)](/files/meetings/2019/2019-03-14/packet/kattouw-patch-south-carolina.txt)
 
 
 **8\. San Francisco's Next Voting System**
@@ -103,10 +105,12 @@ Discussion and possible action regarding San Francisco's next voting system,
 including the proposed contract with Dominion Voting Systems, Inc.
 
 Agenda Packet:
-(1) [Proposed Voting System Contract (PDF)](/files/meetings/2019/2019-03-14/packet/Proposed_Voting_System_Contract.pdf),
-(2) [Memo re: New Voting System (PDF)](/files/meetings/2019/2019-03-14/packet/Memo_re_New_Voting_System.pdf),
-(3) [Budget and Legislative Analyst Report (PDF)](/files/meetings/2019/2019-03-14/packet/Budget_and_Leg_Analyst_Report.pdf),
-(4) [_San Francisco Examiner_ article (PDF)](/files/meetings/2019/2019-03-14/packet/SF_Examiner_Upgrade_voting_machines.pdf)
+
+1. [Proposed Voting System Contract (PDF)](/files/meetings/2019/2019-03-14/packet/Proposed_Voting_System_Contract.pdf)
+2. [Memo re: New Voting System (PDF)](/files/meetings/2019/2019-03-14/packet/Memo_re_New_Voting_System.pdf)
+3. [Budget and Legislative Analyst Report (PDF)](/files/meetings/2019/2019-03-14/packet/Budget_and_Leg_Analyst_Report.pdf)
+4. [_San Francisco Examiner_ article (PDF)](/files/meetings/2019/2019-03-14/packet/SF_Examiner_Upgrade_voting_machines.pdf)
+([original link](http://www.sfexaminer.com/sf-upgrade-voting-machines-keeps-eye-developing-open-source-system/))
 
 
 **9\. Contributor License Agreements (CLA's) for OSVTAC Projects**
