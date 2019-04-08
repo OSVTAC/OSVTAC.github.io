@@ -21,7 +21,7 @@ To send an email to all of the committee members, see the [About](about) page.
 
 ## Attendance Record
 
-| Meeting Date             | CH | CJ | RK | TW | BP |
+| Meeting Date              | CH | CJ | RK | TW | BP |
 |:--------------------------|:---|:---|:---|:---|:---|
 | Thurs, February 14, 2019  |  P |  P |  P |  P |  P |
 | Thurs, January 10, 2019   |  P |  P | EL |  P | UA |
@@ -30,7 +30,7 @@ To send an email to all of the committee members, see the [About](about) page.
 
 _(Brandon Philips (BP) joined.)_
 
-| Meeting Date             | CH | CJ | RK | TW |
+| Meeting Date              | CH | CJ | RK | TW |
 |:--------------------------|:---|:---|:---|:---|
 | Thurs, October 11, 2018   |  P |  P |  P | DE |
 | Thurs, September 13, 2018 |  P |  P | EA |  P |
@@ -38,7 +38,7 @@ _(Brandon Philips (BP) joined.)_
 
 _(Larry Bafundo (LB) departed.)_
 
-| Meeting Date             | CH | CJ | RK | TW | LB |
+| Meeting Date              | CH | CJ | RK | TW | LB |
 |:--------------------------|:---|:---|:---|:---|:---|
 | Tues, July 10, 2018       |  P |  P |  P |  P | EA |
 | Thurs, June 14, 2018      |  P |  P |  P |  P | EA |
