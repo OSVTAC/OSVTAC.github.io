@@ -23,6 +23,8 @@ To send an email to all of the committee members, see the [About](about) page.
 
 | Meeting Date              | CH | CJ | RK | TW | BP |
 |:--------------------------|:---|:---|:---|:---|:---|
+| Thurs, March 17, 2019     |  P |  P |  P |  – |  – |
+| Thurs, March 14, 2019     |  P |  P |  P | EA | EA |
 | Thurs, February 14, 2019  |  P |  P |  P |  P |  P |
 | Thurs, January 10, 2019   |  P |  P | EL |  P | UA |
 | Thurs, December 6, 2018   |  P |  P | UL |  P | EA |
@@ -73,6 +75,7 @@ _(Larry Bafundo (LB) departed.)_
 - EA - Excused Absence
 - UA - Unexcused Absence
 - DE - Departed Early
+- – - (Attendance not requireqd)
 
 
 ## Member Bios
