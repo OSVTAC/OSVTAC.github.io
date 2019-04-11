@@ -58,7 +58,7 @@ March 14, 2019; and March 17, 2019 Committee meetings.
 
 Agenda Packet:
 
-1. February 14, 2019 Draft Minutes (TBA)
+1. [February 14, 2019 Draft Minutes](/meetings/2019/2019-02-14/minutes-draft)
 2. March 14, 2019 Draft Minutes (TBA)
 3. March 17, 2019 Draft Minutes (TBA)
 
