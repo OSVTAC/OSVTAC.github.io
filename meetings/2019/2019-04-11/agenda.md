@@ -84,6 +84,10 @@ and news reports.
 Discussion and possible action regarding digital signature recommendations
 and implementation.
 
+Agenda Packet:
+
+* Hage: [Draft info re: Digital Signatures](/files/meetings/2019/2019-04-11/packet/hage-digsig.md)
+
 
 **8\. Voting System Component Development**
 
@@ -91,11 +95,19 @@ Discussion and possible action regarding OSVTAC developing and/or
 facilitating the development of one or more voting system components as a
 proof of concept.
 
+Agenda Packet:
+
+* Demo page: <https://osvtac.github.io/osv-results-demo/>
 
 **9\. Public Contributions to OSVTAC Projects**
 
 Discussion and possible action regarding managing and accepting contributions
 from members of the public on OSVTAC Projects.
+
+Agenda Packet:
+
+* Kattouw: [CLA Page (TXT)](/files/meetings/2019/2019-04-11/packet/kattouw-cla.md)
+* Kattouw: [CLA Agreement (PDF)](/files/meetings/2019/2019-04-11/packet/kattouw-cla-agreement.pdf)
 
 
 **10\. Topics for future discussion**
