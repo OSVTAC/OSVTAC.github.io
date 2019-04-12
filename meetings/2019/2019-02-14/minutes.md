@@ -1,4 +1,4 @@
-Draft Meeting Minutes: February 14, 2019
+Meeting Minutes: February 14, 2019 (approved April 11, 2019)
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -16,7 +16,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-MEETING MINUTES (DRAFT)<br>
+MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
 Thursday, February 14, 2019<br>
@@ -164,9 +164,14 @@ could be notarized by the California Secretary of State. He said that an
 inexpensive hardware-based key could be used, using standard open source
 software methods. He committed to creating instructions on how to use the key.
 
-Member Hage discussed further legal issues related to public and private keys and suggested having simulated signatures. He added that the committee could recommend how to process and validate digital signatures.
+Member Hage discussed further legal issues related to public and private keys
+and suggested having simulated signatures. He added that the committee could
+recommend how to process and validate digital signatures.
 
-Chair Jerdonek gave suggestions on how to organize the document. He suggested adding assumptions to each section and also explaining what one gets from each recommendation. One can start from a higher level when explaining system specifications in the technical document.
+Chair Jerdonek gave suggestions on how to organize the document. He suggested
+adding assumptions to each section and also explaining what one gets from
+each recommendation. One can start from a higher level when explaining system
+specifications in the technical document.
 
 Member Hage stated that security should be part of the architectural design.
 Member Wasserman agreed, stating that security is a key component of any
