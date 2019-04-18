@@ -6,11 +6,11 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                      | Time   | Location            | Agenda* & Packet** |
 |:--------------------------|:-------|:--------------------|:-------------------|
-| Sun, April 21, 2019       | 3:00PM | SF Public Library, Martin Paley Conference Room (3rd Floor) | TBA |
+| Sun, April 21, 2019       | 3:00PM | SF Public Library, Martin Paley Conference Room (3rd Floor) | [PDF][next-agenda-pdf] / HTML (TBA) |
 
 
 [next-agenda-html]: meetings/2019/2019-04-11/agenda
-[next-agenda-pdf]: files/meetings/2019/2019-04-11/2019_04_11_OSVTAC_Agenda.pdf
+[next-agenda-pdf]: files/meetings/2019/2019-04-21/2019_04_21_OSVTAC_Agenda.pdf
 
 \*The agenda is posted at least 72 hours before the start of the meeting.
 
