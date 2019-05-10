@@ -54,9 +54,9 @@ Gerull and possible action regarding the Open Source Voting System Project:
 
 Agenda Packet:
 
-1. Community Meeting Questions (TBA)
-2. Draft Briefing (TBA)
-3. ElectionGuard Email (TBA)
+1. [Emailed Info from City CIO Gerull](/files/meetings/2019/2019-05-14/packet/OSV_Discussion_with_CIO_Docs.pdf)
+2. [OSV State of the Art Briefing (DRAFT)](/files/meetings/2019/2019-05-14/packet/OSV_State_of_the_Art_Brief_for_TAC_Review.pdf)
+   (51 pages)
 
 
 **4\. Approval of Minutes of Previous Meetings**
