@@ -57,7 +57,8 @@ Agenda Packet:
 1. [Emailed Info from City CIO Gerull](/files/meetings/2019/2019-05-14/packet/OSV_Discussion_with_CIO_Docs.pdf)
 2. [OSV State of the Art Briefing (DRAFT)](/files/meetings/2019/2019-05-14/packet/OSV_State_of_the_Art_Brief_for_TAC_Review.pdf)
    (51 pages)
-3. [Response to Questions (Member Philips)](/files/meetings/2019/2019-05-14/packet/Philips_Response_to_CIO_Questions.pdf)
+3. [Response to Questions](/files/meetings/2019/2019-05-14/packet/Philips_Response_to_CIO_Questions.pdf)
+   (Member Philips)
 
 
 **4\. Approval of Minutes of Previous Meetings**
@@ -91,6 +92,12 @@ this agenda, including but not limited to the last Elections Commission
 meeting, Department of Elections progress, research findings, conferences,
 and news reports.
 
+Agenda Packet:
+
+1. [Email from Juan Gilbert re: Transparent Interactive Printing Interface
+   (TIPI)](/files/meetings/2019/2019-05-14/packet/Juan_Gilbert_Email_re_TIPI.pdf)
+  (Chair Jerdonek)
+
 
 **7\. Voting System Component Development**
 
@@ -106,7 +113,8 @@ and implementation.
 
 Agenda Packet:
 
-1. [Suggested Changes (Member Hage)](/files/meetings/2019/2019-05-14/packet/hage-digsig.md)
+1. [Suggested Changes](/files/meetings/2019/2019-05-14/packet/hage-digsig.md)
+   (Member Hage)
 
 
 **9\. Topics for future discussion**
