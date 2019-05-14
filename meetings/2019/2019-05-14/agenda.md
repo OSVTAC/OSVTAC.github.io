@@ -57,6 +57,7 @@ Agenda Packet:
 1. [Emailed Info from City CIO Gerull](/files/meetings/2019/2019-05-14/packet/OSV_Discussion_with_CIO_Docs.pdf)
 2. [OSV State of the Art Briefing (DRAFT)](/files/meetings/2019/2019-05-14/packet/OSV_State_of_the_Art_Brief_for_TAC_Review.pdf)
    (51 pages)
+3. [Response to Questions (Member Philips)](/files/meetings/2019/2019-05-14/packet/Philips_Response_to_CIO_Questions.pdf)
 
 
 **4\. Approval of Minutes of Previous Meetings**
@@ -102,6 +103,10 @@ proof of concept.
 
 Discussion and possible action regarding digital signature recommendations
 and implementation.
+
+Agenda Packet:
+
+1. [Suggested Changes (Member Hage)](/files/meetings/2019/2019-05-14/packet/hage-digsig.md)
 
 
 **9\. Topics for future discussion**
