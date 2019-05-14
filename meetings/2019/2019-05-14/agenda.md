@@ -59,6 +59,8 @@ Agenda Packet:
    (51 pages)
 3. [Response to Questions](/files/meetings/2019/2019-05-14/packet/Philips_Response_to_CIO_Questions.pdf)
    (Member Philips)
+4. [Response to Questions](/files/meetings/2019/2019-05-14/packet/hage-20190414-gerull.pdf)
+   (Member Hage)
 
 
 **4\. Approval of Minutes of Previous Meetings**
