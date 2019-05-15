@@ -23,6 +23,7 @@ To send an email to all of the committee members, see the [About](about) page.
 
 | Meeting Date              | CH | CJ | RK | TW | BP |
 |:--------------------------|:---|:---|:---|:---|:---|
+| Tues, May 14, 2019        |  P |  P | EA |  P |  P |
 | Sun, April 21, 2019       |  P |  P |  P |  – |  – |
 | Thurs, April 11, 2019     |  P |  P |  P | EA | UA |
 | Sun, March 17, 2019       |  P |  P |  P |  – |  – |
