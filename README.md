@@ -6,7 +6,7 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                      | Time   | Location            | Agenda* & Packet** |
 |:--------------------------|:-------|:--------------------|:-------------------|
-| Tues, May 14, 2019        | 6:00PM | City Hall, Room 421 | [HTML][next-agenda-html] / [PDF][next-agenda-pdf] |
+| Thurs, June 13, 2019     | 6:00PM | City Hall, Room 421 | TBA |
 
 [next-agenda-html]: meetings/2019/2019-05-14/agenda
 [next-agenda-pdf]: files/meetings/2019/2019-05-14/2019_05_14_OSVTAC_Agenda.pdf
