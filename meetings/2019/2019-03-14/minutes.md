@@ -1,4 +1,4 @@
-Draft Meeting Minutes: March 14, 2019
+Meeting Minutes: March 14, 2019 (approved May 14, 2019)
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -16,7 +16,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-MEETING MINUTES (DRAFT)<br>
+MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
 Thursday, March 14, 2019<br>
@@ -180,12 +180,9 @@ for the pilot project.
 
 Chair Jerdonek reported that--
 
-* Member Wasserman sent a video to the OSVTAC of a talk at which he
-participated in Pasadena called the SCaLE conference (Southern California
-Linux Expo). The conference is geared toward the open source community, and
-is interested in Open Source Voting applications. SCaLE has convened a
-working group on Open Source Voting that has not yet begun to meet, but will
-meet soon and information from their first scheduled meeting will be shared.
+* Member Wasserman sent a link to a video of a talk about the Los Angeles
+County VSAP voting system at the SCaLE 17x conference (Southern California
+Linux Expo) in Pasadena.
 
 * Member Philips shared an article with the OSVTAC regarding a $10 million
 grant from the US Department of Defense’s DARPA to develop a prototype Open
