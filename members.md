@@ -12,9 +12,9 @@
 |:----------------------------------------------|:-----------|:---------------------------|:-----------------|
 | [Christopher Jerdonek](#christopher-jerdonek) | Chair      | <chris.jerdonek@sfgov.org> | May 17, 2019     |
 | [Roan Kattouw](#roan-kattouw)                 | Vice Chair | <roan.kattouw@sfgov.org>   | May 17, 2019     |
-| [Carl Hage](#carl-hage)                       |            | <carl.hage@sfgov.org>      | May 17, 2019     |
-| [Brandon Philips](#brandon-philips)           |            |                            | October 18, 2019 |
-| [Tony Wasserman](#tony-wasserman)             |            | N/A                        | May 17, 2019     |
+| [Carl Hage](#carl-hage)                       |            | <osv@carlhage.com>         | May 17, 2019     |
+| [Brandon Philips](#brandon-philips)           |            | <brandon@ifup.org>         | October 18, 2019 |
+| [Tony Wasserman](#tony-wasserman)             |            | <tony.wasserman@sfgov.org> | May 17, 2019     |
 
 To send an email to all of the committee members, see the [About](about) page.
 
