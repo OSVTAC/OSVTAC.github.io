@@ -136,8 +136,10 @@ Groningen.
 
 * Appointed October 17, 2018
 
-TBA
+Brandon Philips is a technology entrepreneur, executive, and software engineer with expertise in infrastructure software and open source software. He was the co-founder and chief technology officer of CoreOS which built open source and enterprise container infrastructure products used by organizations such as Concur, Nike, Ticketmaster, JPL, and 100s of other organizations. CoreOS was acquired by Red Hat in 2018.  He guides technical direction of cloud native technologies in the Cloud Native Computing Foundation, serving on the CNCF governing board. He served on the Technical Oversight Board of the Open Container Initiative which defines critical components of the modern container infrastructure stack. And prior to CoreOS, he worked at Rackspace building cloud monitoring products and was a Linux kernel developer at SUSE. As a graduate of Oregon State's Open Source Lab, he is passionate about open source technologies and is a member of Oregon State's Council of Outstanding Early Career Engineers.
 
+https://twitter.com/brandonphilips
+https://github.com/philips
 
 ### Tony Wasserman
 
