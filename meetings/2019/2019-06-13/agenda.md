@@ -81,6 +81,8 @@ Agenda Packet:
 
 1. [AB 1784 - Bill Text](/files/meetings/2019/2019-06-13/packet/20190AB1784_97.pdf)
 2. [AB 1784 - San Francisco Letter of Support](/files/meetings/2019/2019-06-13/packet/AB 1784 (Santiago) -- Support Letter 5.22.19.pdf)
+3. [VR Systems - Politico article](/files/meetings/2019/2019-06-13/packet/VR_Systems_Politico.pdf)
+   (Member Wasserman)
 
 
 **7\. Voting System Component Development**
