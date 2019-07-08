@@ -10,23 +10,27 @@
 
 | Name                                          | Position   | Email                      | Term Ends        |
 |:----------------------------------------------|:-----------|:---------------------------|:-----------------|
-| [Christopher Jerdonek](#christopher-jerdonek) | Chair      | <chris.jerdonek@sfgov.org> | May 17, 2019     |
-| [Roan Kattouw](#roan-kattouw)                 | Vice Chair | <roan.kattouw@sfgov.org>   | May 17, 2019     |
-| [Carl Hage](#carl-hage)                       |            | <osv@carlhage.com>         | May 17, 2019     |
-| [Brandon Philips](#brandon-philips)           |            | <brandon@ifup.org>         | October 18, 2019 |
-| [Tony Wasserman](#tony-wasserman)             |            | <tony.wasserman@sfgov.org> | May 17, 2019     |
+| [Christopher Jerdonek](#christopher-jerdonek) | Chair      | <chris.jerdonek@sfgov.org> | June 20, 2020    |
+| [Roan Kattouw](#roan-kattouw)                 | Vice Chair | <roan.kattouw@sfgov.org>   | June 20, 2020    |
+| [Carl Hage](#carl-hage)                       |            | <osv@carlhage.com>         | June 20, 2020    |
+| [Tony Wasserman](#tony-wasserman)             |            | <tony.wasserman@sfgov.org> | June 20, 2020    |
+| _Vacancy_                                     |            |                            | N/A              |
 
 To send an email to all of the committee members, see the [About](about) page.
 
 
 ## Attendance Record
 
+_(Brandon Philips (BP) departed.)_
+
 | Meeting Date              | CH | CJ | RK | TW | BP |
 |:--------------------------|:---|:---|:---|:---|:---|
+| Thurs, June 13 (TBA)      |  – |  – |  – |  – |  – |
+| Sat, June 8, 2019 (Special) (TBA)   |  – |  – |  – |  – |  – |
 | Tues, May 14, 2019        |  P |  P | EA |  P |  P |
-| Sun, April 21, 2019       |  P |  P |  P |  – |  – |
+| Sun, April 21, 2019 (Special) |  P |  P |  P |  – |  – |
 | Thurs, April 11, 2019     |  P |  P |  P | EA | UA |
-| Sun, March 17, 2019       |  P |  P |  P |  – |  – |
+| Sun, March 17, 2019 (Special) |  P |  P |  P |  – |  – |
 | Thurs, March 14, 2019     |  P |  P |  P | EA | EA |
 | Thurs, February 14, 2019  |  P |  P |  P |  P |  P |
 | Thurs, January 10, 2019   |  P |  P | EL |  P | UA |
@@ -88,6 +92,7 @@ _(Larry Bafundo (LB) departed.)_
 
 * Appointed May 17, 2017
 * Re-appointed May 16, 2018
+* Re-appointed June 19, 2019
 
 Carl Hage has been an independent consultant for more than 25 years,
 primarily working in the area of Electronic Design Automation (EDA/CAD) and
@@ -103,6 +108,7 @@ interchange, and election information data.
 
 * Appointed Chair April 19, 2017
 * Re-appointed Chair May 16, 2018
+* Re-appointed Chair June 19, 2019
 
 Christopher Jerdonek has served on the San Francisco Elections Commission
 since 2014 and served as President in 2015 and 2017. He has been active in
@@ -119,6 +125,7 @@ in mathematics from the University of California, Davis.
 
 * Appointed May 17, 2017
 * Re-appointed May 16, 2018
+* Re-appointed June 19, 2019
 
 Roan Kattouw is a professional software engineer. He has contributed to open
 source software in his free time since 2007, and professionally since 2009.
@@ -132,9 +139,34 @@ Stanford University, and a BSc in Computer Science from the University of
 Groningen.
 
 
+### Tony Wasserman
+
+* Appointed May 17, 2017
+* Re-appointed May 16, 2018
+* Re-appointed June 19, 2019
+
+Anthony I. (Tony) Wasserman is a Professor in the Software Management program
+at Carnegie Mellon University's Silicon Valley campus. His research is
+focused on evaluation and adoption of open source software. He was previously
+founder and CEO of Interactive Development Environments (IDE), creator of the
+innovative multiuser Software through Pictures development platform.
+
+Tony has a Ph.D. in computer sciences from the University of Wisconsin -
+Madison and a B.A. in mathematics and physics from the University of
+California, Berkeley. He is a Life Fellow of the IEEE and a Fellow of the
+ACM, honored for his contributions to integrated software engineering
+environments. He served on the Board of Directors of the Open Source
+Initiative (OSI) from 2010-16, and is Chair of an International Working Group
+on Open Source. More information at <http://linkedin.com/in/tonywasserman>.
+
+
+## Past Members
+
+
 ### Brandon Philips
 
 * Appointed October 17, 2018
+* Re-appointed June 19, 2019 (served until June 22, 2019)
 
 Brandon Philips is a technology entrepreneur, executive, and software
 engineer with expertise in infrastructure software and open source software.
@@ -154,29 +186,6 @@ is a member of Oregon State's Council of Outstanding Early Career Engineers.
 
 * Twitter: <https://twitter.com/brandonphilips>
 * GitHub: <https://github.com/philips>
-
-
-### Tony Wasserman
-
-* Appointed May 17, 2017
-* Re-appointed May 16, 2018
-
-Anthony I. (Tony) Wasserman is a Professor in the Software Management program
-at Carnegie Mellon University's Silicon Valley campus. His research is
-focused on evaluation and adoption of open source software. He was previously
-founder and CEO of Interactive Development Environments (IDE), creator of the
-innovative multiuser Software through Pictures development platform.
-
-Tony has a Ph.D. in computer sciences from the University of Wisconsin -
-Madison and a B.A. in mathematics and physics from the University of
-California, Berkeley. He is a Life Fellow of the IEEE and a Fellow of the
-ACM, honored for his contributions to integrated software engineering
-environments. He served on the Board of Directors of the Open Source
-Initiative (OSI) from 2010-16, and is Chair of an International Working Group
-on Open Source. More information at <http://linkedin.com/in/tonywasserman>.
-
-
-## Past Members
 
 
 ### Larry Bafundo
