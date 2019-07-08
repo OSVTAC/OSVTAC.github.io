@@ -25,17 +25,17 @@ _(Brandon Philips (BP) departed.)_
 
 | Meeting Date              | CH | CJ | RK | TW | BP |
 |:--------------------------|:---|:---|:---|:---|:---|
-| Thurs, June 13 (TBA)      |  – |  – |  – |  – |  – |
-| Sat, June 8, 2019 (Special) (TBA)   |  – |  – |  – |  – |  – |
-| Tues, May 14, 2019        |  P |  P | EA |  P |  P |
+| Thurs, June 13 (TBA)          |  – |  – |  – |  – |  – |
+| Sat, June 8, 2019 (Special) (TBA) |  – |  – |  – |  – |  – |
+| Tues, May 14, 2019            |  P |  P | EA |  P |  P |
 | Sun, April 21, 2019 (Special) |  P |  P |  P |  – |  – |
-| Thurs, April 11, 2019     |  P |  P |  P | EA | UA |
+| Thurs, April 11, 2019         |  P |  P |  P | EA | UA |
 | Sun, March 17, 2019 (Special) |  P |  P |  P |  – |  – |
-| Thurs, March 14, 2019     |  P |  P |  P | EA | EA |
-| Thurs, February 14, 2019  |  P |  P |  P |  P |  P |
-| Thurs, January 10, 2019   |  P |  P | EL |  P | UA |
-| Thurs, December 6, 2018   |  P |  P | UL |  P | EA |
-| Thurs, November 8, 2018   | EL |  P |  P |  P | EL |
+| Thurs, March 14, 2019         |  P |  P |  P | EA | EA |
+| Thurs, February 14, 2019      |  P |  P |  P |  P |  P |
+| Thurs, January 10, 2019       |  P |  P | EL |  P | UA |
+| Thurs, December 6, 2018       |  P |  P | UL |  P | EA |
+| Thurs, November 8, 2018       | EL |  P |  P |  P | EL |
 
 _(Brandon Philips (BP) joined.)_
 
