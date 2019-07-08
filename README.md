@@ -8,9 +8,11 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 |:--------------------------|:-------|:--------------------|:-------------------|
 | Sat, June 8, 2019         | 1:00PM | SF Public Library, Mary Louise Stong Conference Room (1st Floor) | [HTML][next-agenda-html] / [PDF][next-agenda-pdf] |
 | Thurs, June 13, 2019      | 6:00PM | City Hall, Room 421 | [HTML][next-agenda-html] / [PDF][next-agenda-pdf] |
+| Thurs, July 11, 2019      | 6:00PM | City Hall, Room 421 | [PDF][next-agenda-pdf-2] / HTML (TBA) |
 
 [next-agenda-html]: meetings/2019/2019-06-13/agenda
 [next-agenda-pdf]: files/meetings/2019/2019-06-13/2019_06_13_OSVTAC_Agenda.pdf
+[next-agenda-pdf-2]: files/meetings/2019/2019-07-11/2019_07_11_OSVTAC_Agenda.pdf
 
 \*The agenda is posted at least 72 hours before the start of the meeting.
 
