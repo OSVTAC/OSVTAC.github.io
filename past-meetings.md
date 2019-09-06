@@ -9,7 +9,7 @@ Audio for the meetings can also be found on the Elections Commission's
 | Date                           | Agenda & Packet* | Minutes | Audio / Video** |
 |:-------------------------------|:-----------------|:--------|:----------------|
 | August 2019 (no meeting)       | N/A  | N/A | N/A |
-| Thurs, July 11, 2019 (Special) | [HTML](meetings/2019/2019-07-11/agenda) / [PDF](files/meetings/2019/2019-07-11/2019_07_11_OSVTAC_Agenda.pdf)  | TBA | [2 hr 13 min (YT)](https://www.youtube.com/watch?v=Cr6eY9_Q4q8) |
+| Thurs, July 11, 2019 (Special) | [HTML](meetings/2019/2019-07-11/agenda) / [PDF](files/meetings/2019/2019-07-11/2019_07_11_OSVTAC_Agenda.pdf)  | TBA | [3 hr 20 min (YT)](https://www.youtube.com/watch?v=Cr6eY9_Q4q8) |
 | Thurs, June 13, 2019           | [HTML](meetings/2019/2019-06-13/agenda) / [PDF](files/meetings/2019/2019-06-13/2019_06_13_OSVTAC_Agenda.pdf)  | TBA | [1 hr 36 min (YT)](https://www.youtube.com/watch?v=ln-DOgqlTdw) |
 | Sat, June 8, 2019 (Special)    | [HTML](meetings/2019/2019-06-08/agenda) / [PDF](files/meetings/2019/2019-06-08/2019_06_08_OSVTAC_Agenda.pdf)  | TBA | [2 hr 13 min (YT)](https://www.youtube.com/watch?v=Vjrbc4I-dvw) |
 | Tues, May 14, 2019             | [HTML](meetings/2019/2019-05-14/agenda) / [PDF](files/meetings/2019/2019-05-14/2019_05_14_OSVTAC_Agenda.pdf)  | TBA | [2 hr 34 min (YT)](https://www.youtube.com/watch?v=eRk1S3S39Ws) |
