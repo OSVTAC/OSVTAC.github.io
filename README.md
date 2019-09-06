@@ -6,7 +6,7 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                           | Time   | Location            | Agenda* & Packet** |
 |:-------------------------------|:-------|:--------------------|:-------------------|
-| Thurs, July 11, 2019 (Special) | 6:00PM | City Hall, Room 421 | [HTML][next-agenda-html] / [PDF][next-agenda-pdf] |
+| Thurs, September 12, 2019      | 6:00PM | City Hall, Room 421 | TBA |
 
 [next-agenda-html]: meetings/2019/2019-07-11/agenda
 [next-agenda-pdf]: files/meetings/2019/2019-07-11/2019_07_11_OSVTAC_Agenda.pdf
