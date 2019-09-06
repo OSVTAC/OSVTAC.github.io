@@ -21,6 +21,10 @@ To send an email to all of the committee members, see the [About](about) page.
 
 ## Attendance Record
 
+| Meeting Date              | CH | CJ | RK | TW |
+|:--------------------------|:---|:---|:---|:---|
+| Thurs, July 11, 2019 (Special) (TBA) |  – |  – |  – |  – |
+
 _(Brandon Philips (BP) departed.)_
 
 | Meeting Date              | CH | CJ | RK | TW | BP |
@@ -117,7 +121,8 @@ ranked-choice voting charter amendment that passed in 2006. He has served as
 a polling place inspector in San Francisco twenty times. He works as a
 software developer by day and recently co-founded a start-up. He has
 contributed code to many open source projects including Python, pip, Django,
-Mercurial, and WebKit. He has an A.B. in mathematics from Harvard and a Ph.D.
+Mercurial, and WebKit. In 2019, he was elected a Fellow of the Python
+Software Foundation. He has an A.B. in mathematics from Harvard and a Ph.D.
 in mathematics from the University of California, Davis.
 
 
