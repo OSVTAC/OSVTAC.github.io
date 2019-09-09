@@ -6,10 +6,10 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                           | Time   | Location            | Agenda* & Packet** |
 |:-------------------------------|:-------|:--------------------|:-------------------|
-| Thurs, September 12, 2019      | 6:00PM | City Hall, Room 421 | TBA |
+| Thurs, September 12, 2019      | 6:00PM | City Hall, Room 421 | [HTML][next-agenda-html] / [PDF][next-agenda-pdf] |
 
-[next-agenda-html]: meetings/2019/2019-07-11/agenda
-[next-agenda-pdf]: files/meetings/2019/2019-07-11/2019_07_11_OSVTAC_Agenda.pdf
+[next-agenda-html]: meetings/2019/2019-09-12/agenda
+[next-agenda-pdf]: files/meetings/2019/2019-09-12/2019_09_12_OSVTAC_Agenda.pdf
 
 \*The agenda is posted at least 72 hours before the start of the meeting.
 
