@@ -68,7 +68,8 @@ Commission.
 
 Agenda Packet:
 
-* Draft OSVTAC Report #7 to the Elections Commission (TBA)
+* [Draft OSVTAC Report #7 to the Elections
+  Commission](/files/meetings/2019/2019-09-12/packet/OSVTAC_Report_07_Sep_2019_DRAFT.pdf)
 
 
 **6\. Member Reports**
@@ -77,6 +78,9 @@ Member reports on committee-related activities not covered by another item on
 this agenda, including but not limited to the last Elections Commission
 meeting, Department of Elections progress, research findings, conferences,
 and news reports.
+
+* [Emails from
+  Members](/files/meetings/2019/2019-09-12/packet/Member_Emails.pdf)
 
 
 **7\. Topics for future discussion**
