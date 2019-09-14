@@ -1,4 +1,4 @@
-Draft Meeting Minutes: July 11, 2019
+Meeting Minutes: July 11, 2019 (approved September 12, 2019)
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -15,7 +15,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-SPECIAL MEETING MINUTES (DRAFT)<br>
+SPECIAL MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
 Thursday, July 11, 2019<br>
