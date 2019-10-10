@@ -76,6 +76,10 @@ this agenda, including but not limited to the last Elections Commission
 meeting, Department of Elections progress, research findings, conferences,
 and news reports.
 
+Agenda Packet:
+
+* [Memo re: Open Source Project Links](/files/meetings/2019/2019-10-10/packet/Jerdonek_Memo_re_Open_Source_Links.pdf)
+
 
 **7\. Topics for future discussion**
 
