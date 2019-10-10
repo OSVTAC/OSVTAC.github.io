@@ -6,7 +6,7 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                           | Time   | Location            | Agenda* & Packet** |
 |:-------------------------------|:-------|:--------------------|:-------------------|
-| Thurs, October 10, 2019        | ~~6:00PM~~ 7:00PM | City Hall, Room 421 | [PDF][next-agenda-pdf] / HTML (TBA) |
+| Thurs, October 10, 2019        | ~~6:00PM~~ 7:00PM | City Hall, Room 421 | [HTML][next-agenda-html] / [PDF][next-agenda-pdf] |
 
 [next-agenda-html]: meetings/2019/2019-10-10/agenda
 [next-agenda-pdf]: files/meetings/2019/2019-10-10/2019_10_10_OSVTAC_Agenda_UPDATED.pdf
