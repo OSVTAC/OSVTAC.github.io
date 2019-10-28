@@ -6,9 +6,9 @@ Twitter account here: [@SFElectionsComm](https://twitter.com/SFElectionsComm).
 
 | Date                           | Time   | Location            | Agenda* & Packet** |
 |:-------------------------------|:-------|:--------------------|:-------------------|
-| Sun, October 27, 2019          | 3:00PM | SF Public Library, Martin Paley Conference Room (3rd Floor) | [PDF][next-agenda-pdf] / HTML (TBA) |
+| Sun, October 27, 2019          | 3:00PM | SF Public Library, Martin Paley Conference Room (3rd Floor) | [HTML][next-agenda-html] / [PDF][next-agenda-pdf] |
 
-[next-agenda-html]: meetings/2019/2019-10-10/agenda
+[next-agenda-html]: meetings/2019/2019-10-27/agenda
 [next-agenda-pdf]: files/meetings/2019/2019-10-27/2019_10_27_OSVTAC_Agenda.pdf
 
 \*The agenda is posted at least 72 hours before the start of the meeting.
