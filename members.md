@@ -21,10 +21,13 @@ To send an email to all of the committee members, see the [About](about) page.
 
 ## Attendance Record
 
-| Meeting Date                   | CH | CJ | RK | TW |
-|:-------------------------------|:---|:---|:---|:---|
-| August 2019 (no meeting)       |    |    |    |    |
-| Thurs, July 11, 2019 (Special) |  P |  P |  P |  – |
+| Meeting Date                    | CH | CJ | RK | TW |
+|:--------------------------------|:---|:---|:---|:---|
+| Sun, October 27, 2019 (Special) |  P |  P |  P |  – |
+| Thurs, October 10, 2019         |  P |  P |  P | EA |
+| Thurs, September 12, 2019       | EL |  P |  P |  P |
+| August 2019 (no meeting)        |    |    |    |    |
+| Thurs, July 11, 2019 (Special)  |  P |  P |  P |  – |
 
 _(Brandon Philips (BP) departed.)_
 
