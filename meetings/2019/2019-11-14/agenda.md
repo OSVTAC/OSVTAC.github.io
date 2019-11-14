@@ -60,7 +60,7 @@ Agenda Packet:
 
 1. May 14, 2019 Draft Minutes (TBA)
 2. June 13, 2019 Draft Minutes (TBA)
-3. September 12, 2019 Draft Minutes (TBA)
+3. [September 12, 2019 Draft Minutes](/meetings/2019/2019-09-12/minutes-draft)
 4. October 10, 2019 Draft Minutes (TBA)
 5. [October 27, 2019 Draft Minutes](/meetings/2019/2019-10-27/minutes-draft)
 
