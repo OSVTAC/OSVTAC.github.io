@@ -36,6 +36,7 @@ feedback for the next version, see the linked section of the
 ## External Links
 
 - [OSVTAC on GitHub](https://github.com/OSVTAC)
+- [San Francisco Open Source Voting Project Page](https://opensourcevoting.sfgov.org/) (Department of Technology)
 - [San Francisco Elections Commission](https://sfgov.org/electionscommission)
 - [San Francisco Department of Elections](https://www.sfelections.org)
 - [All San Francisco Open Source Projects](http://open.innovatesf.com)
