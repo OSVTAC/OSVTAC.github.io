@@ -23,6 +23,7 @@ To send an email to all of the committee members, see the [About](about) page.
 
 | Meeting Date                    | CH | CJ | RK | TW |
 |:--------------------------------|:---|:---|:---|:---|
+| Thurs, November 14, 2019        |  P |  P |  P |  P |
 | Sun, October 27, 2019 (Special) |  P |  P |  P |  – |
 | Thurs, October 10, 2019         |  P |  P |  P | EA |
 | Thurs, September 12, 2019       | EL |  P |  P |  P |
