@@ -4,10 +4,18 @@ Audio for the meetings can also be found on the Elections Commission's
 [YouTube channel][youtube-channel].
 
 
+## 2020
+
+| Date                            | Agenda & Packet* | Minutes | Audio / Video** |
+|:--------------------------------|:-----------------|:--------|:----------------|
+| Thurs, January 9, 2020          | [PDF](files/meetings/2020/2020-01-09/2020_01_09_OSVTAC_Agenda.pdf) / HTML (TBA) | TBA | TBA |
+
+
 ## 2019
 
 | Date                            | Agenda & Packet* | Minutes | Audio / Video** |
 |:--------------------------------|:-----------------|:--------|:----------------|
+| December 2019 (no meeting)      | N/A  | N/A | N/A |
 | Thurs, November 14, 2019        | [HTML](meetings/2019/2019-11-14/agenda) / [PDF](files/meetings/2019/2019-11-14/2019_11_14_OSVTAC_Agenda.pdf)  | TBA | [4 hr 44 min (YT)](https://www.youtube.com/watch?v=l4EU_DeWf6c) |
 | Sun, October 27, 2019 (Special) | [HTML](meetings/2019/2019-10-27/agenda) / [PDF](files/meetings/2019/2019-10-27/2019_10_27_OSVTAC_Agenda.pdf)  | [HTML (Draft)](meetings/2019/2019-10-27/minutes-draft) | [2 hr 43 min (YT)](https://www.youtube.com/watch?v=nuRExt0rYd0) |
 | Thurs, October 10, 2019         | [HTML](meetings/2019/2019-10-10/agenda) / [PDF](files/meetings/2019/2019-10-10/2019_10_10_OSVTAC_Agenda_UPDATED.pdf)  | TBA | [1 hr 43 min (YT)](https://www.youtube.com/watch?v=cXfNsvUcGiI) |
