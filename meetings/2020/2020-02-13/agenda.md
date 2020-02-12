@@ -1,4 +1,4 @@
-Meeting Agenda: January 9, 2020
+Meeting Agenda: February 13, 2020
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -18,7 +18,7 @@ Tony Wasserman<br>
 MEETING AGENDA<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
-Thursday, January 9, 2020<br>
+Thursday, February 13, 2020<br>
 6:00 p.m.<br>
 City Hall, Room 421<br>
 1 Dr. Carlton B. Goodlett Place<br>
@@ -40,19 +40,63 @@ Public comment on any issue within the Committee’s general jurisdiction that
 is not covered by another item on this agenda.
 
 
-**3\. Recommendations of Next Steps for the Open Source Voting Project**
+**3\. VotingWorks Presentation**
 
-Discussion and possible action regarding recommendations of next steps for
-the Open Source Voting System Project.
+Discussion and possible action regarding VotingWorks and VotingWorks's open
+source election software.
+
+Invited presenter:
+
+* Ben Adida, Executive Director, [VotingWorks](https://voting.works/)
+
+The presentation will include a demonstration of VotingWorks's election
+software and voting system components.
+
+Agenda Packet:
+
+* [Risk-Limiting Audits with Arlo](/files/meetings/2020/2020-02-13/packet/VotingWorks_RLAs_with_Arlo.pdf)
+  (PDF) [\[source\]](https://voting.works/risk-limiting-audits/)
 
 
-**4\. Approval of Minutes of Previous Meetings**
+**4\. Los Angeles County VSAP (Voting Solutions for all People)**
 
-Discussion and possible action to approve Minutes for the October 10, 2019
-and November 14, 2019 Committee meetings.
+Discussion and possible action regarding Los Angeles County's VSAP (Voting
+Solutions for all People).
+
+Agenda Packet:
+
+1. [VSAP 2.0 Consultant's Functional Testing
+   Report](/files/meetings/2020/2020-02-13/packet/LA_County_VSAP_20_Consultant_Functional_Test_Report.pdf)
+   (PDF)
+   [\[source\]](https://www.sos.ca.gov/elections/ovsta/voting-technology-vendors/los-angeles-county-vsap/)
+2. [CA Secretary of State Certification](/files/meetings/2020/2020-02-13/packet/CA_SoS_VSAP_20_Certification.pdf)
+   (PDF)
+   [\[source\]](https://www.sos.ca.gov/elections/ovsta/voting-technology-vendors/los-angeles-county-vsap/)
+3. [CA Secretary of State Press
+   Release](/files/meetings/2020/2020-02-13/packet/CA_SoS_Press_Release_re_LA_County_VSAP_20.pdf)
+   (PDF)
+   [\[source\]](https://www.sos.ca.gov/administration/news-releases-and-advisories/2020-news-releases-and-advisories/ap20009-secretary-state-alex-padilla-conditionally-certifies-los-angeles-county-vsap-system/)
 
 
-**5\. Administration**
+**5\. San Francisco's Open Source Voting Project**
+
+Discussion and possible action regarding San Francisco's Open Source Voting
+System Project.
+
+Agenda Packet:
+
+* [Open Letter from OSES (Open Source Election
+  Systems)](/files/meetings/2020/2020-02-13/packet/OSES_Letter_Jan_13_2020.pdf)
+  (PDF)
+
+
+**6\. Approval of Minutes of Previous Meetings**
+
+Discussion and possible action to approve Minutes for the October 10, 2019;
+November 14, 2019; and January 9, 2020 Committee meetings.
+
+
+**7\. Administration**
 
 Discussion and possible action regarding administrative issues including but
 not limited to attendance at Elections Commission meetings by Committee
@@ -60,7 +104,7 @@ members, the Committee's website, and the Committee’s written reports to the
 Commission.
 
 
-**6\. Member Reports**
+**8\. Member Reports**
 
 Member reports on committee-related activities not covered by another item on
 this agenda, including but not limited to the last Elections Commission
@@ -68,14 +112,14 @@ meeting, Department of Elections progress, research findings, conferences,
 and news reports.
 
 
-**7\. Topics for future discussion**
+**9\. Topics for future discussion**
 
 Discussion and possible action regarding topics for future discussion.
 
 
 _Attendance for the remainder of the meeting will be optional for committee members._
 
-**9\. Voting System Component Development**
+**10\. Voting System Component Development**
 
 Discussion and possible action regarding OSVTAC developing and/or
 facilitating the development of one or more voting system components as a
