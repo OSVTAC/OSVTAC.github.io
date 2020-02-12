@@ -2,6 +2,10 @@
 
 ## Statements
 
+* January 13, 2020 [“Recommendations of Next Steps for the Open Source Voting
+  System
+  Project”](files/communications/2020/OSVTAC_Next_Step_Recommendations_Jan_9_2
+  020.pdf) (PDF)
 * September 18, 2018 [“Statement on Project Manager
   Hiring”](files/communications/OSVTAC_re_Project_Manager_Hiring_Sept_18_2018.pdf)
   (PDF)
