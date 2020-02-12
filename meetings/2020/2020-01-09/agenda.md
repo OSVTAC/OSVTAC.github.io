@@ -1,4 +1,4 @@
-Meeting Agenda: November 14, 2019
+Meeting Agenda: January 9, 2020
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -17,7 +17,7 @@ Tony Wasserman<br>
 MEETING AGENDA<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
-Thursday, November 14, 2019<br>
+Thursday, January 9, 2020<br>
 6:00 p.m.<br>
 City Hall, Room 421<br>
 1 Dr. Carlton B. Goodlett Place<br>
@@ -39,30 +39,16 @@ Public comment on any issue within the Committee’s general jurisdiction that
 is not covered by another item on this agenda.
 
 
-**3\. Open Source Voting Project Plan**
+**3\. Recommendations of Next Steps for the Open Source Voting Project**
 
-Discussion and possible action regarding the plan for the Open Source Voting
-System Project.
-
-Agenda Packet:
-
-* [Open Source Voting Project Page](https://opensourcevoting.sfgov.org/)
-  (Department of Technology)
+Discussion and possible action regarding recommendations of next steps for
+the Open Source Voting System Project.
 
 
 **4\. Approval of Minutes of Previous Meetings**
 
-Discussion and possible action to approve Minutes for the May 14, 2019;
-June 13, 2019; September 12, 2019; October 10, 2019; and October 27, 2019
-Committee meetings.
-
-Agenda Packet:
-
-1. [May 14, 2019 Draft Minutes](/meetings/2019/2019-05-14/minutes-draft)
-2. [June 13, 2019 Draft Minutes](/meetings/2019/2019-06-13/minutes-draft)
-3. [September 12, 2019 Draft Minutes](/meetings/2019/2019-09-12/minutes-draft)
-4. October 10, 2019 Draft Minutes (TBA)
-5. [October 27, 2019 Draft Minutes](/meetings/2019/2019-10-27/minutes-draft)
+Discussion and possible action to approve Minutes for the October 10, 2019
+and November 14, 2019 Committee meetings.
 
 
 **5\. Administration**
@@ -73,29 +59,15 @@ members, the Committee's website, and the Committee’s written reports to the
 Commission.
 
 
-**6\. November 5, 2019 Consolidated Municipal Election**
-
-Discussion and possible action regarding the November 5, 2019 Consolidated
-Municipal Election.
-
-
-**7\. Member Reports**
+**6\. Member Reports**
 
 Member reports on committee-related activities not covered by another item on
 this agenda, including but not limited to the last Elections Commission
 meeting, Department of Elections progress, research findings, conferences,
 and news reports.
 
-Agenda Packet:
 
-* [ProPublica article
-  (PDF)](/files/meetings/2019/2019-11-14/packet/ProPublica_Way_America_Votes.pdf),
-  "The Way America Votes Is Broken. In One Rural County, a
-  Nonprofit Showed a Way Forward" (from Member Kattouw). [\[Direct
-  Link\]](https://www.propublica.org/article/the-way-america-votes-is-broken-in-one-rural-county-a-nonprofit-showed-a-way-forward)
-
-
-**8\. Topics for future discussion**
+**7\. Topics for future discussion**
 
 Discussion and possible action regarding topics for future discussion.
 

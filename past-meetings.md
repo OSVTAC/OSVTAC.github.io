@@ -8,7 +8,7 @@ Audio for the meetings can also be found on the Elections Commission's
 
 | Date                            | Agenda & Packet* | Minutes | Audio / Video** |
 |:--------------------------------|:-----------------|:--------|:----------------|
-| Thurs, January 9, 2020          | [PDF](files/meetings/2020/2020-01-09/2020_01_09_OSVTAC_Agenda.pdf) / HTML (TBA) | TBA | TBA |
+| Thurs, January 9, 2020          | [HTML](meetings/2020/2020-01-09/agenda) / [PDF](files/meetings/2020/2020-01-09/2020_01_09_OSVTAC_Agenda.pdf) | TBA | TBA |
 
 
 ## 2019
