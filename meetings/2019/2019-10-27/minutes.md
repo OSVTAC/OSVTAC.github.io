@@ -1,4 +1,4 @@
-Draft Meeting Minutes: October 27, 2019
+Meeting Minutes: October 27, 2019 (approved November 14, 2019)
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -14,7 +14,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-SPECIAL MEETING MINUTES (DRAFT)<br>
+SPECIAL MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
 Sunday, October 27, 2019<br>
@@ -57,8 +57,8 @@ incorporating the approval threshold and putting a red check mark next
 to "No" if the measure or proposition didn't pass.
 
 Chair Jerdonek worked on making the GitHub repository for the demo site
-automatically build the results pages and push the resulting HTML to
-GitHub Pages whenever new commits are pushed to the repository
+automatically build the results pages and publish the updated version to
+the website whenever new commits are pushed to the repository
 ([issue #5](https://github.com/OSVTAC/osv-results-demo/issues/5) in the
 repository's issue tracker).
 

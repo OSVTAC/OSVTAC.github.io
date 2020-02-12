@@ -245,7 +245,7 @@ Francisco and include budget and legislative topics.
 
 Member Wasserman attended a California Clean Money event in the Mission
 District on Saturday, May 10, which collected a number of petitions for AB
-1784. Speakers included State Senator Scott Wiener, Assemblymember David
+1784\. Speakers included State Senator Scott Wiener, Assemblymember David
 Chiu, Board of Equalization Member Malia Cohen, and District 6 Supervisor Matt
 Haney, among others.
 

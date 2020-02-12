@@ -1,4 +1,4 @@
-Draft Meeting Minutes: September 12, 2019
+Meeting Minutes: September 12, 2019 (approved November 14, 2019)
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -14,7 +14,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-MEETING MINUTES (DRAFT)<br>
+MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
 Thursday, September 12, 2019<br>
@@ -64,7 +64,7 @@ April 21, 2019 and June 8, special meetings of the OSVTAC. The motion carried
 unanimously.
 
 Chair Jerdonek noted that the OSVTAC would have to produce the minutes from
-previous meetings since we no longer had a Secretary. Chair Jerdonek
+previous meetings since the committee no longer had a Secretary. Chair Jerdonek
 volunteered to prepare the minutes of the May 14, 2019 OSVTAC meeting. Member
 Kattouw volunteered to prepare the minutes of the June 13, 2019 OSVTAC
 meeting, and Member Wasserman agreed to prepare the minutes of the September
@@ -85,7 +85,7 @@ Commission was due, and that he had created an outline for it. The OSVTAC
 then worked to fill in the contents of the report. Items included information
 on presentations by Member Wasserman on the Open Source Voting Project at two
 open source conferences, a set of security recommendations prepared by Member
-Hage addressing iimplementation of digital signatures, and Member Kattouw's
+Hage addressing implementation of digital signatures, and Member Kattouw's
 report on AB 1784 regarding the status of State matching funds for open
 source voting, which was not included in this year's State budget. The report
 also included a summary of Director Gerull's presentation at the May 14,
@@ -129,7 +129,8 @@ Netherlands for which the source code had been published, and included links
 to the code and the related documentation. The code, however, was copyrighted
 by the firm that did the implementation, so it is not available under an open
 source license. Much of the report was written in Dutch, so Member Kattouw
-provided further explanation.
+provided further explanation, pointing out that the software only manages
+results aggregation.
 
 Public comment: Mr. Tim Fong added a comment.
 
@@ -140,11 +141,11 @@ Member Kattouw suggested that we might want to run the ORR prototype software
 on the upcoming November, 2019, election.
 
 Chair Jerdonek noted that the committee should return to its work on
-recommendations. In particular, we should address the topic of governance,
+recommendations. In particular, the TAC should address the topic of governance,
 continuing the work started by Brandon Phillips when he was a member of the
-Committee./p>
+Committee.
 
-Chair Jerdonek also suggested that we could continue our work related to a
+Chair Jerdonek also suggested that the TAC could continue our work related to a
 Contributor License Agreement, which will be needed to support the Voting
 System project.
 

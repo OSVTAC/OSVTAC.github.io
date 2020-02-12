@@ -1,4 +1,4 @@
-Draft Meeting Minutes: June 13, 2019
+Meeting Minutes: June 13, 2019 (approved November 14, 2019)
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -16,7 +16,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-MEETING MINUTES (DRAFT)<br>
+MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
 Thursday, June 13, 2019<br>
@@ -100,15 +100,15 @@ The motion passed. Ayes: 4 (Jerdonek, Kattouw, Hage, Wasserman); Noes: 0
 Member Kattouw agreed to prepare the corrected report in time for it to be
 part of the agenda packet for the next Elections Commission meeting.
 
-Chair Jerdonek clarified that, at the last meeting when he talked about SCaLE
-setting up a committee to work on open source at the last meeting, he was
-referring to Los Angeles County starting a new advisory committee to advise
-them on open source.
+Chair Jerdonek corrected a statement he had made at the last meeting. He had
+said that SCaLE was going to set up a committee to work on open source, but
+he meant to say that Los Angeles County is starting a new advisory committee
+to advise them on open source.
 
 Chair Jerdonek reported that he had merged Member Kattouw's changes to the
 recommendations document and the CLA. He said links should be added to the
 CLA on the web site and from every project. Member Kattouw offered to propose
-something next at the next meeting.
+something at the next meeting.
 
 Chair Jerdonek reported that there would be an agenda item to reappoint the
 OSVTAC's members at the next Elections Commission meeting.
@@ -158,9 +158,7 @@ is set yet for his presentation, but it will be around August 22nd in San
 Diego. Member Wasserman said he was planning to build on Chair Jerdonek's and
 Member Kattouw's presentation materials, but that for this audience he wanted
 to focus on the political, economic and social issues around doing open
-source in a government setting. Member Kattouw said he would send Member
-Wasserman his slides, which are based on Chair Jerdonek's earlier slides.
-Chair Jerdonek suggested mentioning AB1784.
+source in a government setting.
 
 Committee members offered to vote to authorize Member Wasserman to speak on
 behalf of OSVTAC, but Member Wasserman declined.
@@ -175,8 +173,8 @@ Chair Jerdonek reported that the TAC had a productive working meeting on June
 Member Kattouw attended.
 
 Member Hage reported that Member Kattouw had sent him a link to his branch
-with changes to add turnout information and asked for help. He found that the
-software doesn't load the summary data for turnout correctly, and said he
+with changes to add turnout information and had asked for help. He found that
+the software doesn't load the summary data for turnout correctly, and said he
 would work on fixing that, so that Member Kattouw can add turnout information
 to the results reporter output.
 
@@ -238,8 +236,8 @@ Member Kattouw pointed out a Markdown syntax error in section X.6, and said
 the section about log files was confusingly written. He suggested language
 that he thought would be clearer.
 
-Chair Jerdonek suggested clarifiying that git is a version control system
-(VCS) the first time it's referred to.
+Chair Jerdonek suggested clarifying that git is a version control system
+(VCS) the first time it's referenced.
 
 Member Hage said the document doesn't address authentication, but that's a
 separate topic and should not be added to this document.
@@ -252,7 +250,7 @@ in the missing sections, then bring this document back to the TAC for a vote.
 
 Chair Jerdonek suggested discussing the public collaboration aspect that he
 mentioned during item 7, and discussing digital signatures again. He also
-suggested discussing long-terms project governance.
+suggested discussing long-term project governance.
 
 Member Wasserman suggested discussing public feedback that would come out of
 upcoming presentations about the project.

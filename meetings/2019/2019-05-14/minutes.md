@@ -1,4 +1,4 @@
-Draft Meeting Minutes: May 14, 2019
+Meeting Minutes: May 14, 2019 (approved November 14, 2019)
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -16,7 +16,7 @@ Tony Wasserman<br>
 </div>
 
 <div id="meeting_header_main" class="headered">
-MEETING MINUTES (DRAFT)<br>
+MEETING MINUTES<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
 Tuesday, May 14, 2019<br>
@@ -86,7 +86,7 @@ Member Wasserman asked if the meeting would cover what the project manager
 does, as well as the roadmap for the future. Director Gerull replied that the
 community meeting is more for the 10,000-foot view.
 
-Wasserman Wasserman said that if the topic is raised at the first meeting,
+Member Wasserman said that if the topic is raised at the first meeting,
 the second meeting could say how it will be addressed.
 
 Director Gerull said that for buy-in and advocacy, when they did a similar
@@ -146,7 +146,8 @@ that DT and the Department of Elections (DOE) have done their due diligence,
 and it can begin to frame how interactions will take place between potential
 project partners and the City and County of San Francisco.
 
-Member Wasserman commended DT and Director Gerull for a comprehensive report.
+Member Wasserman commended DT and Director Gerull for a comprehensive study
+of other systems.
 
 Member Hage commented on the list on page 7. He said that one of the open
 source projects missing is Prime III (aka the "One for All" System). He
@@ -239,13 +240,13 @@ Public comment: None.
 **6\. Member Reports**
 
 Member Wasserman reported that he would be presenting at OSCON in July and at
-the Open Source Conference of America in August on the topic of open source
-voting in San Francisco. He will present on the history of the project in San
-Francisco and include budget and legislative topics.
+the Open Source Summit North America conference in August on the topic of
+open source voting in San Francisco. He will present on the history of the
+project in San Francisco and include budget and legislative topics.
 
 Member Wasserman attended a California Clean Money event in the Mission
 District on Saturday, May 10, which collected a number of petitions for AB
-1784. Speakers included State Senator Scott Wiener, Assemblymember David
+1784\. Speakers included State Senator Scott Wiener, Assemblymember David
 Chiu, Board of Equalization Member Malia Cohen, and District 6 Supervisor Matt
 Haney, among others.
 
