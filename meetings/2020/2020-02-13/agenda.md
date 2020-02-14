@@ -76,6 +76,8 @@ Agenda Packet:
    Release](/files/meetings/2020/2020-02-13/packet/CA_SoS_Press_Release_re_LA_County_VSAP_20.pdf)
    (PDF)
    [\[source\]](https://www.sos.ca.gov/administration/news-releases-and-advisories/2020-news-releases-and-advisories/ap20009-secretary-state-alex-padilla-conditionally-certifies-los-angeles-county-vsap-system/)
+4. [VSAP links](/meetings/2020/2020-02-13/packet/vsap-links)
+   (compiled by Member Hage)
 
 
 **5\. San Francisco's Open Source Voting Project**
