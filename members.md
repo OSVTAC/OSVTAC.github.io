@@ -23,6 +23,9 @@ To send an email to all of the committee members, see the [About](about) page.
 
 | Meeting Date                    | CH | CJ | RK | TW |
 |:--------------------------------|:---|:---|:---|:---|
+| Thurs, February 13, 2020        |  P |  P |  P |  P |
+| Thurs, January 9, 2020 (TBA)    |    |    |    |    |
+| December 2019 (no meeting)      |    |    |    |    |
 | Thurs, November 14, 2019        |  P |  P |  P |  P |
 | Sun, October 27, 2019 (Special) |  P |  P |  P |  – |
 | Thurs, October 10, 2019         |  P |  P |  P | EA |
