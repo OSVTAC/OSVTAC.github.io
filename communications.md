@@ -2,6 +2,9 @@
 
 ## Statements
 
+* February 18, 2020 [“Recommendation re: Arlo open source risk-limiting audit
+  (RLA) software”](files/communications/2020/OSVTAC_Arlo_RLA_Software_Feb_18_2020.pdf)
+  (PDF)
 * January 13, 2020 [“Recommendations of Next Steps for the Open Source Voting
   System
   Project”](files/communications/2020/OSVTAC_Next_Step_Recommendations_Jan_9_2
