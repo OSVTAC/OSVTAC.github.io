@@ -62,11 +62,46 @@ Agenda Packet:
 Discussion and possible action regarding Los Angeles County's VSAP (Voting
 Solutions for all People).
 
+Agenda Packet:
+
+1. LA Times, ["L.A. County supervisors want answers to widespread voting
+   problems"](/files/meetings/2020/2020-03-12/packet/LA_Times_VSAP_March_4_2020.pdf)
+   (PDF), March 4, 2020.
+   [\[source\]](https://www.latimes.com/california/story/2020-03-04/los-angeles-county-supervisors-demand-answers-voting-problems-lines)
+2. LA Times, ["California officials demand changes to L.A. voting after election day
+   chaos"](/files/meetings/2020/2020-03-12/packet/LA_Times_VSAP_March_5_2020.pdf)
+   (PDF), March 5, 2020.
+   [\[source\]](https://www.latimes.com/california/story/2020-03-05/california-officials-demand-changes-los-angeles-voting-election-day-chaos)
+3. NY Times, ["Long Waits Frustrate Los Angeles
+   Voters"](/files/meetings/2020/2020-03-12/packet/NY_Times_VSAP_March_3_2020.pdf)
+   (PDF), March 4, 2020.
+   [\[source\]](https://www.nytimes.com/2020/03/03/us/california-los-angeles-voting.html)
+4. Washington Post, ["Los Angeles County’s bold effort to improve
+   voting leads to malfunctioning equipment, long lines and angry
+   voters"](/files/meetings/2020/2020-03-12/packet/Wash_Post_VSAP_March_4_2020.pdf)
+   (PDF), March 4, 2020.
+   [\[source\]](https://www.washingtonpost.com/investigations/los-angeles-countys-bold-effort-to-improve-voting-leads-to-malfunctioning-equipment-long-lines-and-angry-voters/2020/03/04/40956414-5e2b-11ea-b29b-9db42f7803a7_story.html)
+
 
 **5\. San Francisco's Open Source Voting Project**
 
 Discussion and possible action regarding San Francisco's Open Source Voting
 System Project.
+
+Agenda Packet:
+
+1. [DT OSV COIT Budget
+   Request](/files/meetings/2020/2020-03-12/packet/DT_OSV_COIT_Budget_Request_Feb_2020.pdf)
+   (PDF)
+2. [DT OSV "State of the Art"
+   Slides](/files/meetings/2020/2020-03-12/packet/DT_State_of_Art_Slides_Feb_2020.pdf)
+   (PDF)
+3. [DT OSV "State of the Art"
+   Report](/files/meetings/2020/2020-03-12/packet/DT_OSV_State_of_Art_Briefing_Feb_2020.pdf)
+   (PDF)
+4. [DT Response to TAC
+   Recommendations](/files/meetings/2020/2020-03-12/packet/DT_Response_to_TAC_Recs_Feb_2020.pdf)
+   (PDF)
 
 
 **6\. Approval of Minutes of Previous Meetings**
