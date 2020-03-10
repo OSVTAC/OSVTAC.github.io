@@ -110,6 +110,10 @@ Discussion and possible action to approve Minutes for the October 10, 2019;
 November 14, 2019; January 9, 2020, February 13, 2020; and February 28, 2020
 Committee meetings.
 
+Agenda Packet:
+
+1. [Draft February 28, 2020 Minutes](/meetings/2020/2020-02-28/minutes-draft)
+
 
 **7\. Administration**
 
