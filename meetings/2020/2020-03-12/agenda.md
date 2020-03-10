@@ -1,4 +1,4 @@
-Meeting Agenda: February 13, 2020
+Meeting Agenda: March 12, 2020
 
 <div id="meeting_header_right" class="headered">
 Elections Commission<br>
@@ -17,7 +17,7 @@ Tony Wasserman<br>
 MEETING AGENDA<br>
 Open Source Voting System Technical Advisory Committee (OSVTAC)<br>
 of the San Francisco Elections Commission<br>
-Thursday, February 13, 2020<br>
+Thursday, March 12, 2020<br>
 6:00 p.m.<br>
 City Hall, Room 421<br>
 1 Dr. Carlton B. Goodlett Place<br>
@@ -39,22 +39,22 @@ Public comment on any issue within the Committee’s general jurisdiction that
 is not covered by another item on this agenda.
 
 
-**3\. VotingWorks Presentation**
+**3\. Open Source Election Systems (OSES)**
 
-Discussion and possible action regarding VotingWorks and VotingWorks's open
-source election software.
+Discussion and possible action regarding Open Source Election Systems (OSES)
+and their approach to funding the development of an open source voting system.
 
-Invited presenter:
+OSVTAC will discuss with members of OSES via videoconference:
 
-* Ben Adida, Executive Director, [VotingWorks](https://voting.works/)
-
-The presentation will include a demonstration of VotingWorks's election
-software and voting system components.
+* Brian J. Fox
+* David Henkel-Wallace
+* Alex Kehaya
 
 Agenda Packet:
 
-* [Risk-Limiting Audits with Arlo](/files/meetings/2020/2020-02-13/packet/VotingWorks_RLAs_with_Arlo.pdf)
-  (PDF) [\[source\]](https://voting.works/risk-limiting-audits/)
+* [Open Letter from OSES (Open Source Election
+  Systems)](/files/meetings/2020/2020-03-12/packet/OSES_Letter_Jan_13_2020.pdf)
+  (PDF)
 
 
 **4\. Los Angeles County VSAP (Voting Solutions for all People)**
@@ -62,39 +62,18 @@ Agenda Packet:
 Discussion and possible action regarding Los Angeles County's VSAP (Voting
 Solutions for all People).
 
-Agenda Packet:
-
-1. [VSAP 2.0 Consultant's Functional Testing
-   Report](/files/meetings/2020/2020-02-13/packet/LA_County_VSAP_20_Consultant_Functional_Test_Report.pdf)
-   (PDF)
-   [\[source\]](https://www.sos.ca.gov/elections/ovsta/voting-technology-vendors/los-angeles-county-vsap/)
-2. [CA Secretary of State Certification](/files/meetings/2020/2020-02-13/packet/CA_SoS_VSAP_20_Certification.pdf)
-   (PDF)
-   [\[source\]](https://www.sos.ca.gov/elections/ovsta/voting-technology-vendors/los-angeles-county-vsap/)
-3. [CA Secretary of State Press
-   Release](/files/meetings/2020/2020-02-13/packet/CA_SoS_Press_Release_re_LA_County_VSAP_20.pdf)
-   (PDF)
-   [\[source\]](https://www.sos.ca.gov/administration/news-releases-and-advisories/2020-news-releases-and-advisories/ap20009-secretary-state-alex-padilla-conditionally-certifies-los-angeles-county-vsap-system/)
-4. [VSAP links](/meetings/2020/2020-02-13/packet/vsap-links)
-   (compiled by Member Hage)
-
 
 **5\. San Francisco's Open Source Voting Project**
 
 Discussion and possible action regarding San Francisco's Open Source Voting
 System Project.
 
-Agenda Packet:
-
-* [Open Letter from OSES (Open Source Election
-  Systems)](/files/meetings/2020/2020-02-13/packet/OSES_Letter_Jan_13_2020.pdf)
-  (PDF)
-
 
 **6\. Approval of Minutes of Previous Meetings**
 
 Discussion and possible action to approve Minutes for the October 10, 2019;
-November 14, 2019; and January 9, 2020 Committee meetings.
+November 14, 2019; January 9, 2020, February 13, 2020; and February 28, 2020
+Committee meetings.
 
 
 **7\. Administration**
