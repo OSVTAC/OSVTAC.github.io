@@ -9,7 +9,7 @@ Audio for the meetings can also be found on the Elections Commission's
 | Date                            | Agenda & Packet* | Minutes | Audio / Video** |
 |:--------------------------------|:-----------------|:--------|:----------------|
 | Fri, February 28, 2020          | [HTML](meetings/2020/2020-02-28/agenda) / [PDF](files/meetings/2020/2020-02-28/2020_02_28_OSVTAC_Agenda.pdf) | [HTML (Draft)](meetings/2020/2020-02-28/minutes-draft) | [2 hr 20 min (YT)](https://www.youtube.com/watch?v=ttuIfFPg94E) |
-| Thurs, February 13, 2020        | [HTML](meetings/2020/2020-02-13/agenda) / [PDF](files/meetings/2020/2020-02-13/2020_02_13_OSVTAC_Agenda.pdf) | TBA | [3 hr 19 min (YT)](https://www.youtube.com/watch?v=beEoKDYKaHY) |
+| Thurs, February 13, 2020        | [HTML](meetings/2020/2020-02-13/agenda) / [PDF](files/meetings/2020/2020-02-13/2020_02_13_OSVTAC_Agenda.pdf) | [HTML (Draft)](meetings/2020/2020-02-13/minutes-draft) | [3 hr 19 min (YT)](https://www.youtube.com/watch?v=beEoKDYKaHY) |
 | Thurs, January 9, 2020          | [HTML](meetings/2020/2020-01-09/agenda) / [PDF](files/meetings/2020/2020-01-09/2020_01_09_OSVTAC_Agenda.pdf) | TBA | [3 hr 6 min (YT)](https://www.youtube.com/watch?v=p2E8jXtyO5I) |
 
 

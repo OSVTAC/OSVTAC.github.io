@@ -112,7 +112,8 @@ Committee meetings.
 
 Agenda Packet:
 
-1. [Draft February 28, 2020 Minutes](/meetings/2020/2020-02-28/minutes-draft)
+1. [Draft February 13, 2020 Minutes](/meetings/2020/2020-02-13/minutes-draft)
+2. [Draft February 28, 2020 Minutes](/meetings/2020/2020-02-28/minutes-draft)
 
 
 **7\. Administration**
