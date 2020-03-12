@@ -123,6 +123,10 @@ not limited to attendance at Elections Commission meetings by Committee
 members, the Committee's website, and the Committee’s written reports to the
 Commission.
 
+Agenda Packet:
+
+* [Draft OSVTAC Report #8](/files/meetings/2020/2020-03-12/packet/OSVTAC_report_January_2020_DRAFT.pdf)
+
 
 **8\. Member Reports**
 
